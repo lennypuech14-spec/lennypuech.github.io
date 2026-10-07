@@ -1,5 +1,270 @@
 {
-  "maj": "2026-10-07T16:11:18.904366+00:00",
+  "maj": "2026-10-07T20:02:03.125431+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
-  "articles": []
+  "articles": [
+    {
+      "titre": "Ransomware has a new target. Is your backup ready?",
+      "lien": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "resume": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
+      "date": "2026-10-07T10:01:11-04:00",
+      "source": "BleepingComputer",
+      "score": 13
+    },
+    {
+      "titre": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "lien": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "resume": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacke",
+      "date": "2026-10-07T13:48:45+00:00",
+      "source": "Krebs on Security",
+      "score": 2
+    },
+    {
+      "titre": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
+      "lien": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
+      "resume": "The individual was detained in May and has been extradited to Germany to face hacking charges. The post Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany appeared first on SecurityWeek .",
+      "date": "2026-10-07T13:47:12+00:00",
+      "source": "SecurityWeek",
+      "score": 7
+    },
+    {
+      "titre": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "resume": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+      "date": "2026-10-07T08:49:01-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Advantest Discloses Data Breach Months After Ransomware Attack",
+      "lien": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
+      "resume": "The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on SecurityWeek .",
+      "date": "2026-10-07T12:37:24+00:00",
+      "source": "SecurityWeek",
+      "score": 8
+    },
+    {
+      "titre": "Qilin : le Japon remet un suspect à l’Allemagne",
+      "lien": "https://www.zataz.com/qilin-le-japon-remet-un-suspect-a-lallemagne/",
+      "resume": "Le Japon remet à l’Allemagne un Russe de 28 ans soupçonné d’un rôle central dans le groupe de rançongiciel Qilin.",
+      "date": "2026-10-07T12:15:38+00:00",
+      "source": "ZATAZ",
+      "score": 5
+    },
+    {
+      "titre": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "lien": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "resume": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN)",
+      "date": "2026-10-07T17:26:56+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "FLOCKER relance son programme de rançongiciel",
+      "lien": "https://www.zataz.com/flocker-relance-son-programme-de-rancongiciel/",
+      "resume": "Aprés sa disparition, le pirate FLOCKER recherche des affiliés via son outil revendiqué pour Windows, Linux et macOS.",
+      "date": "2026-10-07T11:16:42+00:00",
+      "source": "ZATAZ",
+      "score": 3
+    },
+    {
+      "titre": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks",
+      "lien": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
+      "resume": "Tens of thousands more victims and more ransomware groups getting in on the act",
+      "date": "2026-10-07T12:52:09+02:00",
+      "source": "The Register (sécurité)",
+      "score": 5
+    },
+    {
+      "titre": "Advantest confirms personal information stolen in ransomware attack",
+      "lien": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "resume": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+      "date": "2026-10-07T06:27:52-04:00",
+      "source": "BleepingComputer",
+      "score": 5
+    },
+    {
+      "titre": "ASOS Confirms Cyberattack, Data Breach",
+      "lien": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
+      "resume": "Hackers compromised a third-party communication platform and sent rogue notifications to ASOS users. The post ASOS Confirms Cyberattack, Data Breach appeared first on SecurityWeek .",
+      "date": "2026-10-07T09:46:20+00:00",
+      "source": "SecurityWeek",
+      "score": 3
+    },
+    {
+      "titre": "Multiples vulnérabilités dans les produits Veeam (07 octobre 2026)",
+      "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1278/",
+      "resume": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+      "date": "2026-10-07T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 3
+    },
+    {
+      "titre": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+      "lien": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+      "resume": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
+      "date": "2026-10-06T13:34:59-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "How to secure RMM software: 8 controls MSPs should test",
+      "lien": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+      "resume": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [",
+      "date": "2026-10-06T10:00:10-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+      "lien": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+      "resume": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system. \"W",
+      "date": "2026-10-05T21:51:52+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+      "lien": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+      "resume": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. There are actively exploited bugs in the mix, cleaner intrusio",
+      "date": "2026-10-05T19:50:43+05:30",
+      "source": "The Hacker News",
+      "score": 5
+    },
+    {
+      "titre": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+      "lien": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+      "resume": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use of a weak pseudo-random number ",
+      "date": "2026-10-05T13:39:23+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+      "lien": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+      "resume": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a ",
+      "date": "2026-10-05T12:10:19+05:30",
+      "source": "The Hacker News",
+      "score": 3
+    },
+    {
+      "titre": "Vulnérabilité dans Citrix NetScaler ADC et Gateway (05 octobre 2026)",
+      "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1263/",
+      "resume": "Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. Elle permet à un attaquant de provoquer un déni de service à distance. La CISA indique que la vulnérabilité CVE-2026-88779 est activement exploitée.",
+      "date": "2026-10-05T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 2
+    },
+    {
+      "titre": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "lien": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "resume": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif ‌al-Din Khader, is said to have b",
+      "date": "2026-10-04T12:52:05+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "lien": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "resume": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Ca",
+      "date": "2026-10-03T20:06:33+05:30",
+      "source": "The Hacker News",
+      "score": 5
+    },
+    {
+      "titre": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+      "lien": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-104286",
+      "date": "2026-10-02T11:19:50+05:30",
+      "source": "The Hacker News",
+      "score": 3
+    },
+    {
+      "titre": "Multiples vulnérabilités dans les produits VMware (02 octobre 2026)",
+      "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1249/",
+      "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "date": "2026-10-02T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 2
+    },
+    {
+      "titre": "Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)",
+      "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/",
+      "resume": "Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2026-104286 est activement exploitée. Des indicateurs de compromission sont disponibles dans ",
+      "date": "2026-10-02T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 2
+    },
+    {
+      "titre": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "lien": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "resume": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid. The 16-year-old was one of 3 people arrested on ",
+      "date": "2026-10-01T22:25:57+05:30",
+      "source": "The Hacker News",
+      "score": 5
+    },
+    {
+      "titre": "England's schools are getting better at mopping up cyber incidents",
+      "lien": "https://www.theregister.com/security/2026/10/01/englands-schools-are-getting-better-at-mopping-up-cyber-incidents/5300465",
+      "resume": "Two-thirds report immediate recovery, although teachers remain divided over whose job security is",
+      "date": "2026-10-01T13:40:13+02:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "Vulnérabilité dans Cisco Catalyst SD-WAN (01 octobre 2026)",
+      "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1246/",
+      "resume": "Une vulnérabilité a été découverte dans Cisco Catalyst SD-WAN. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2026-76504 est activement exploitée.",
+      "date": "2026-10-01T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 2
+    },
+    {
+      "titre": "Multiples vulnérabilités dans GitLab (30 septembre 2026)",
+      "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1242/",
+      "resume": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité. Gitlab indique que la vulnérabilité CVE-2026-85706 est activement exploitée.",
+      "date": "2026-09-30T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 2
+    },
+    {
+      "titre": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
+      "lien": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+      "resume": "Smells like more agentic ransomware, Redmond warns",
+      "date": "2026-09-28T22:30:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 5
+    },
+    {
+      "titre": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "lien": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "resume": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically e",
+      "date": "2026-09-28T15:08:57+00:00",
+      "source": "Krebs on Security",
+      "score": 2
+    },
+    {
+      "titre": "Ex-soldier's telecom hacking spree earns him 70 months",
+      "lien": "https://www.theregister.com/cyber-crime/2026/09/28/ex-soldiers-telecom-hacking-spree-earns-him-70-months/5299440",
+      "resume": "Active-duty campaign targeted at least ten organizations and sought $1 million in ransom payments",
+      "date": "2026-09-28T14:25:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
+      "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/",
+      "resume": "**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité est activement exploitée. **[Mise à jour du 30 septembre 2026]*",
+      "date": "2026-09-28T00:00:00+00:00",
+      "source": "CERT-FR (alertes)",
+      "score": 2
+    },
+    {
+      "titre": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "lien": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "resume": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restit",
+      "date": "2026-09-25T21:44:40+00:00",
+      "source": "Krebs on Security",
+      "score": 2
+    }
+  ]
 }
