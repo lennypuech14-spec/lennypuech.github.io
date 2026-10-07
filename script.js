@@ -13,7 +13,6 @@ nav.addEventListener('click', e => {
 });
 
 // ---------- Veille : lit veille.json généré par veille.py ----------
-const liste = document.getElementById('veille-liste');
 const cartes = document.getElementById('veille-cartes');
 const titreCartes = document.getElementById('cartes-titre');
 const info = document.getElementById('veille-info');
@@ -63,19 +62,6 @@ function creerCarte(a) {
   return carte;
 }
 
-function creerLigne(a) {
-  const li = document.createElement('li');
-  const lien = document.createElement('a');
-  lien.href = a.lien; lien.textContent = a.titre; lien.target = '_blank'; lien.rel = 'noopener noreferrer';
-  const meta = document.createElement('div');
-  meta.className = 'meta';
-  meta.textContent = a.source + ' · ' + dateFr(a.date);
-  const p = document.createElement('p');
-  p.textContent = a.resume;
-  li.append(lien, meta, p);
-  return li;
-}
-
 function afficher() {
   const q = filtre.value.trim();
   const termes = norm(q).split(/\s+/).filter(Boolean);
@@ -97,15 +83,8 @@ function afficher() {
     cartes.replaceChildren(vide);
   }
 
-  // La liste complète garde tous les articles filtrés
-  liste.replaceChildren(...res.map(creerLigne));
-  if (!res.length) {
-    const vide = document.createElement('li');
-    vide.className = 'meta';
-    vide.textContent = 'Aucun article ne correspond.';
-    liste.replaceChildren(vide);
-  }
-  info.textContent = res.length + ' article(s)' + (maj ? ' · mis à jour le ' + dateFr(maj) : '');
+  info.textContent = (termes.length ? res.length + ' article(s) correspondent à ta recherche' : articles.length + ' articles analysés') +
+    (maj ? ' · mis à jour le ' + dateFr(maj) : '');
 }
 
 fetch('veille.json')
@@ -117,7 +96,6 @@ fetch('veille.json')
   })
   .catch(() => {
     const msg = 'Aucune veille chargée. Lance veille.py puis publie veille.json.';
-    liste.innerHTML = '<li class="meta">' + msg + '</li>';
     cartes.innerHTML = '<p class="meta">' + msg + '</p>';
   });
 filtre.addEventListener('input', afficher);
