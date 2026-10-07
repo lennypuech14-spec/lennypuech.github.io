@@ -13,6 +13,7 @@
   <button class="menu-btn" aria-expanded="false" aria-controls="nav">Menu</button>
   <nav id="nav">
     <a href="#parcours">Parcours</a>
+    <a href="#cv">CV</a>
     <a href="#realisations">Réalisations</a>
     <a href="#veille">Veille</a>
     <a href="#synthese">Synthèse</a>
@@ -52,10 +53,10 @@
 <section id="parcours">
   <h2>Parcours</h2>
   <div class="timeline">
-    <article><h3>BTS SIO option SISR</h3><p class="meta">[Année] – [Année] · [Nom de l'établissement]</p><p>Administration des systèmes et réseaux, cybersécurité, support utilisateurs.</p></article>
-    <article><h3>Stage de 1<sup>re</sup> année</h3><p class="meta">[Dates] · [Entreprise]</p><p>[Missions réalisées, en quelques lignes.]</p></article>
-    <article><h3>Stage de 2<sup>e</sup> année</h3><p class="meta">[Dates] · [Entreprise]</p><p>[Missions réalisées, en quelques lignes.]</p></article>
-    <article><h3>Baccalauréat</h3><p class="meta">[Année] · [Série / spécialités]</p><p>[Détail facultatif.]</p></article>
+    <article><h3>BTS SIO option SISR</h3><p class="meta"><mark class="todo">À compléter : années</mark> · <mark class="todo">À compléter : nom de l'établissement</mark></p><p>Administration des systèmes et réseaux, cybersécurité, support utilisateurs.</p></article>
+    <article><h3>Stage de 1<sup>re</sup> année</h3><p class="meta"><mark class="todo">À compléter : dates</mark> · <mark class="todo">À compléter : entreprise</mark></p><p><mark class="todo">À compléter : missions réalisées, en quelques lignes</mark></p></article>
+    <article><h3>Stage de 2<sup>e</sup> année</h3><p class="meta"><mark class="todo">À compléter : dates</mark> · <mark class="todo">À compléter : entreprise</mark></p><p><mark class="todo">À compléter : missions réalisées, en quelques lignes</mark></p></article>
+    <article><h3>Baccalauréat</h3><p class="meta"><mark class="todo">À compléter : année</mark> · <mark class="todo">À compléter : série / spécialités</mark></p><p><mark class="todo">À compléter : détail facultatif</mark></p></article>
   </div>
   <h3 class="sub">Compétences techniques</h3>
   <ul class="tags">
@@ -64,29 +65,37 @@
   </ul>
 </section>
 
+<section id="cv">
+  <h2>Mon CV</h2>
+  <p class="intro">Tu peux le consulter ci-dessous ou le télécharger. <a href="documents/CV.pdf" download>Télécharger le CV (PDF)</a></p>
+  <object class="cv-embed" data="documents/CV.pdf" type="application/pdf" aria-label="CV de Lenny PUECH">
+    <p>Ton navigateur ne peut pas afficher le PDF. <a href="documents/CV.pdf">Ouvrir le CV</a></p>
+  </object>
+</section>
+
 <section id="realisations">
   <h2>Réalisations professionnelles</h2>
-  <p class="intro">Chaque réalisation a sa propre page détaillée : contexte, schéma, mise en œuvre, tests, problèmes rencontrés et compétences mobilisées. Modifie les cartes ci-dessous pour mettre tes vrais projets.</p>
+  <p class="intro">Chaque réalisation a sa propre page détaillée : contexte, schéma, mise en œuvre, tests, problèmes rencontrés et compétences mobilisées.</p>
   <div class="cards">
     <article class="card">
       <h3>Déploiement d'Active Directory et de GPO</h3>
-      <p class="meta">Contexte : [stage / TP / projet]</p>
+      <p class="meta">Contexte : <mark class="todo">À compléter : stage / TP / projet</mark></p>
       <p>Installation d'un contrôleur de domaine, création d'unités d'organisation, de comptes et de stratégies de groupe.</p>
-      <p class="skills">Bloc 2 · [compétences]</p>
+      <p class="skills">Bloc 2 · <mark class="todo">À compléter : compétences</mark></p>
       <a href="realisations/ad-gpo.html">Lire la fiche</a>
     </article>
     <article class="card">
       <h3>Gestion de parc avec GLPI</h3>
-      <p class="meta">Contexte : [stage / TP / projet]</p>
+      <p class="meta">Contexte : <mark class="todo">À compléter : stage / TP / projet</mark></p>
       <p>Inventaire automatique du parc, suivi des tickets et gestion des utilisateurs.</p>
-      <p class="skills">Bloc 1 · [compétences]</p>
+      <p class="skills">Bloc 1 · <mark class="todo">À compléter : compétences</mark></p>
       <a href="realisations/glpi.html">Lire la fiche</a>
     </article>
     <article class="card">
       <h3>Pare-feu pfSense et segmentation VLAN</h3>
-      <p class="meta">Contexte : [stage / TP / projet]</p>
+      <p class="meta">Contexte : <mark class="todo">À compléter : stage / TP / projet</mark></p>
       <p>Séparation des flux par VLAN, règles de filtrage et accès distant par VPN.</p>
-      <p class="skills">Blocs 2 et 3 · [compétences]</p>
+      <p class="skills">Blocs 2 et 3 · <mark class="todo">À compléter : compétences</mark></p>
       <a href="realisations/pfsense.html">Lire la fiche</a>
     </article>
   </div>
@@ -112,13 +121,17 @@
   <h3 class="sub">Mes synthèses</h3>
   <p class="intro">Ajoute ici une synthèse datée pour chaque article important (date, source, résumé en 3 lignes, ce que j'en retiens pour mon métier).</p>
   <div class="synth">
-    <article><h4>[JJ/MM/AAAA] – [Titre de l'article]</h4><p class="meta">Source : [nom du site]</p><p>[Résumé et analyse.]</p></article>
+    <article>
+      <h4><mark class="todo">À compléter : date et titre de l'article</mark></h4>
+      <p class="meta">Source : <mark class="todo">À compléter : nom du site</mark></p>
+      <p><mark class="todo">À compléter : résumé et analyse</mark></p>
+    </article>
   </div>
 </section>
 
 <section id="synthese">
   <h2>Tableau de synthèse</h2>
-  <p class="intro">Correspondance entre les compétences du référentiel et mes réalisations. Ce tableau doit être identique à celui déposé sur CERISE. <a href="documents/tableau-synthese.pdf">Télécharger le tableau (PDF)</a></p>
+  <p class="intro">Correspondance entre les compétences du référentiel et mes réalisations. Ce tableau doit être identique à celui déposé sur CERISE. <mark class="todo">À compléter : lien vers le tableau de synthèse (PDF)</mark></p>
   <div class="table-wrap">
     <table>
       <thead><tr><th>Bloc de compétences</th><th>Réalisation 1</th><th>Réalisation 2</th><th>Réalisation 3</th></tr></thead>
@@ -133,9 +146,9 @@
 
 <section id="contact">
   <h2>Contact</h2>
-  <p>Email : <a href="mailto:prenom.nom@exemple.fr">prenom.nom@exemple.fr</a></p>
+  <p>Email : <mark class="todo">À compléter : ton adresse email</mark></p>
   <p>GitHub : <a href="https://github.com/lennypuech14-spec">github.com/lennypuech14-spec</a></p>
-  <p>LinkedIn : <a href="https://www.linkedin.com/in/ton-profil">linkedin.com/in/ton-profil</a></p>
+  <p>LinkedIn : <mark class="todo">À compléter : lien de ton profil LinkedIn</mark></p>
 </section>
 </main>
 
