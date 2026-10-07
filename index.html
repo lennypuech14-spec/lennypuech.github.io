@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lenny PUECH – Portfolio BTS SIO SISR</title>
+<meta name="description" content="Portfolio de Lenny PUECH, étudiant en BTS SIO option SISR.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="logo" href="#accueil">Lenny PUECH</a>
+  <button class="menu-btn" aria-expanded="false" aria-controls="nav">Menu</button>
+  <nav id="nav">
+    <a href="#parcours">Parcours</a>
+    <a href="#realisations">Réalisations</a>
+    <a href="#veille">Veille</a>
+    <a href="#synthese">Synthèse</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<main>
+<section id="accueil" class="hero">
+  <div class="hero-text">
+    <h1>Lenny PUECH</h1>
+    <p class="lead">Étudiant en 2<sup>e</sup> année de BTS SIO, option SISR (Solutions d'Infrastructure, Systèmes et Réseaux).</p>
+    <p>J'installe, configure et sécurise des systèmes et des réseaux. Ce portfolio rassemble mes réalisations, ma veille technologique et le lien avec le référentiel du diplôme.</p>
+    <p class="actions">
+      <a class="btn" href="#realisations">Voir mes réalisations</a>
+      <a class="btn ghost" href="documents/CV.pdf">Télécharger mon CV</a>
+    </p>
+  </div>
+  <svg class="topo" viewBox="0 0 320 240" role="img" aria-label="Schéma réseau : un pare-feu relie Internet, un commutateur, un serveur et des postes">
+    <g class="links">
+      <path d="M160 30 V80"/><path d="M160 110 V150"/>
+      <path d="M160 150 L70 205"/><path d="M160 150 L160 205"/><path d="M160 150 L250 205"/>
+    </g>
+    <g class="nodes">
+      <circle cx="160" cy="30" r="14"/><rect x="138" y="80" width="44" height="30" rx="4" class="fw"/>
+      <rect x="140" y="140" width="40" height="20" rx="3"/>
+      <circle cx="70" cy="205" r="12"/><circle cx="160" cy="205" r="12"/><circle cx="250" cy="205" r="12"/>
+    </g>
+    <g class="labels">
+      <text x="182" y="34">Internet</text><text x="190" y="100">Pare-feu</text>
+      <text x="190" y="154">Switch</text><text x="70" y="232" text-anchor="middle">Serveur AD</text>
+      <text x="160" y="232" text-anchor="middle">GLPI</text><text x="250" y="232" text-anchor="middle">Postes</text>
+    </g>
+  </svg>
+</section>
+
+<section id="parcours">
+  <h2>Parcours</h2>
+  <div class="timeline">
+    <article><h3>BTS SIO option SISR</h3><p class="meta">[Année] – [Année] · [Nom de l'établissement]</p><p>Administration des systèmes et réseaux, cybersécurité, support utilisateurs.</p></article>
+    <article><h3>Stage de 1<sup>re</sup> année</h3><p class="meta">[Dates] · [Entreprise]</p><p>[Missions réalisées, en quelques lignes.]</p></article>
+    <article><h3>Stage de 2<sup>e</sup> année</h3><p class="meta">[Dates] · [Entreprise]</p><p>[Missions réalisées, en quelques lignes.]</p></article>
+    <article><h3>Baccalauréat</h3><p class="meta">[Année] · [Série / spécialités]</p><p>[Détail facultatif.]</p></article>
+  </div>
+  <h3 class="sub">Compétences techniques</h3>
+  <ul class="tags">
+    <li>Windows Server</li><li>Active Directory</li><li>GPO</li><li>Linux</li><li>GLPI</li><li>pfSense</li>
+    <li>VLAN</li><li>Proxmox</li><li>Zabbix</li><li>PowerShell</li><li>Bash</li><li>Python</li>
+  </ul>
+</section>
+
+<section id="realisations">
+  <h2>Réalisations professionnelles</h2>
+  <p class="intro">Chaque réalisation a sa propre page détaillée : contexte, schéma, mise en œuvre, tests, problèmes rencontrés et compétences mobilisées. Modifie les cartes ci-dessous pour mettre tes vrais projets.</p>
+  <div class="cards">
+    <article class="card">
+      <h3>Déploiement d'Active Directory et de GPO</h3>
+      <p class="meta">Contexte : [stage / TP / projet]</p>
+      <p>Installation d'un contrôleur de domaine, création d'unités d'organisation, de comptes et de stratégies de groupe.</p>
+      <p class="skills">Bloc 2 · [compétences]</p>
+      <a href="realisations/ad-gpo.html">Lire la fiche</a>
+    </article>
+    <article class="card">
+      <h3>Gestion de parc avec GLPI</h3>
+      <p class="meta">Contexte : [stage / TP / projet]</p>
+      <p>Inventaire automatique du parc, suivi des tickets et gestion des utilisateurs.</p>
+      <p class="skills">Bloc 1 · [compétences]</p>
+      <a href="realisations/glpi.html">Lire la fiche</a>
+    </article>
+    <article class="card">
+      <h3>Pare-feu pfSense et segmentation VLAN</h3>
+      <p class="meta">Contexte : [stage / TP / projet]</p>
+      <p>Séparation des flux par VLAN, règles de filtrage et accès distant par VPN.</p>
+      <p class="skills">Blocs 2 et 3 · [compétences]</p>
+      <a href="realisations/pfsense.html">Lire la fiche</a>
+    </article>
+  </div>
+</section>
+
+<section id="veille">
+  <h2>Veille technologique</h2>
+  <div class="veille-sujet">
+    <h3>Ransomwares et résilience des infrastructures : la sauvegarde 3-2-1-1-0</h3>
+    <p>Les rançongiciels chiffrent les données d'une organisation et exigent un paiement. Ils visent de plus en plus les serveurs de sauvegarde eux-mêmes. Ma veille suit les nouvelles attaques, les vulnérabilités exploitées et les bonnes pratiques de protection : sauvegardes immuables et hors ligne, segmentation du réseau, mises à jour, supervision.</p>
+    <p><strong>Pourquoi ce sujet :</strong> il touche directement le métier d'administrateur systèmes et réseaux (sauvegarde, sécurité, continuité de service).</p>
+    <p><strong>Méthode :</strong> un script Python (<a href="veille.py">veille.py</a>) lit chaque jour des flux RSS d'organismes officiels et de médias spécialisés, filtre les articles par mots-clés et alimente la liste ci-dessous. Je lis ensuite les articles retenus et j'en rédige une synthèse.</p>
+    <p class="meta">Sources : CERT-FR, Cybermalveillance.gouv.fr, ZATAZ, BleepingComputer, The Hacker News.</p>
+  </div>
+
+  <div class="veille-tools">
+    <label for="filtre">Filtrer les articles</label>
+    <input id="filtre" type="search" placeholder="Ex : sauvegarde, LockBit, vulnérabilité…">
+    <span id="veille-info" class="meta" aria-live="polite"></span>
+  </div>
+  <ul id="veille-liste" class="veille-liste"><li class="meta">Chargement…</li></ul>
+
+  <h3 class="sub">Mes synthèses</h3>
+  <p class="intro">Ajoute ici une synthèse datée pour chaque article important (date, source, résumé en 3 lignes, ce que j'en retiens pour mon métier).</p>
+  <div class="synth">
+    <article><h4>[JJ/MM/AAAA] – [Titre de l'article]</h4><p class="meta">Source : [nom du site]</p><p>[Résumé et analyse.]</p></article>
+  </div>
+</section>
+
+<section id="synthese">
+  <h2>Tableau de synthèse</h2>
+  <p class="intro">Correspondance entre les compétences du référentiel et mes réalisations. Ce tableau doit être identique à celui déposé sur CERISE. <a href="documents/tableau-synthese.pdf">Télécharger le tableau (PDF)</a></p>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Bloc de compétences</th><th>Réalisation 1</th><th>Réalisation 2</th><th>Réalisation 3</th></tr></thead>
+      <tbody>
+        <tr><th>Bloc 1 – Support et mise à disposition de services informatiques</th><td></td><td>X</td><td></td></tr>
+        <tr><th>Bloc 2 – Administration des systèmes et des réseaux</th><td>X</td><td></td><td>X</td></tr>
+        <tr><th>Bloc 3 – Cybersécurité des services informatiques</th><td></td><td></td><td>X</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email : <a href="mailto:prenom.nom@exemple.fr">prenom.nom@exemple.fr</a></p>
+  <p>GitHub : <a href="https://github.com/lennypuech14-spec">github.com/lennypuech14-spec</a></p>
+  <p>LinkedIn : <a href="https://www.linkedin.com/in/ton-profil">linkedin.com/in/ton-profil</a></p>
+</section>
+</main>
+
+<footer>
+  <p>© <span id="annee"></span> Lenny PUECH · BTS SIO option SISR. Toutes les données d'entreprise ont été anonymisées.</p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
