@@ -5,13 +5,13 @@ Auteur : Lenny PUECH (BTS SIO SISR)
 
 Fonctionnement :
   1. Télécharge des flux RSS/Atom de sources officielles et spécialisées.
-  2. Garde les articles récents qui contiennent au moins un mot-clé.
-  3. Calcule un score de pertinence et supprime les doublons.
+  2. Garde les articles récents qui parlent du sujet (mots-clés pondérés).
+  3. Si peu d'articles passent le filtre, complète avec les plus proches du sujet.
   4. Écrit veille.json (lu par le site) et veille.md (rapport lisible).
 
 Utilisation :
-  python veille.py                 # 14 derniers jours
-  python veille.py --jours 30      # 30 derniers jours
+  python veille.py                          # 30 derniers jours
+  python veille.py --jours 60 --seuil 3     # période plus longue, filtre plus strict
 Aucune bibliothèque externe n'est nécessaire (Python 3.8+).
 """
 import argparse
@@ -19,12 +19,13 @@ import html
 import json
 import re
 import sys
+import unicodedata
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
-# Vérifie que ces adresses fonctionnent toujours : les sites changent parfois d'URL.
+# Si une source affiche [ERREUR], son adresse a peut-être changé : remplace-la.
 SOURCES = {
     "CERT-FR (alertes)": "https://www.cert.ssi.gouv.fr/alerte/feed/",
     "CERT-FR (avis)": "https://www.cert.ssi.gouv.fr/avis/feed/",
@@ -32,36 +33,50 @@ SOURCES = {
     "ZATAZ": "https://www.zataz.com/feed/",
     "BleepingComputer": "https://www.bleepingcomputer.com/feed/",
     "The Hacker News": "https://feeds.feedburner.com/TheHackersNews",
+    "Krebs on Security": "https://krebsonsecurity.com/feed/",
+    "SecurityWeek": "https://feeds.feedburner.com/securityweek",
+    "The Register (sécurité)": "https://www.theregister.com/security/headlines.atom",
 }
 
-# Mot-clé -> poids (plus le poids est élevé, plus l'article est pertinent)
+# Mot-clé -> poids (accents et majuscules ignorés)
 MOTS_CLES = {
-    "ransomware": 3, "rançongiciel": 3, "rancongiciel": 3, "ransom": 2,
-    "sauvegarde": 3, "backup": 3, "immuable": 3, "immutable": 3,
-    "chiffrement": 2, "lockbit": 2, "blackcat": 2, "akira": 2, "play ransomware": 2,
-    "veeam": 2, "restauration": 2, "plan de continuité": 2, "pca": 1, "pra": 1,
-    "vulnérabilité": 1, "vulnerability": 1, "zero-day": 1, "cve-": 1,
-    "active directory": 1, "esxi": 2, "proxmox": 1, "vpn": 1, "extorsion": 1,
+    "ransomware": 3, "rancongiciel": 3, "ransom": 2, "extorsion": 2, "extortion": 2,
+    "sauvegarde": 3, "backup": 3, "immuable": 3, "immutable": 3, "restauration": 2,
+    "restore": 1, "recovery": 2, "continuite d'activite": 2, "plan de reprise": 2,
+    "chiffrement": 2, "encrypt": 2, "lockbit": 2, "blackcat": 2, "alphv": 2, "akira": 2,
+    "clop": 2, "qilin": 2, "veeam": 2, "esxi": 2, "vmware": 1, "proxmox": 1, "nas": 1,
+    "active directory": 2, "cyberattaque": 2, "cyberattack": 2, "fuite de donnees": 1,
+    "data breach": 1, "vulnerabilite": 1, "vulnerability": 1, "zero-day": 1, "cve-": 1,
+    "vpn": 1, "pare-feu": 1, "firewall": 1, "hopital": 1, "collectivite": 1,
 }
+MOTS_CLES = {unicodedata.normalize("NFD", k): p for k, p in MOTS_CLES.items()}
+MIN_ARTICLES = 10  # on complète jusqu'à ce nombre si le filtre est trop strict
 
-SEUIL = 3  # score minimum pour garder un article
+
+def norm(texte):
+    texte = unicodedata.normalize("NFD", texte.lower())
+    return "".join(c for c in texte if unicodedata.category(c) != "Mn")
 
 
 def telecharger(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "veille-btssio/1.0"})
-    with urllib.request.urlopen(req, timeout=15) as r:
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+    })
+    with urllib.request.urlopen(req, timeout=20) as r:
         return r.read()
 
 
 def nettoyer(texte):
     texte = re.sub(r"<[^>]+>", " ", texte or "")
-    texte = html.unescape(texte)
-    return re.sub(r"\s+", " ", texte).strip()
+    return re.sub(r"\s+", " ", html.unescape(texte)).strip()
 
 
 def lire_date(texte):
     if not texte:
         return None
+    texte = texte.strip()
     try:
         d = parsedate_to_datetime(texte)  # format RSS
     except (TypeError, ValueError):
@@ -72,10 +87,10 @@ def lire_date(texte):
     return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
 
 
-def balise(el, nom):
+def balise(el, *noms):
     """Cherche une balise en ignorant les espaces de noms XML."""
     for enfant in el:
-        if enfant.tag.split("}")[-1] == nom:
+        if enfant.tag.split("}")[-1] in noms:
             return enfant
     return None
 
@@ -86,8 +101,8 @@ def lire_flux(nom, url):
     for it in items:
         titre = balise(it, "title")
         lien = balise(it, "link")
-        desc = balise(it, "description") or balise(it, "summary") or balise(it, "content")
-        date = balise(it, "pubDate") or balise(it, "published") or balise(it, "updated")
+        desc = balise(it, "description", "summary", "content")
+        date = balise(it, "pubDate", "published", "updated", "date")
         href = (lien.get("href") or lien.text) if lien is not None else ""
         d = lire_date(date.text if date is not None else None)
         if titre is None or not href or d is None:
@@ -102,33 +117,48 @@ def lire_flux(nom, url):
 
 
 def score(article):
-    texte = (article["titre"] + " " + article["resume"]).lower()
-    return sum(p for mot, p in MOTS_CLES.items() if mot in texte)
+    texte = norm(article["titre"] + " " + article["resume"])
+    return sum(p for mot, p in MOTS_CLES.items() if re.search(r"\b" + re.escape(mot), texte))
 
 
 def main():
     ap = argparse.ArgumentParser(description="Outil de veille ransomwares / sauvegarde")
-    ap.add_argument("--jours", type=int, default=14, help="période analysée (défaut : 14)")
+    ap.add_argument("--jours", type=int, default=30, help="période analysée (défaut : 30)")
+    ap.add_argument("--seuil", type=int, default=2, help="score minimum (défaut : 2)")
     args = ap.parse_args()
     limite = datetime.now(timezone.utc) - timedelta(days=args.jours)
 
-    retenus, vus = [], set()
+    candidats, vus, total_lus = [], set(), 0
     for nom, url in SOURCES.items():
         try:
-            n = 0
+            lus = recents = 0
             for a in lire_flux(nom, url):
+                lus += 1
+                if a["date"] < limite:
+                    continue
+                recents += 1
                 a["score"] = score(a)
                 cle = re.sub(r"\W+", "", a["titre"].lower())
-                if a["date"] < limite or a["score"] < SEUIL or cle in vus:
+                if a["score"] < 1 or cle in vus:
                     continue
                 vus.add(cle)
-                retenus.append(a)
-                n += 1
-            print(f"[OK]    {nom} : {n} article(s) retenu(s)")
+                candidats.append(a)
+            total_lus += lus
+            print(f"[OK]     {nom} : {lus} lus, {recents} récents")
         except Exception as e:  # une source en panne ne bloque pas les autres
             print(f"[ERREUR] {nom} : {e}", file=sys.stderr)
 
-    retenus.sort(key=lambda a: (a["date"], a["score"]), reverse=True)
+    if total_lus == 0:
+        print("Aucune source n'a répondu : vérifie les adresses de SOURCES.", file=sys.stderr)
+        sys.exit(1)
+
+    candidats.sort(key=lambda a: (a["score"], a["date"]), reverse=True)
+    retenus = [a for a in candidats if a["score"] >= args.seuil]
+    if len(retenus) < MIN_ARTICLES:  # on complète avec les plus proches du sujet
+        retenus = candidats[:MIN_ARTICLES]
+    retenus.sort(key=lambda a: a["date"], reverse=True)
+
+    print(f"\n{total_lus} articles lus, {len(candidats)} liés au sujet, {len(retenus)} retenus")
 
     sortie = {
         "maj": datetime.now(timezone.utc).isoformat(),
@@ -143,8 +173,6 @@ def main():
         for a in retenus:
             f.write(f"## {a['titre']}\n- Source : {a['source']} ({a['date']:%d/%m/%Y})\n"
                     f"- Pertinence : {a['score']}\n- Lien : {a['lien']}\n\n{a['resume']}\n\n")
-
-    print(f"\n{len(retenus)} article(s) écrits dans veille.json et veille.md")
 
 
 if __name__ == "__main__":
