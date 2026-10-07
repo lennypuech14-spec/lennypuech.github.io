@@ -92,3 +92,7 @@ footer{padding:2rem clamp(1rem,5vw,4rem);border-top:1px solid var(--line);color:
 @media (prefers-color-scheme:dark){.todo{background:#4a3a00;color:#ffe9a0;border-color:#d9a800}}
 
 
+
+/* Blocs de résumé de la veille */
+.veille-cartes .card h3{font-size:1.05rem;line-height:1.3;margin-bottom:.3rem}
+.veille-cartes .card p:not(.meta){font-size:.97rem;margin:.4rem 0}
