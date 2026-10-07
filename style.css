@@ -92,6 +92,3 @@ footer{padding:2rem clamp(1rem,5vw,4rem);border-top:1px solid var(--line);color:
 @media (prefers-color-scheme:dark){.todo{background:#4a3a00;color:#ffe9a0;border-color:#d9a800}}
 
 
-/* Affichage du CV en image */
-.cv-link{display:block;width:min(100%,820px)}
-.cv-img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:8px;box-shadow:0 4px 18px rgba(0,0,0,.15)}
