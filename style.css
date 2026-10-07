@@ -115,3 +115,6 @@ td.x{font-weight:700;font-size:1.1rem;color:var(--accent)}
 .comp-detail summary{cursor:pointer;font-weight:600}
 .comp-detail ul{margin:.8rem 0 0;padding-left:1.2rem}
 .comp-detail li ul{margin:.2rem 0 .8rem;font-size:.95rem;color:var(--muted)}
+
+/* Carte unique (tableau de synthèse) */
+.cards.une-carte{grid-template-columns:minmax(260px,440px)}
