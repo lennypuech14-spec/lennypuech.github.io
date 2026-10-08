@@ -1,7 +1,71 @@
 {
-  "maj": "2026-10-07T20:04:24.181537+00:00",
+  "maj": "2026-10-08T12:22:30.047634+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "UK and Germany team up against Russian cyberattacks as Brexit rethink looms",
+      "lien": "https://www.theregister.com/security/2026/10/08/uk-and-germany-team-up-against-russian-cyberattacks-as-brexit-rethink-looms/5301914",
+      "resume": "Security pact promises information-sharing and coordinated disruption, but offers little detail on agencies or funding",
+      "date": "2026-10-08T13:22:01+02:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+      "lien": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+      "resume": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code ",
+      "date": "2026-10-08T15:16:32+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme",
+      "lien": "https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/",
+      "resume": "Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation. The post Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme appeared first on SecurityWeek .",
+      "date": "2026-10-08T09:27:55+00:00",
+      "source": "SecurityWeek",
+      "score": 7
+    },
+    {
+      "titre": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
+      "lien": "https://www.theregister.com/security/2026/10/08/cheapskates-wouldnt-pay-for-security-help-got-hit-by-ransomware-and-went-bust-months-later/5301757",
+      "resume": "The owner knew a guy...",
+      "date": "2026-10-08T10:15:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 5
+    },
+    {
+      "titre": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
+      "lien": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+      "resume": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary tools to recover their data. Zoh",
+      "date": "2026-10-08T13:11:44+05:30",
+      "source": "The Hacker News",
+      "score": 5
+    },
+    {
+      "titre": "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead",
+      "lien": "https://www.theregister.com/cyber-crime/2026/10/08/ransomware-fixer-claimed-he-could-decrypt-files-allegedly-defrauded-clients-instead/5301831",
+      "resume": "Feds claim he charged clients more than ransoms, paid up, pocketed the difference",
+      "date": "2026-10-08T04:29:55+02:00",
+      "source": "The Register (sécurité)",
+      "score": 5
+    },
+    {
+      "titre": "Ransomware recovery CEO charged over secret ransom payments",
+      "lien": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "resume": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+      "date": "2026-10-07T19:04:37-04:00",
+      "source": "BleepingComputer",
+      "score": 9
+    },
+    {
+      "titre": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "resume": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+      "date": "2026-10-07T17:28:54-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
     {
       "titre": "Ransomware has a new target. Is your backup ready?",
       "lien": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
@@ -59,14 +123,6 @@
       "score": 2
     },
     {
-      "titre": "FLOCKER relance son programme de rançongiciel",
-      "lien": "https://www.zataz.com/flocker-relance-son-programme-de-rancongiciel/",
-      "resume": "Aprés sa disparition, le pirate FLOCKER recherche des affiliés via son outil revendiqué pour Windows, Linux et macOS.",
-      "date": "2026-10-07T11:16:42+00:00",
-      "source": "ZATAZ",
-      "score": 3
-    },
-    {
       "titre": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks",
       "lien": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
       "resume": "Tens of thousands more victims and more ransomware groups getting in on the act",
@@ -83,36 +139,12 @@
       "score": 5
     },
     {
-      "titre": "ASOS Confirms Cyberattack, Data Breach",
-      "lien": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
-      "resume": "Hackers compromised a third-party communication platform and sent rogue notifications to ASOS users. The post ASOS Confirms Cyberattack, Data Breach appeared first on SecurityWeek .",
-      "date": "2026-10-07T09:46:20+00:00",
-      "source": "SecurityWeek",
-      "score": 3
-    },
-    {
       "titre": "Multiples vulnérabilités dans les produits Veeam (07 octobre 2026)",
       "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1278/",
       "resume": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
       "date": "2026-10-07T00:00:00+00:00",
       "source": "CERT-FR (avis)",
       "score": 3
-    },
-    {
-      "titre": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "lien": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-      "resume": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
-      "date": "2026-10-06T13:34:59-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "How to secure RMM software: 8 controls MSPs should test",
-      "lien": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-      "resume": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [",
-      "date": "2026-10-06T10:00:10-04:00",
-      "source": "BleepingComputer",
-      "score": 2
     },
     {
       "titre": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",

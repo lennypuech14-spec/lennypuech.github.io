@@ -1,4 +1,60 @@
-# Veille du 07/10/2026 : ransomwares et résilience
+# Veille du 08/10/2026 : ransomwares et résilience
+
+## UK and Germany team up against Russian cyberattacks as Brexit rethink looms
+- Source : The Register (sécurité) (08/10/2026)
+- Pertinence : 2
+- Lien : https://www.theregister.com/security/2026/10/08/uk-and-germany-team-up-against-russian-cyberattacks-as-brexit-rethink-looms/5301914
+
+Security pact promises information-sharing and coordinated disruption, but offers little detail on agencies or funding
+
+## 16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases
+- Source : The Hacker News (08/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html
+
+Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. "The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code 
+
+## Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme
+- Source : SecurityWeek (08/10/2026)
+- Pertinence : 7
+- Lien : https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/
+
+Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation. The post Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme appeared first on SecurityWeek .
+
+## Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later
+- Source : The Register (sécurité) (08/10/2026)
+- Pertinence : 5
+- Lien : https://www.theregister.com/security/2026/10/08/cheapskates-wouldnt-pay-for-security-help-got-hit-by-ransomware-and-went-bust-months-later/5301757
+
+The owner knew a guy...
+
+## MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data
+- Source : The Hacker News (08/10/2026)
+- Pertinence : 5
+- Lien : https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html
+
+The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary tools to recover their data. Zoh
+
+## Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead
+- Source : The Register (sécurité) (08/10/2026)
+- Pertinence : 5
+- Lien : https://www.theregister.com/cyber-crime/2026/10/08/ransomware-fixer-claimed-he-could-decrypt-files-allegedly-defrauded-clients-instead/5301831
+
+Feds claim he charged clients more than ransoms, paid up, pocketed the difference
+
+## Ransomware recovery CEO charged over secret ransom payments
+- Source : BleepingComputer (07/10/2026)
+- Pertinence : 9
+- Lien : https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/
+
+The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]
+
+## FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins
+- Source : BleepingComputer (07/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/
+
+The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]
 
 ## Ransomware has a new target. Is your backup ready?
 - Source : BleepingComputer (07/10/2026)
@@ -49,13 +105,6 @@ Le Japon remet à l’Allemagne un Russe de 28 ans soupçonné d’un rôle cent
 
 The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN)
 
-## FLOCKER relance son programme de rançongiciel
-- Source : ZATAZ (07/10/2026)
-- Pertinence : 3
-- Lien : https://www.zataz.com/flocker-relance-son-programme-de-rancongiciel/
-
-Aprés sa disparition, le pirate FLOCKER recherche des affiliés via son outil revendiqué pour Windows, Linux et macOS.
-
 ## FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks
 - Source : The Register (sécurité) (07/10/2026)
 - Pertinence : 5
@@ -70,33 +119,12 @@ Tens of thousands more victims and more ransomware groups getting in on the act
 
 Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]
 
-## ASOS Confirms Cyberattack, Data Breach
-- Source : SecurityWeek (07/10/2026)
-- Pertinence : 3
-- Lien : https://www.securityweek.com/asos-confirms-cyberattack-data-breach/
-
-Hackers compromised a third-party communication platform and sent rogue notifications to ASOS users. The post ASOS Confirms Cyberattack, Data Breach appeared first on SecurityWeek .
-
 ## Multiples vulnérabilités dans les produits Veeam (07 octobre 2026)
 - Source : CERT-FR (avis) (07/10/2026)
 - Pertinence : 3
 - Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1278/
 
 De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).
-
-## Atlassian warns of critical file-access flaw in Jira, Confluence
-- Source : BleepingComputer (06/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/
-
-Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]
-
-## How to secure RMM software: 8 controls MSPs should test
-- Source : BleepingComputer (06/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/
-
-RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [
 
 ## Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes
 - Source : The Hacker News (05/10/2026)
