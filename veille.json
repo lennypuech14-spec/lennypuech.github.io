@@ -1,7 +1,39 @@
 {
-  "maj": "2026-10-08T12:22:30.047634+00:00",
+  "maj": "2026-10-09T12:12:13.874165+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+      "lien": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
+      "resume": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions. \"CVE-2026-107406 is a memory overflow vulnerability that may lead to re",
+      "date": "2026-10-09T13:41:33+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
+      "lien": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/",
+      "resume": "The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service. The post Citrix Urges Immediate Patching of Critical NetScaler Vulnerability appeared first on SecurityWeek .",
+      "date": "2026-10-09T06:53:53+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+      "lien": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+      "resume": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
+      "date": "2026-10-08T16:09:45-04:00",
+      "source": "BleepingComputer",
+      "score": 5
+    },
+    {
+      "titre": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "lien": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+      "resume": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence. ",
+      "date": "2026-10-08T23:28:02+05:30",
+      "source": "The Hacker News",
+      "score": 5
+    },
     {
       "titre": "UK and Germany team up against Russian cyberattacks as Brexit rethink looms",
       "lien": "https://www.theregister.com/security/2026/10/08/uk-and-germany-team-up-against-russian-cyberattacks-as-brexit-rethink-looms/5301914",
@@ -17,14 +49,6 @@
       "date": "2026-10-08T15:16:32+05:30",
       "source": "The Hacker News",
       "score": 2
-    },
-    {
-      "titre": "Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme",
-      "lien": "https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/",
-      "resume": "Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation. The post Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme appeared first on SecurityWeek .",
-      "date": "2026-10-08T09:27:55+00:00",
-      "source": "SecurityWeek",
-      "score": 7
     },
     {
       "titre": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
@@ -51,60 +75,12 @@
       "score": 5
     },
     {
-      "titre": "Ransomware recovery CEO charged over secret ransom payments",
-      "lien": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
-      "resume": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
-      "date": "2026-10-07T19:04:37-04:00",
-      "source": "BleepingComputer",
-      "score": 9
-    },
-    {
-      "titre": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
-      "lien": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
-      "resume": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
-      "date": "2026-10-07T17:28:54-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Ransomware has a new target. Is your backup ready?",
-      "lien": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
-      "resume": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
-      "date": "2026-10-07T10:01:11-04:00",
-      "source": "BleepingComputer",
-      "score": 13
-    },
-    {
       "titre": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
       "lien": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "resume": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacke",
       "date": "2026-10-07T13:48:45+00:00",
       "source": "Krebs on Security",
       "score": 2
-    },
-    {
-      "titre": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
-      "lien": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
-      "resume": "The individual was detained in May and has been extradited to Germany to face hacking charges. The post Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany appeared first on SecurityWeek .",
-      "date": "2026-10-07T13:47:12+00:00",
-      "source": "SecurityWeek",
-      "score": 7
-    },
-    {
-      "titre": "Hackers exploit critical Atlassian flaw after public PoC release",
-      "lien": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-      "resume": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
-      "date": "2026-10-07T08:49:01-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Advantest Discloses Data Breach Months After Ransomware Attack",
-      "lien": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
-      "resume": "The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on SecurityWeek .",
-      "date": "2026-10-07T12:37:24+00:00",
-      "source": "SecurityWeek",
-      "score": 8
     },
     {
       "titre": "Qilin : le Japon remet un suspect à l’Allemagne",
@@ -128,14 +104,6 @@
       "resume": "Tens of thousands more victims and more ransomware groups getting in on the act",
       "date": "2026-10-07T12:52:09+02:00",
       "source": "The Register (sécurité)",
-      "score": 5
-    },
-    {
-      "titre": "Advantest confirms personal information stolen in ransomware attack",
-      "lien": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-      "resume": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
-      "date": "2026-10-07T06:27:52-04:00",
-      "source": "BleepingComputer",
       "score": 5
     },
     {
@@ -203,14 +171,6 @@
       "score": 5
     },
     {
-      "titre": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-      "lien": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-104286",
-      "date": "2026-10-02T11:19:50+05:30",
-      "source": "The Hacker News",
-      "score": 3
-    },
-    {
       "titre": "Multiples vulnérabilités dans les produits VMware (02 octobre 2026)",
       "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1249/",
       "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
@@ -225,14 +185,6 @@
       "date": "2026-10-02T00:00:00+00:00",
       "source": "CERT-FR (avis)",
       "score": 2
-    },
-    {
-      "titre": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-      "lien": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-      "resume": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid. The 16-year-old was one of 3 people arrested on ",
-      "date": "2026-10-01T22:25:57+05:30",
-      "source": "The Hacker News",
-      "score": 5
     },
     {
       "titre": "England's schools are getting better at mopping up cyber incidents",
@@ -251,35 +203,11 @@
       "score": 2
     },
     {
-      "titre": "Multiples vulnérabilités dans GitLab (30 septembre 2026)",
-      "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1242/",
-      "resume": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité. Gitlab indique que la vulnérabilité CVE-2026-85706 est activement exploitée.",
-      "date": "2026-09-30T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
-      "score": 2
-    },
-    {
-      "titre": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
-      "lien": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
-      "resume": "Smells like more agentic ransomware, Redmond warns",
-      "date": "2026-09-28T22:30:00+02:00",
-      "source": "The Register (sécurité)",
-      "score": 5
-    },
-    {
       "titre": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
       "lien": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
       "resume": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically e",
       "date": "2026-09-28T15:08:57+00:00",
       "source": "Krebs on Security",
-      "score": 2
-    },
-    {
-      "titre": "Ex-soldier's telecom hacking spree earns him 70 months",
-      "lien": "https://www.theregister.com/cyber-crime/2026/09/28/ex-soldiers-telecom-hacking-spree-earns-him-70-months/5299440",
-      "resume": "Active-duty campaign targeted at least ten organizations and sought $1 million in ransom payments",
-      "date": "2026-09-28T14:25:00+02:00",
-      "source": "The Register (sécurité)",
       "score": 2
     },
     {

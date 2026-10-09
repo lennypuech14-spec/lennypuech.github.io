@@ -1,4 +1,32 @@
-# Veille du 08/10/2026 : ransomwares et résilience
+# Veille du 09/10/2026 : ransomwares et résilience
+
+## Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments
+- Source : The Hacker News (09/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html
+
+Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions. "CVE-2026-107406 is a memory overflow vulnerability that may lead to re
+
+## Citrix Urges Immediate Patching of Critical NetScaler Vulnerability
+- Source : SecurityWeek (09/10/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/
+
+The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service. The post Citrix Urges Immediate Patching of Critical NetScaler Vulnerability appeared first on SecurityWeek .
+
+## Ransomware attack disrupts Japan's IDCF Cloud used by govt clients
+- Source : BleepingComputer (08/10/2026)
+- Pertinence : 5
+- Lien : https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/
+
+IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]
+
+## ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories
+- Source : The Hacker News (08/10/2026)
+- Pertinence : 5
+- Lien : https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html
+
+The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence. 
 
 ## UK and Germany team up against Russian cyberattacks as Brexit rethink looms
 - Source : The Register (sécurité) (08/10/2026)
@@ -13,13 +41,6 @@ Security pact promises information-sharing and coordinated disruption, but offer
 - Lien : https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html
 
 Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. "The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code 
-
-## Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme
-- Source : SecurityWeek (08/10/2026)
-- Pertinence : 7
-- Lien : https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/
-
-Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation. The post Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme appeared first on SecurityWeek .
 
 ## Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later
 - Source : The Register (sécurité) (08/10/2026)
@@ -42,54 +63,12 @@ The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50
 
 Feds claim he charged clients more than ransoms, paid up, pocketed the difference
 
-## Ransomware recovery CEO charged over secret ransom payments
-- Source : BleepingComputer (07/10/2026)
-- Pertinence : 9
-- Lien : https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/
-
-The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]
-
-## FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins
-- Source : BleepingComputer (07/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/
-
-The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]
-
-## Ransomware has a new target. Is your backup ready?
-- Source : BleepingComputer (07/10/2026)
-- Pertinence : 13
-- Lien : https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/
-
-Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]
-
 ## ShinyHunters Extorted Boeing Spin-off Prior to Arrests
 - Source : Krebs on Security (07/10/2026)
 - Pertinence : 2
 - Lien : https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/
 
 A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacke
-
-## Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany
-- Source : SecurityWeek (07/10/2026)
-- Pertinence : 7
-- Lien : https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/
-
-The individual was detained in May and has been extradited to Germany to face hacking charges. The post Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany appeared first on SecurityWeek .
-
-## Hackers exploit critical Atlassian flaw after public PoC release
-- Source : BleepingComputer (07/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/
-
-A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]
-
-## Advantest Discloses Data Breach Months After Ransomware Attack
-- Source : SecurityWeek (07/10/2026)
-- Pertinence : 8
-- Lien : https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/
-
-The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest Discloses Data Breach Months After Ransomware Attack appeared first on SecurityWeek .
 
 ## Qilin : le Japon remet un suspect à l’Allemagne
 - Source : ZATAZ (07/10/2026)
@@ -111,13 +90,6 @@ The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tues
 - Lien : https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585
 
 Tens of thousands more victims and more ransomware groups getting in on the act
-
-## Advantest confirms personal information stolen in ransomware attack
-- Source : BleepingComputer (07/10/2026)
-- Pertinence : 5
-- Lien : https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/
-
-Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]
 
 ## Multiples vulnérabilités dans les produits Veeam (07 octobre 2026)
 - Source : CERT-FR (avis) (07/10/2026)
@@ -175,13 +147,6 @@ A suspected member of the ShinyHunters digital extortion group, who goes by the 
 
 The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Ca
 
-## Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes
-- Source : The Hacker News (02/10/2026)
-- Pertinence : 3
-- Lien : https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-104286
-
 ## Multiples vulnérabilités dans les produits VMware (02 octobre 2026)
 - Source : CERT-FR (avis) (02/10/2026)
 - Pertinence : 2
@@ -195,13 +160,6 @@ De multiples vulnérabilités ont été découvertes dans les produits VMware. E
 - Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/
 
 Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2026-104286 est activement exploitée. Des indicateurs de compromission sont disponibles dans 
-
-## Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
-- Source : The Hacker News (01/10/2026)
-- Pertinence : 5
-- Lien : https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html
-
-Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid. The 16-year-old was one of 3 people arrested on 
 
 ## England's schools are getting better at mopping up cyber incidents
 - Source : The Register (sécurité) (01/10/2026)
@@ -217,33 +175,12 @@ Two-thirds report immediate recovery, although teachers remain divided over whos
 
 Une vulnérabilité a été découverte dans Cisco Catalyst SD-WAN. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2026-76504 est activement exploitée.
 
-## Multiples vulnérabilités dans GitLab (30 septembre 2026)
-- Source : CERT-FR (avis) (30/09/2026)
-- Pertinence : 2
-- Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1242/
-
-De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité. Gitlab indique que la vulnérabilité CVE-2026-85706 est activement exploitée.
-
-## JadePuffer crims hijacked Azure identities and used them to blow up cloud resources
-- Source : The Register (sécurité) (28/09/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591
-
-Smells like more agentic ransomware, Redmond warns
-
 ## Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation
 - Source : Krebs on Security (28/09/2026)
 - Pertinence : 2
 - Lien : https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/
 
 Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically e
-
-## Ex-soldier's telecom hacking spree earns him 70 months
-- Source : The Register (sécurité) (28/09/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/cyber-crime/2026/09/28/ex-soldiers-telecom-hacking-spree-earns-him-70-months/5299440
-
-Active-duty campaign targeted at least ten organizations and sought $1 million in ransom payments
 
 ## Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)
 - Source : CERT-FR (alertes) (28/09/2026)
