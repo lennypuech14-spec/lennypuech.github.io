@@ -1,7 +1,71 @@
 {
-  "maj": "2026-10-09T12:12:13.874165+00:00",
+  "maj": "2026-10-10T11:29:48.520614+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
+      "lien": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
+      "resume": "The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison appeared first on SecurityWeek .",
+      "date": "2026-10-10T11:00:00+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "lien": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "resume": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sou",
+      "date": "2026-10-10T00:17:42+00:00",
+      "source": "Krebs on Security",
+      "score": 5
+    },
+    {
+      "titre": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "lien": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "resume": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and",
+      "date": "2026-10-09T23:15:26+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "lien": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "resume": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+      "date": "2026-10-09T13:17:23-04:00",
+      "source": "BleepingComputer",
+      "score": 4
+    },
+    {
+      "titre": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "resume": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
+      "date": "2026-10-09T13:02:29-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Germany arrests alleged core Qilin ransomware member after extradition",
+      "lien": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "resume": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
+      "date": "2026-10-09T11:38:56-04:00",
+      "source": "BleepingComputer",
+      "score": 7
+    },
+    {
+      "titre": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "lien": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "resume": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper ",
+      "date": "2026-10-09T18:17:26+05:30",
+      "source": "The Hacker News",
+      "score": 4
+    },
+    {
+      "titre": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+      "lien": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+      "resume": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
+      "date": "2026-10-09T08:32:16-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
     {
       "titre": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
       "lien": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
@@ -131,50 +195,10 @@
       "score": 5
     },
     {
-      "titre": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "lien": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "resume": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use of a weak pseudo-random number ",
-      "date": "2026-10-05T13:39:23+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-      "lien": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "resume": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a ",
-      "date": "2026-10-05T12:10:19+05:30",
-      "source": "The Hacker News",
-      "score": 3
-    },
-    {
       "titre": "Vulnérabilité dans Citrix NetScaler ADC et Gateway (05 octobre 2026)",
       "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1263/",
       "resume": "Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. Elle permet à un attaquant de provoquer un déni de service à distance. La CISA indique que la vulnérabilité CVE-2026-88779 est activement exploitée.",
       "date": "2026-10-05T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
-      "score": 2
-    },
-    {
-      "titre": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "lien": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "resume": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif ‌al-Din Khader, is said to have b",
-      "date": "2026-10-04T12:52:05+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-      "lien": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-      "resume": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Ca",
-      "date": "2026-10-03T20:06:33+05:30",
-      "source": "The Hacker News",
-      "score": 5
-    },
-    {
-      "titre": "Multiples vulnérabilités dans les produits VMware (02 octobre 2026)",
-      "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1249/",
-      "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "date": "2026-10-02T00:00:00+00:00",
       "source": "CERT-FR (avis)",
       "score": 2
     },
@@ -192,14 +216,6 @@
       "resume": "Two-thirds report immediate recovery, although teachers remain divided over whose job security is",
       "date": "2026-10-01T13:40:13+02:00",
       "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "Vulnérabilité dans Cisco Catalyst SD-WAN (01 octobre 2026)",
-      "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1246/",
-      "resume": "Une vulnérabilité a été découverte dans Cisco Catalyst SD-WAN. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2026-76504 est activement exploitée.",
-      "date": "2026-10-01T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
       "score": 2
     },
     {

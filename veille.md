@@ -1,4 +1,60 @@
-# Veille du 09/10/2026 : ransomwares et résilience
+# Veille du 10/10/2026 : ransomwares et résilience
+
+## Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison
+- Source : SecurityWeek (10/10/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/
+
+The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison appeared first on SecurityWeek .
+
+## FBI Arrests Founder of Ransomware Negotiation Firm
+- Source : Krebs on Security (10/10/2026)
+- Pertinence : 5
+- Lien : https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/
+
+Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sou
+
+## FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack
+- Source : The Hacker News (09/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html
+
+The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and
+
+## Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto
+- Source : BleepingComputer (09/10/2026)
+- Pertinence : 4
+- Lien : https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/
+
+Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]
+
+## FBI arrests another suspected ShinyHunters hacker after agency breach
+- Source : BleepingComputer (09/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/
+
+The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]
+
+## Germany arrests alleged core Qilin ransomware member after extradition
+- Source : BleepingComputer (09/10/2026)
+- Pertinence : 7
+- Lien : https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/
+
+Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]
+
+## Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge
+- Source : The Hacker News (09/10/2026)
+- Pertinence : 4
+- Lien : https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html
+
+Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper 
+
+## Max severity SonicWall SMA1000 flaw now exploited in attacks
+- Source : BleepingComputer (09/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/
+
+Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]
 
 ## Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments
 - Source : The Hacker News (09/10/2026)
@@ -112,47 +168,12 @@ Microsoft has released out-of-band security updates to address a high-severity f
 
 A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. There are actively exploited bugs in the mix, cleaner intrusio
 
-## Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE
-- Source : The Hacker News (05/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html
-
-A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use of a weak pseudo-random number 
-
-## New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline
-- Source : The Hacker News (05/10/2026)
-- Pertinence : 3
-- Lien : https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html
-
-Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. "CVE-2026-88779 is a 
-
 ## Vulnérabilité dans Citrix NetScaler ADC et Gateway (05 octobre 2026)
 - Source : CERT-FR (avis) (05/10/2026)
 - Pertinence : 2
 - Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1263/
 
 Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. Elle permet à un attaquant de provoquer un déni de service à distance. La CISA indique que la vulnérabilité CVE-2026-88779 est activement exploitée.
-
-## ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members
-- Source : The Hacker News (04/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html
-
-A suspected member of the ShinyHunters digital extortion group, who goes by the online alias "Rey," has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif ‌al-Din Khader, is said to have b
-
-## Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware
-- Source : The Hacker News (03/10/2026)
-- Pertinence : 5
-- Lien : https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html
-
-The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Ca
-
-## Multiples vulnérabilités dans les produits VMware (02 octobre 2026)
-- Source : CERT-FR (avis) (02/10/2026)
-- Pertinence : 2
-- Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1249/
-
-De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
 
 ## Vulnérabilité dans Fortinet FortiMail (02 octobre 2026)
 - Source : CERT-FR (avis) (02/10/2026)
@@ -167,13 +188,6 @@ Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à 
 - Lien : https://www.theregister.com/security/2026/10/01/englands-schools-are-getting-better-at-mopping-up-cyber-incidents/5300465
 
 Two-thirds report immediate recovery, although teachers remain divided over whose job security is
-
-## Vulnérabilité dans Cisco Catalyst SD-WAN (01 octobre 2026)
-- Source : CERT-FR (avis) (01/10/2026)
-- Pertinence : 2
-- Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1246/
-
-Une vulnérabilité a été découverte dans Cisco Catalyst SD-WAN. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2026-76504 est activement exploitée.
 
 ## Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation
 - Source : Krebs on Security (28/09/2026)
