@@ -1,4 +1,18 @@
-# Veille du 10/10/2026 : ransomwares et résilience
+# Veille du 11/10/2026 : ransomwares et résilience
+
+## Cyber exec arrested in case allegedly tied to ShinyHunters hackers
+- Source : BleepingComputer (10/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/
+
+Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]
+
+## ARTEX AI, Claude agents used in cyberattacks on South Korean banks
+- Source : BleepingComputer (10/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/
+
+The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]
 
 ## Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison
 - Source : SecurityWeek (10/10/2026)
@@ -7,7 +21,7 @@
 
 The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison appeared first on SecurityWeek .
 
-## FBI Arrests Founder of Ransomware Negotiation Firm
+## FBI Arrests Executive at Ransomware Negotiation Firm
 - Source : Krebs on Security (10/10/2026)
 - Pertinence : 5
 - Lien : https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/

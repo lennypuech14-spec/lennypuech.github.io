@@ -1,7 +1,23 @@
 {
-  "maj": "2026-10-10T11:29:48.520614+00:00",
+  "maj": "2026-10-11T11:43:22.477609+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "lien": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "resume": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
+      "date": "2026-10-10T11:07:54-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "lien": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "resume": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
+      "date": "2026-10-10T10:16:17-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
     {
       "titre": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
       "lien": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
@@ -11,7 +27,7 @@
       "score": 2
     },
     {
-      "titre": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "titre": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "lien": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "resume": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sou",
       "date": "2026-10-10T00:17:42+00:00",
