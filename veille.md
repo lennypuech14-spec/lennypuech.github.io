@@ -1,4 +1,53 @@
-# Veille du 11/10/2026 : ransomwares et résilience
+# Veille du 12/10/2026 : ransomwares et résilience
+
+## Bricksforge WordPress Plugin Vulnerability Exploited in the Wild
+- Source : SecurityWeek (12/10/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/
+
+The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites. The post Bricksforge WordPress Plugin Vulnerability Exploited in the Wild appeared first on SecurityWeek .
+
+## Une cyberattaque dérègle le froid des supermarchés
+- Source : ZATAZ (12/10/2026)
+- Pertinence : 2
+- Lien : https://www.zataz.com/une-cyberattaque-deregle-le-froid-des-supermarches/
+
+Une cyberattaque vise le froid des supermarchés : stocks détruits, pertes estimées et précédents analysés par ZATAZ.
+
+## Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch
+- Source : The Hacker News (12/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html
+
+Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a case of pre-authenticated serve
+
+## Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe
+- Source : SecurityWeek (12/10/2026)
+- Pertinence : 5
+- Lien : https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/
+
+The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference. The post Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe appeared first on SecurityWeek .
+
+## Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE
+- Source : The Hacker News (12/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html
+
+A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload a
+
+## Critical SonicWall Vulnerability Exploited Days After Disclosure
+- Source : SecurityWeek (12/10/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/
+
+CVE-2026-102255 is a pre-authenticated SSRF flaw that could allow attackers to perform unauthorized operations. The post Critical SonicWall Vulnerability Exploited Days After Disclosure appeared first on SecurityWeek .
+
+## Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch
+- Source : SecurityWeek (12/10/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/
+
+Beginning February 2027, all newly issued certificates will have a 64-day validity period by default. The post Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch appeared first on SecurityWeek .
 
 ## Cyber exec arrested in case allegedly tied to ShinyHunters hackers
 - Source : BleepingComputer (10/10/2026)
@@ -77,33 +126,12 @@ Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 a
 
 Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions. "CVE-2026-107406 is a memory overflow vulnerability that may lead to re
 
-## Citrix Urges Immediate Patching of Critical NetScaler Vulnerability
-- Source : SecurityWeek (09/10/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/
-
-The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service. The post Citrix Urges Immediate Patching of Critical NetScaler Vulnerability appeared first on SecurityWeek .
-
-## Ransomware attack disrupts Japan's IDCF Cloud used by govt clients
-- Source : BleepingComputer (08/10/2026)
-- Pertinence : 5
-- Lien : https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/
-
-IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]
-
 ## ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories
 - Source : The Hacker News (08/10/2026)
 - Pertinence : 5
 - Lien : https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html
 
 The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence. 
-
-## UK and Germany team up against Russian cyberattacks as Brexit rethink looms
-- Source : The Register (sécurité) (08/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/security/2026/10/08/uk-and-germany-team-up-against-russian-cyberattacks-as-brexit-rethink-looms/5301914
-
-Security pact promises information-sharing and coordinated disruption, but offers little detail on agencies or funding
 
 ## 16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases
 - Source : The Hacker News (08/10/2026)
@@ -112,26 +140,12 @@ Security pact promises information-sharing and coordinated disruption, but offer
 
 Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. "The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code 
 
-## Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later
-- Source : The Register (sécurité) (08/10/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/security/2026/10/08/cheapskates-wouldnt-pay-for-security-help-got-hit-by-ransomware-and-went-bust-months-later/5301757
-
-The owner knew a guy...
-
 ## MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data
 - Source : The Hacker News (08/10/2026)
 - Pertinence : 5
 - Lien : https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html
 
 The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary tools to recover their data. Zoh
-
-## Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead
-- Source : The Register (sécurité) (08/10/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/cyber-crime/2026/10/08/ransomware-fixer-claimed-he-could-decrypt-files-allegedly-defrauded-clients-instead/5301831
-
-Feds claim he charged clients more than ransoms, paid up, pocketed the difference
 
 ## ShinyHunters Extorted Boeing Spin-off Prior to Arrests
 - Source : Krebs on Security (07/10/2026)
@@ -140,13 +154,6 @@ Feds claim he charged clients more than ransoms, paid up, pocketed the differenc
 
 A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacke
 
-## Qilin : le Japon remet un suspect à l’Allemagne
-- Source : ZATAZ (07/10/2026)
-- Pertinence : 5
-- Lien : https://www.zataz.com/qilin-le-japon-remet-un-suspect-a-lallemagne/
-
-Le Japon remet à l’Allemagne un Russe de 28 ans soupçonné d’un rôle central dans le groupe de rançongiciel Qilin.
-
 ## FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials
 - Source : The Hacker News (07/10/2026)
 - Pertinence : 2
@@ -154,33 +161,12 @@ Le Japon remet à l’Allemagne un Russe de 28 ans soupçonné d’un rôle cent
 
 The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN)
 
-## FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks
-- Source : The Register (sécurité) (07/10/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585
-
-Tens of thousands more victims and more ransomware groups getting in on the act
-
 ## Multiples vulnérabilités dans les produits Veeam (07 octobre 2026)
 - Source : CERT-FR (avis) (07/10/2026)
 - Pertinence : 3
 - Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1278/
 
 De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).
-
-## Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes
-- Source : The Hacker News (05/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html
-
-Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system. "W
-
-## ⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests
-- Source : The Hacker News (05/10/2026)
-- Pertinence : 5
-- Lien : https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html
-
-A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. There are actively exploited bugs in the mix, cleaner intrusio
 
 ## Vulnérabilité dans Citrix NetScaler ADC et Gateway (05 octobre 2026)
 - Source : CERT-FR (avis) (05/10/2026)
@@ -195,13 +181,6 @@ Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. El
 - Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/
 
 Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2026-104286 est activement exploitée. Des indicateurs de compromission sont disponibles dans 
-
-## England's schools are getting better at mopping up cyber incidents
-- Source : The Register (sécurité) (01/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/security/2026/10/01/englands-schools-are-getting-better-at-mopping-up-cyber-incidents/5300465
-
-Two-thirds report immediate recovery, although teachers remain divided over whose job security is
 
 ## Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation
 - Source : Krebs on Security (28/09/2026)
