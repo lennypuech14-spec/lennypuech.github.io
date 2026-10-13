@@ -1,7 +1,71 @@
 {
-  "maj": "2026-10-12T13:43:43.043120+00:00",
+  "maj": "2026-10-13T13:04:20.541887+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Cyberattacks crank French supermarket refrigeration systems up to 50°C",
+      "lien": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784",
+      "resume": "Stock spoiled at hundreds of stores as manufacturer says affected equipment ran outdated firmware",
+      "date": "2026-10-13T14:00:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "AI Turns Familiar Cyberattacks Into a Race Against Time",
+      "lien": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
+      "resume": "IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses. The post AI Turns Familiar Cyberattacks Into a Race Against Time appeared first on SecurityWeek .",
+      "date": "2026-10-13T11:00:00+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Owner of fashion brands Hobbs and Whistles joins autumn pwned collection",
+      "lien": "https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752",
+      "resume": "Several IT systems remain offline and orders face delays as TFG London becomes latest retailer to suffer cyberattack",
+      "date": "2026-10-13T11:45:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
+      "lien": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
+      "resume": "The company says it took some of its systems offline to contain a security issue within its network. The post Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems appeared first on SecurityWeek .",
+      "date": "2026-10-13T09:37:12+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
+      "lien": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
+      "resume": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food Across European Supermarkets appeared first on SecurityWeek .",
+      "date": "2026-10-13T08:28:51+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Cyberattack shuts down refrigerators at French supermarkets",
+      "lien": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "resume": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+      "date": "2026-10-12T11:23:34-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "lien": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "resume": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution cap",
+      "date": "2026-10-12T10:00:10-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "lien": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "resume": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
+      "date": "2026-10-12T09:51:07-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
     {
       "titre": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
       "lien": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
@@ -27,35 +91,11 @@
       "score": 2
     },
     {
-      "titre": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe",
-      "lien": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
-      "resume": "The suspect is believed to be Edward Dubrovsky, a Canadian cybersecurity executive who was visiting the United States for a conference. The post Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe appeared first on SecurityWeek .",
-      "date": "2026-10-12T10:32:05+00:00",
-      "source": "SecurityWeek",
-      "score": 5
-    },
-    {
       "titre": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
       "lien": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
       "resume": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload a",
       "date": "2026-10-12T14:32:14+05:30",
       "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Critical SonicWall Vulnerability Exploited Days After Disclosure",
-      "lien": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
-      "resume": "CVE-2026-102255 is a pre-authenticated SSRF flaw that could allow attackers to perform unauthorized operations. The post Critical SonicWall Vulnerability Exploited Days After Disclosure appeared first on SecurityWeek .",
-      "date": "2026-10-12T08:36:01+00:00",
-      "source": "SecurityWeek",
-      "score": 2
-    },
-    {
-      "titre": "Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch",
-      "lien": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
-      "resume": "Beginning February 2027, all newly issued certificates will have a 64-day validity period by default. The post Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch appeared first on SecurityWeek .",
-      "date": "2026-10-12T07:53:28+00:00",
-      "source": "SecurityWeek",
       "score": 2
     },
     {
@@ -72,14 +112,6 @@
       "resume": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
       "date": "2026-10-10T10:16:17-04:00",
       "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
-      "lien": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
-      "resume": "The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison appeared first on SecurityWeek .",
-      "date": "2026-10-10T11:00:00+00:00",
-      "source": "SecurityWeek",
       "score": 2
     },
     {
@@ -107,36 +139,12 @@
       "score": 4
     },
     {
-      "titre": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "lien": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "resume": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-      "date": "2026-10-09T13:02:29-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "lien": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "resume": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
-      "date": "2026-10-09T11:38:56-04:00",
-      "source": "BleepingComputer",
-      "score": 7
-    },
-    {
       "titre": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
       "lien": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
       "resume": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper ",
       "date": "2026-10-09T18:17:26+05:30",
       "source": "The Hacker News",
       "score": 4
-    },
-    {
-      "titre": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "lien": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "resume": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
-      "date": "2026-10-09T08:32:16-04:00",
-      "source": "BleepingComputer",
-      "score": 2
     },
     {
       "titre": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
@@ -155,6 +163,14 @@
       "score": 5
     },
     {
+      "titre": "UK and Germany team up against Russian cyberattacks as Brexit rethink looms",
+      "lien": "https://www.theregister.com/security/2026/10/08/uk-and-germany-team-up-against-russian-cyberattacks-as-brexit-rethink-looms/5301914",
+      "resume": "Security pact promises information-sharing and coordinated disruption, but offers little detail on agencies or funding",
+      "date": "2026-10-08T13:22:01+02:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
       "titre": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
       "lien": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
       "resume": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code ",
@@ -163,11 +179,27 @@
       "score": 2
     },
     {
+      "titre": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
+      "lien": "https://www.theregister.com/security/2026/10/08/cheapskates-wouldnt-pay-for-security-help-got-hit-by-ransomware-and-went-bust-months-later/5301757",
+      "resume": "The owner knew a guy...",
+      "date": "2026-10-08T10:15:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 5
+    },
+    {
       "titre": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
       "lien": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
       "resume": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary tools to recover their data. Zoh",
       "date": "2026-10-08T13:11:44+05:30",
       "source": "The Hacker News",
+      "score": 5
+    },
+    {
+      "titre": "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead",
+      "lien": "https://www.theregister.com/cyber-crime/2026/10/08/ransomware-fixer-claimed-he-could-decrypt-files-allegedly-defrauded-clients-instead/5301831",
+      "resume": "Feds claim he charged clients more than ransoms, paid up, pocketed the difference",
+      "date": "2026-10-08T04:29:55+02:00",
+      "source": "The Register (sécurité)",
       "score": 5
     },
     {
@@ -185,6 +217,14 @@
       "date": "2026-10-07T17:26:56+05:30",
       "source": "The Hacker News",
       "score": 2
+    },
+    {
+      "titre": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks",
+      "lien": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
+      "resume": "Tens of thousands more victims and more ransomware groups getting in on the act",
+      "date": "2026-10-07T12:52:09+02:00",
+      "source": "The Register (sécurité)",
+      "score": 5
     },
     {
       "titre": "Multiples vulnérabilités dans les produits Veeam (07 octobre 2026)",
@@ -208,6 +248,14 @@
       "resume": "Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2026-104286 est activement exploitée. Des indicateurs de compromission sont disponibles dans ",
       "date": "2026-10-02T00:00:00+00:00",
       "source": "CERT-FR (avis)",
+      "score": 2
+    },
+    {
+      "titre": "England's schools are getting better at mopping up cyber incidents",
+      "lien": "https://www.theregister.com/security/2026/10/01/englands-schools-are-getting-better-at-mopping-up-cyber-incidents/5300465",
+      "resume": "Two-thirds report immediate recovery, although teachers remain divided over whose job security is",
+      "date": "2026-10-01T13:40:13+02:00",
+      "source": "The Register (sécurité)",
       "score": 2
     },
     {
