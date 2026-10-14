@@ -1,4 +1,60 @@
-# Veille du 13/10/2026 : ransomwares et résilience
+# Veille du 14/10/2026 : ransomwares et résilience
+
+## Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day
+- Source : SecurityWeek (14/10/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/
+
+The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild. The post Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day appeared first on SecurityWeek .
+
+## Ransomware gets personal: 'We-know-where-you-are kind of stuff'
+- Source : The Register (sécurité) (14/10/2026)
+- Pertinence : 5
+- Lien : https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939
+
+37% of ransomware attacks involve psychological or physical threats, global survey found
+
+## Ghostscript flaw lets hackers hijack servers via PDF uploads
+- Source : BleepingComputer (13/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/
+
+A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]
+
+## Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN
+- Source : SecurityWeek (13/10/2026)
+- Pertinence : 3
+- Lien : https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/
+
+CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN appeared first on SecurityWeek .
+
+## Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far
+- Source : The Hacker News (13/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html
+
+An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to "act immediately." 
+
+## TFG London cyberattack disrupts systems at Hobbs and Whistles retailers
+- Source : BleepingComputer (13/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/
+
+TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]
+
+## Ivanti warns of Connect Secure zero-day exploited in attacks
+- Source : BleepingComputer (13/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/
+
+Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]
+
+## Docker Hub flaw let attackers impersonate users, tamper with images
+- Source : BleepingComputer (13/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/
+
+Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]
 
 ## Cyberattacks crank French supermarket refrigeration systems up to 50°C
 - Source : The Register (sécurité) (13/10/2026)
@@ -7,61 +63,12 @@
 
 Stock spoiled at hundreds of stores as manufacturer says affected equipment ran outdated firmware
 
-## AI Turns Familiar Cyberattacks Into a Race Against Time
-- Source : SecurityWeek (13/10/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/
-
-IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses. The post AI Turns Familiar Cyberattacks Into a Race Against Time appeared first on SecurityWeek .
-
 ## Owner of fashion brands Hobbs and Whistles joins autumn pwned collection
 - Source : The Register (sécurité) (13/10/2026)
 - Pertinence : 2
 - Lien : https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752
 
 Several IT systems remain offline and orders face delays as TFG London becomes latest retailer to suffer cyberattack
-
-## Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems
-- Source : SecurityWeek (13/10/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/
-
-The company says it took some of its systems offline to contain a security issue within its network. The post Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems appeared first on SecurityWeek .
-
-## Refrigeration Controller Hack Spoils Food Across European Supermarkets
-- Source : SecurityWeek (13/10/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/
-
-A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food Across European Supermarkets appeared first on SecurityWeek .
-
-## Cyberattack shuts down refrigerators at French supermarkets
-- Source : BleepingComputer (12/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/
-
-Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]
-
-## Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption
-- Source : BleepingComputer (12/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/
-
-A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution cap
-
-## Retail giant Ahold Delhaize takes systems offline after cyberattack
-- Source : BleepingComputer (12/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/
-
-Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a "cybersecurity incident" affecting its network. [...]
-
-## Bricksforge WordPress Plugin Vulnerability Exploited in the Wild
-- Source : SecurityWeek (12/10/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/
-
-The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites. The post Bricksforge WordPress Plugin Vulnerability Exploited in the Wild appeared first on SecurityWeek .
 
 ## Une cyberattaque dérègle le froid des supermarchés
 - Source : ZATAZ (12/10/2026)
@@ -84,20 +91,6 @@ Threat actors have been observed exploiting a recently disclosed critical securi
 
 A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload a
 
-## Cyber exec arrested in case allegedly tied to ShinyHunters hackers
-- Source : BleepingComputer (10/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/
-
-Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]
-
-## ARTEX AI, Claude agents used in cyberattacks on South Korean banks
-- Source : BleepingComputer (10/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/
-
-The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]
-
 ## FBI Arrests Executive at Ransomware Negotiation Firm
 - Source : Krebs on Security (10/10/2026)
 - Pertinence : 5
@@ -111,13 +104,6 @@ Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the c
 - Lien : https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html
 
 The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and
-
-## Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto
-- Source : BleepingComputer (09/10/2026)
-- Pertinence : 4
-- Lien : https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/
-
-Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]
 
 ## Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge
 - Source : The Hacker News (09/10/2026)
@@ -182,13 +168,6 @@ Feds claim he charged clients more than ransoms, paid up, pocketed the differenc
 
 A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacke
 
-## FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials
-- Source : The Hacker News (07/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html
-
-The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN)
-
 ## FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks
 - Source : The Register (sécurité) (07/10/2026)
 - Pertinence : 5
@@ -216,13 +195,6 @@ Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. El
 - Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1257/
 
 Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2026-104286 est activement exploitée. Des indicateurs de compromission sont disponibles dans 
-
-## England's schools are getting better at mopping up cyber incidents
-- Source : The Register (sécurité) (01/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/security/2026/10/01/englands-schools-are-getting-better-at-mopping-up-cyber-incidents/5300465
-
-Two-thirds report immediate recovery, although teachers remain divided over whose job security is
 
 ## Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation
 - Source : Krebs on Security (28/09/2026)

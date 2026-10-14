@@ -1,7 +1,71 @@
 {
-  "maj": "2026-10-13T13:04:20.541887+00:00",
+  "maj": "2026-10-14T10:46:13.358391+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
+      "lien": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
+      "resume": "The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild. The post Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day appeared first on SecurityWeek .",
+      "date": "2026-10-14T07:16:12+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
+      "lien": "https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939",
+      "resume": "37% of ransomware attacks involve psychological or physical threats, global survey found",
+      "date": "2026-10-14T07:00:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 5
+    },
+    {
+      "titre": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "lien": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "resume": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+      "date": "2026-10-13T17:33:26-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+      "lien": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+      "resume": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN appeared first on SecurityWeek .",
+      "date": "2026-10-13T18:43:43+00:00",
+      "source": "SecurityWeek",
+      "score": 3
+    },
+    {
+      "titre": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "lien": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "resume": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" ",
+      "date": "2026-10-13T23:03:11+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+      "lien": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+      "resume": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
+      "date": "2026-10-13T12:44:18-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+      "lien": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+      "resume": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
+      "date": "2026-10-13T11:45:50-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Docker Hub flaw let attackers impersonate users, tamper with images",
+      "lien": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
+      "resume": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
+      "date": "2026-10-13T11:20:20-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
     {
       "titre": "Cyberattacks crank French supermarket refrigeration systems up to 50°C",
       "lien": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784",
@@ -11,67 +75,11 @@
       "score": 2
     },
     {
-      "titre": "AI Turns Familiar Cyberattacks Into a Race Against Time",
-      "lien": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
-      "resume": "IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses. The post AI Turns Familiar Cyberattacks Into a Race Against Time appeared first on SecurityWeek .",
-      "date": "2026-10-13T11:00:00+00:00",
-      "source": "SecurityWeek",
-      "score": 2
-    },
-    {
       "titre": "Owner of fashion brands Hobbs and Whistles joins autumn pwned collection",
       "lien": "https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752",
       "resume": "Several IT systems remain offline and orders face delays as TFG London becomes latest retailer to suffer cyberattack",
       "date": "2026-10-13T11:45:00+02:00",
       "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
-      "lien": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
-      "resume": "The company says it took some of its systems offline to contain a security issue within its network. The post Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems appeared first on SecurityWeek .",
-      "date": "2026-10-13T09:37:12+00:00",
-      "source": "SecurityWeek",
-      "score": 2
-    },
-    {
-      "titre": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
-      "lien": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
-      "resume": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food Across European Supermarkets appeared first on SecurityWeek .",
-      "date": "2026-10-13T08:28:51+00:00",
-      "source": "SecurityWeek",
-      "score": 2
-    },
-    {
-      "titre": "Cyberattack shuts down refrigerators at French supermarkets",
-      "lien": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "resume": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-      "date": "2026-10-12T11:23:34-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-      "lien": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-      "resume": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution cap",
-      "date": "2026-10-12T10:00:10-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-      "lien": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-      "resume": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
-      "date": "2026-10-12T09:51:07-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
-      "lien": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
-      "resume": "The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites. The post Bricksforge WordPress Plugin Vulnerability Exploited in the Wild appeared first on SecurityWeek .",
-      "date": "2026-10-12T13:14:37+00:00",
-      "source": "SecurityWeek",
       "score": 2
     },
     {
@@ -99,22 +107,6 @@
       "score": 2
     },
     {
-      "titre": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-      "lien": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-      "resume": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
-      "date": "2026-10-10T11:07:54-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-      "lien": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "resume": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
-      "date": "2026-10-10T10:16:17-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
       "titre": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "lien": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "resume": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sou",
@@ -129,14 +121,6 @@
       "date": "2026-10-09T23:15:26+05:30",
       "source": "The Hacker News",
       "score": 2
-    },
-    {
-      "titre": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "lien": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-      "resume": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
-      "date": "2026-10-09T13:17:23-04:00",
-      "source": "BleepingComputer",
-      "score": 4
     },
     {
       "titre": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
@@ -211,14 +195,6 @@
       "score": 2
     },
     {
-      "titre": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-      "lien": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-      "resume": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN)",
-      "date": "2026-10-07T17:26:56+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
       "titre": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks",
       "lien": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
       "resume": "Tens of thousands more victims and more ransomware groups getting in on the act",
@@ -248,14 +224,6 @@
       "resume": "Une vulnérabilité a été découverte dans Fortinet FortiMail. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2026-104286 est activement exploitée. Des indicateurs de compromission sont disponibles dans ",
       "date": "2026-10-02T00:00:00+00:00",
       "source": "CERT-FR (avis)",
-      "score": 2
-    },
-    {
-      "titre": "England's schools are getting better at mopping up cyber incidents",
-      "lien": "https://www.theregister.com/security/2026/10/01/englands-schools-are-getting-better-at-mopping-up-cyber-incidents/5300465",
-      "resume": "Two-thirds report immediate recovery, although teachers remain divided over whose job security is",
-      "date": "2026-10-01T13:40:13+02:00",
-      "source": "The Register (sécurité)",
       "score": 2
     },
     {
