@@ -1,11 +1,60 @@
-# Veille du 15/10/2026 : ransomwares et résilience
+# Veille du 16/10/2026 : ransomwares et résilience
 
-## Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution
+## BAE Systems cyberattack disrupts US federal court operations
+- Source : BleepingComputer (16/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/
+
+The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]
+
+## User refused to change her password because everyone already knew it
+- Source : The Register (sécurité) (16/10/2026)
+- Pertinence : 5
+- Lien : https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864
+
+School staff seemed to be trying to get ransomware – for a second time
+
+## China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers
+- Source : The Hacker News (16/10/2026)
+- Pertinence : 3
+- Lien : https://thehackernews.com/2026/10/china-linked-hackers-exploited.html
+
+The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score
+
+## PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions
+- Source : The Hacker News (16/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html
+
+A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw
+
+## Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory
+- Source : The Hacker News (16/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html
+
+A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and 
+
+## Context Is King in the Fight Against Modern Cyberattacks
 - Source : SecurityWeek (15/10/2026)
 - Pertinence : 2
-- Lien : https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/
+- Lien : https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/
 
-The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available. The post Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution appeared first on SecurityWeek .
+Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .
+
+## Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers
+- Source : SecurityWeek (15/10/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/
+
+Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek .
+
+## Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation
+- Source : The Hacker News (15/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html
+
+Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. "A remote co
 
 ## AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches
 - Source : The Hacker News (15/10/2026)
@@ -14,12 +63,12 @@ The company says it’s aware of limited exploitation against customers’ firew
 
 Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be 
 
-## Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation
-- Source : The Hacker News (15/10/2026)
+## Vulnérabilité dans Cisco AsyncOS Software pour Secure Email Gateway (15 octobre 2026)
+- Source : CERT-FR (avis) (15/10/2026)
 - Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html
+- Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1325/
 
-Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. "A remote co
+Une vulnérabilité a été découverte dans Cisco AsyncOS Software pour Secure Email Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. Cisco indique que la vulnérabilité CVE-2026-76519 est activemen
 
 ## Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks
 - Source : BleepingComputer (14/10/2026)
@@ -48,13 +97,6 @@ The United Kingdom has issued economic sanctions against Cryptomus, a chameleoni
 - Lien : https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-013/
 
 Une vulnérabilité a été découverte dans Ivanti Connect Secure (ICS). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que cette vulnérabilité CVE-2026-1
-
-## Ghostscript flaw lets hackers hijack servers via PDF uploads
-- Source : BleepingComputer (13/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/
-
-A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]
 
 ## Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far
 - Source : The Hacker News (13/10/2026)
@@ -105,20 +147,6 @@ A maximum-severity security flaw impacting the Bricksforge plugin for WordPress 
 
 Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sou
 
-## FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack
-- Source : The Hacker News (09/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html
-
-The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and
-
-## Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge
-- Source : The Hacker News (09/10/2026)
-- Pertinence : 4
-- Lien : https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html
-
-Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper 
-
 ## UK and Germany team up against Russian cyberattacks as Brexit rethink looms
 - Source : The Register (sécurité) (08/10/2026)
 - Pertinence : 2
@@ -153,13 +181,6 @@ A teenager from Amman, Jordan suspected of leading the prolific data theft and e
 - Lien : https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585
 
 Tens of thousands more victims and more ransomware groups getting in on the act
-
-## Multiples vulnérabilités dans les produits Veeam (07 octobre 2026)
-- Source : CERT-FR (avis) (07/10/2026)
-- Pertinence : 3
-- Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1278/
-
-De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).
 
 ## Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation
 - Source : Krebs on Security (28/09/2026)
