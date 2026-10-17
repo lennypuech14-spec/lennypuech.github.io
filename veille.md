@@ -1,4 +1,32 @@
-# Veille du 16/10/2026 : ransomwares et résilience
+# Veille du 17/10/2026 : ransomwares et résilience
+
+## Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants
+- Source : The Hacker News (17/10/2026)
+- Pertinence : 3
+- Lien : https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html
+
+Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environm
+
+## Critical BlockStrap flaw lets hackers run code on Magento servers
+- Source : BleepingComputer (16/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/
+
+Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]
+
+## Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor
+- Source : The Hacker News (16/10/2026)
+- Pertinence : 3
+- Lien : https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html
+
+Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows w
+
+## Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day
+- Source : SecurityWeek (16/10/2026)
+- Pertinence : 3
+- Lien : https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/
+
+Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek .
 
 ## BAE Systems cyberattack disrupts US federal court operations
 - Source : BleepingComputer (16/10/2026)
@@ -42,13 +70,6 @@ A newly disclosed critical flaw in the Linux kernel allows code inside a virtual
 
 Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .
 
-## Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers
-- Source : SecurityWeek (15/10/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/
-
-Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek .
-
 ## Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation
 - Source : The Hacker News (15/10/2026)
 - Pertinence : 2
@@ -69,13 +90,6 @@ Singapore-based Ahsay Backup has released security updates to address two securi
 - Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1325/
 
 Une vulnérabilité a été découverte dans Cisco AsyncOS Software pour Secure Email Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. Cisco indique que la vulnérabilité CVE-2026-76519 est activemen
-
-## Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks
-- Source : BleepingComputer (14/10/2026)
-- Pertinence : 3
-- Lien : https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/
-
-Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]
 
 ## U.K. Sanctions Cryptomus for RU Money Laundering
 - Source : Krebs on Security (14/10/2026)
@@ -125,20 +139,6 @@ Several IT systems remain offline and orders face delays as TFG London becomes l
 - Lien : https://www.zataz.com/une-cyberattaque-deregle-le-froid-des-supermarches/
 
 Une cyberattaque vise le froid des supermarchés : stocks détruits, pertes estimées et précédents analysés par ZATAZ.
-
-## Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch
-- Source : The Hacker News (12/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html
-
-Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a case of pre-authenticated serve
-
-## Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE
-- Source : The Hacker News (12/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html
-
-A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload a
 
 ## FBI Arrests Executive at Ransomware Negotiation Firm
 - Source : Krebs on Security (10/10/2026)

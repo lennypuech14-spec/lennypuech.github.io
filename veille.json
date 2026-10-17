@@ -1,7 +1,39 @@
 {
-  "maj": "2026-10-16T10:15:51.871504+00:00",
+  "maj": "2026-10-17T09:50:04.271700+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "lien": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "resume": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environm",
+      "date": "2026-10-17T11:46:46+05:30",
+      "source": "The Hacker News",
+      "score": 3
+    },
+    {
+      "titre": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "lien": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "resume": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+      "date": "2026-10-16T16:00:59-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "lien": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "resume": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows w",
+      "date": "2026-10-16T22:13:39+05:30",
+      "source": "The Hacker News",
+      "score": 3
+    },
+    {
+      "titre": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+      "lien": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+      "resume": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek .",
+      "date": "2026-10-16T10:53:22+00:00",
+      "source": "SecurityWeek",
+      "score": 3
+    },
     {
       "titre": "BAE Systems cyberattack disrupts US federal court operations",
       "lien": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
@@ -51,14 +83,6 @@
       "score": 2
     },
     {
-      "titre": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
-      "lien": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-      "resume": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek .",
-      "date": "2026-10-15T12:50:42+00:00",
-      "source": "SecurityWeek",
-      "score": 2
-    },
-    {
       "titre": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
       "lien": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
       "resume": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote co",
@@ -81,14 +105,6 @@
       "date": "2026-10-15T00:00:00+00:00",
       "source": "CERT-FR (avis)",
       "score": 2
-    },
-    {
-      "titre": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-      "lien": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-      "resume": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
-      "date": "2026-10-14T18:56:47-04:00",
-      "source": "BleepingComputer",
-      "score": 3
     },
     {
       "titre": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -144,22 +160,6 @@
       "resume": "Une cyberattaque vise le froid des supermarchés : stocks détruits, pertes estimées et précédents analysés par ZATAZ.",
       "date": "2026-10-12T11:29:45+00:00",
       "source": "ZATAZ",
-      "score": 2
-    },
-    {
-      "titre": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "lien": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-      "resume": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a case of pre-authenticated serve",
-      "date": "2026-10-12T16:06:56+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-      "lien": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-      "resume": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload a",
-      "date": "2026-10-12T14:32:14+05:30",
-      "source": "The Hacker News",
       "score": 2
     },
     {
