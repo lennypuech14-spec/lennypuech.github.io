@@ -1,4 +1,32 @@
-# Veille du 17/10/2026 : ransomwares et résilience
+# Veille du 18/10/2026 : ransomwares et résilience
+
+## ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
+- Source : The Hacker News (18/10/2026)
+- Pertinence : 3
+- Lien : https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
+
+ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled i
+
+## Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack
+- Source : BleepingComputer (17/10/2026)
+- Pertinence : 3
+- Lien : https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/
+
+ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]
+
+## Cyberattaques : des sites français ciblés par des pirates
+- Source : ZATAZ (17/10/2026)
+- Pertinence : 2
+- Lien : https://www.zataz.com/cyberattaques-des-sites-francais-cibles-par-des-pirates/
+
+Des pirates ciblent des industriels français et des opérateurs étatiques. L'un des groupes vend DDoS et exfiltration de données !
+
+## Cyberattaques : les supermarchés européens perturbés
+- Source : ZATAZ (17/10/2026)
+- Pertinence : 2
+- Lien : https://www.zataz.com/cyberattaques-les-supermarches-europeens-perturbes/
+
+Cyberattaques dans les supermarchés : froid saboté en France et perturbations dans des bases militaires US et enseignes en Europe.
 
 ## Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants
 - Source : The Hacker News (17/10/2026)

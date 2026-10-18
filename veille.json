@@ -1,7 +1,39 @@
 {
-  "maj": "2026-10-17T09:50:04.271700+00:00",
+  "maj": "2026-10-18T10:01:27.037897+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "lien": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "resume": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled i",
+      "date": "2026-10-18T13:53:02+05:30",
+      "source": "The Hacker News",
+      "score": 3
+    },
+    {
+      "titre": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "resume": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "date": "2026-10-17T11:18:51-04:00",
+      "source": "BleepingComputer",
+      "score": 3
+    },
+    {
+      "titre": "Cyberattaques : des sites français ciblés par des pirates",
+      "lien": "https://www.zataz.com/cyberattaques-des-sites-francais-cibles-par-des-pirates/",
+      "resume": "Des pirates ciblent des industriels français et des opérateurs étatiques. L'un des groupes vend DDoS et exfiltration de données !",
+      "date": "2026-10-17T13:03:32+00:00",
+      "source": "ZATAZ",
+      "score": 2
+    },
+    {
+      "titre": "Cyberattaques : les supermarchés européens perturbés",
+      "lien": "https://www.zataz.com/cyberattaques-les-supermarches-europeens-perturbes/",
+      "resume": "Cyberattaques dans les supermarchés : froid saboté en France et perturbations dans des bases militaires US et enseignes en Europe.",
+      "date": "2026-10-17T09:50:36+00:00",
+      "source": "ZATAZ",
+      "score": 2
+    },
     {
       "titre": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
       "lien": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
