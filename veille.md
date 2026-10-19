@@ -1,4 +1,18 @@
-# Veille du 18/10/2026 : ransomwares et résilience
+# Veille du 19/10/2026 : ransomwares et résilience
+
+## ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU
+- Source : The Register (sécurité) (19/10/2026)
+- Pertinence : 3
+- Lien : https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758
+
+Huntress alleges takeover of M365 accounts
+
+## Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking
+- Source : The Register (sécurité) (19/10/2026)
+- Pertinence : 2
+- Lien : https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744
+
+Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape
 
 ## ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
 - Source : The Hacker News (18/10/2026)
@@ -90,13 +104,6 @@ A suspected advanced threat actor has been observed exploiting a security flaw i
 - Lien : https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html
 
 A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and 
-
-## Context Is King in the Fight Against Modern Cyberattacks
-- Source : SecurityWeek (15/10/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/
-
-Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .
 
 ## Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation
 - Source : The Hacker News (15/10/2026)

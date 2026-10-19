@@ -1,7 +1,23 @@
 {
-  "maj": "2026-10-18T10:01:27.037897+00:00",
+  "maj": "2026-10-19T11:25:54.803569+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU",
+      "lien": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758",
+      "resume": "Huntress alleges takeover of M365 accounts",
+      "date": "2026-10-19T06:31:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 3
+    },
+    {
+      "titre": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+      "lien": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
+      "resume": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape",
+      "date": "2026-10-19T02:33:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
     {
       "titre": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
       "lien": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
@@ -104,14 +120,6 @@
       "resume": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and ",
       "date": "2026-10-16T01:54:36+05:30",
       "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Context Is King in the Fight Against Modern Cyberattacks",
-      "lien": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
-      "resume": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .",
-      "date": "2026-10-15T17:42:50+00:00",
-      "source": "SecurityWeek",
       "score": 2
     },
     {
