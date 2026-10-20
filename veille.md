@@ -1,18 +1,39 @@
-# Veille du 19/10/2026 : ransomwares et résilience
+# Veille du 20/10/2026 : ransomwares et résilience
 
-## ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU
-- Source : The Register (sécurité) (19/10/2026)
-- Pertinence : 3
-- Lien : https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758
-
-Huntress alleges takeover of M365 accounts
-
-## Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking
-- Source : The Register (sécurité) (19/10/2026)
+## ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan
+- Source : The Hacker News (20/10/2026)
 - Pertinence : 2
-- Lien : https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744
+- Lien : https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html
 
-Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape
+Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL 
+
+## Hackers hijack AOMEI update servers to secretly spread malware
+- Source : BleepingComputer (19/10/2026)
+- Pertinence : 3
+- Lien : https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/
+
+Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]
+
+## Bullhorn takes staffing platform offline to contain cyberattack
+- Source : BleepingComputer (19/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/
+
+Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]
+
+## Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site
+- Source : Krebs on Security (19/10/2026)
+- Pertinence : 7
+- Lien : https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
+
+U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity ha
+
+## ConnectWise Suspends Cloud Services in Response to Cyberattack
+- Source : SecurityWeek (19/10/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/
+
+The services remain unavailable as the company continues remediation and security validation. The post ConnectWise Suspends Cloud Services in Response to Cyberattack appeared first on SecurityWeek .
 
 ## ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
 - Source : The Hacker News (18/10/2026)
@@ -63,27 +84,6 @@ Researchers warn that hackers could soon exploit a maximum-severity vulnerabilit
 
 Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows w
 
-## Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day
-- Source : SecurityWeek (16/10/2026)
-- Pertinence : 3
-- Lien : https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/
-
-Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek .
-
-## BAE Systems cyberattack disrupts US federal court operations
-- Source : BleepingComputer (16/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/
-
-The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]
-
-## User refused to change her password because everyone already knew it
-- Source : The Register (sécurité) (16/10/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864
-
-School staff seemed to be trying to get ransomware – for a second time
-
 ## China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers
 - Source : The Hacker News (16/10/2026)
 - Pertinence : 3
@@ -133,40 +133,12 @@ Une vulnérabilité a été découverte dans Cisco AsyncOS Software pour Secure 
 
 The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent ex
 
-## Ransomware gets personal: 'We-know-where-you-are kind of stuff'
-- Source : The Register (sécurité) (14/10/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939
-
-37% of ransomware attacks involve psychological or physical threats, global survey found
-
 ## Vulnérabilité dans Ivanti Connect Secure (ICS) (14 octobre 2026)
 - Source : CERT-FR (alertes) (14/10/2026)
 - Pertinence : 2
 - Lien : https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-013/
 
 Une vulnérabilité a été découverte dans Ivanti Connect Secure (ICS). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que cette vulnérabilité CVE-2026-1
-
-## Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far
-- Source : The Hacker News (13/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html
-
-An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to "act immediately." 
-
-## Cyberattacks crank French supermarket refrigeration systems up to 50°C
-- Source : The Register (sécurité) (13/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784
-
-Stock spoiled at hundreds of stores as manufacturer says affected equipment ran outdated firmware
-
-## Owner of fashion brands Hobbs and Whistles joins autumn pwned collection
-- Source : The Register (sécurité) (13/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752
-
-Several IT systems remain offline and orders face delays as TFG London becomes latest retailer to suffer cyberattack
 
 ## Une cyberattaque dérègle le froid des supermarchés
 - Source : ZATAZ (12/10/2026)
@@ -182,40 +154,12 @@ Une cyberattaque vise le froid des supermarchés : stocks détruits, pertes esti
 
 Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sou
 
-## UK and Germany team up against Russian cyberattacks as Brexit rethink looms
-- Source : The Register (sécurité) (08/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/security/2026/10/08/uk-and-germany-team-up-against-russian-cyberattacks-as-brexit-rethink-looms/5301914
-
-Security pact promises information-sharing and coordinated disruption, but offers little detail on agencies or funding
-
-## Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later
-- Source : The Register (sécurité) (08/10/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/security/2026/10/08/cheapskates-wouldnt-pay-for-security-help-got-hit-by-ransomware-and-went-bust-months-later/5301757
-
-The owner knew a guy...
-
-## Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead
-- Source : The Register (sécurité) (08/10/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/cyber-crime/2026/10/08/ransomware-fixer-claimed-he-could-decrypt-files-allegedly-defrauded-clients-instead/5301831
-
-Feds claim he charged clients more than ransoms, paid up, pocketed the difference
-
 ## ShinyHunters Extorted Boeing Spin-off Prior to Arrests
 - Source : Krebs on Security (07/10/2026)
 - Pertinence : 2
 - Lien : https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/
 
 A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacke
-
-## FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks
-- Source : The Register (sécurité) (07/10/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585
-
-Tens of thousands more victims and more ransomware groups getting in on the act
 
 ## Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation
 - Source : Krebs on Security (28/09/2026)

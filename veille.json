@@ -1,21 +1,45 @@
 {
-  "maj": "2026-10-19T11:25:54.803569+00:00",
+  "maj": "2026-10-20T10:32:08.500781+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
     {
-      "titre": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU",
-      "lien": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758",
-      "resume": "Huntress alleges takeover of M365 accounts",
-      "date": "2026-10-19T06:31:00+02:00",
-      "source": "The Register (sécurité)",
+      "titre": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "lien": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "resume": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL ",
+      "date": "2026-10-20T12:41:45+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Hackers hijack AOMEI update servers to secretly spread malware",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+      "resume": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
+      "date": "2026-10-19T15:40:58-04:00",
+      "source": "BleepingComputer",
       "score": 3
     },
     {
-      "titre": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
-      "lien": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
-      "resume": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape",
-      "date": "2026-10-19T02:33:00+02:00",
-      "source": "The Register (sécurité)",
+      "titre": "Bullhorn takes staffing platform offline to contain cyberattack",
+      "lien": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+      "resume": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
+      "date": "2026-10-19T14:51:13-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "lien": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "resume": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity ha",
+      "date": "2026-10-19T13:48:56+00:00",
+      "source": "Krebs on Security",
+      "score": 7
+    },
+    {
+      "titre": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
+      "lien": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
+      "resume": "The services remain unavailable as the company continues remediation and security validation. The post ConnectWise Suspends Cloud Services in Response to Cyberattack appeared first on SecurityWeek .",
+      "date": "2026-10-19T13:16:20+00:00",
+      "source": "SecurityWeek",
       "score": 2
     },
     {
@@ -75,30 +99,6 @@
       "score": 3
     },
     {
-      "titre": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
-      "lien": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
-      "resume": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek .",
-      "date": "2026-10-16T10:53:22+00:00",
-      "source": "SecurityWeek",
-      "score": 3
-    },
-    {
-      "titre": "BAE Systems cyberattack disrupts US federal court operations",
-      "lien": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "resume": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-      "date": "2026-10-16T03:37:35-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "User refused to change her password because everyone already knew it",
-      "lien": "https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864",
-      "resume": "School staff seemed to be trying to get ransomware – for a second time",
-      "date": "2026-10-16T09:28:00+02:00",
-      "source": "The Register (sécurité)",
-      "score": 5
-    },
-    {
       "titre": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
       "lien": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
       "resume": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score",
@@ -155,43 +155,11 @@
       "score": 5
     },
     {
-      "titre": "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
-      "lien": "https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939",
-      "resume": "37% of ransomware attacks involve psychological or physical threats, global survey found",
-      "date": "2026-10-14T07:00:00+02:00",
-      "source": "The Register (sécurité)",
-      "score": 5
-    },
-    {
       "titre": "Vulnérabilité dans Ivanti Connect Secure (ICS) (14 octobre 2026)",
       "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-013/",
       "resume": "Une vulnérabilité a été découverte dans Ivanti Connect Secure (ICS). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que cette vulnérabilité CVE-2026-1",
       "date": "2026-10-14T00:00:00+00:00",
       "source": "CERT-FR (alertes)",
-      "score": 2
-    },
-    {
-      "titre": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "lien": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "resume": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" ",
-      "date": "2026-10-13T23:03:11+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Cyberattacks crank French supermarket refrigeration systems up to 50°C",
-      "lien": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784",
-      "resume": "Stock spoiled at hundreds of stores as manufacturer says affected equipment ran outdated firmware",
-      "date": "2026-10-13T14:00:00+02:00",
-      "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "Owner of fashion brands Hobbs and Whistles joins autumn pwned collection",
-      "lien": "https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752",
-      "resume": "Several IT systems remain offline and orders face delays as TFG London becomes latest retailer to suffer cyberattack",
-      "date": "2026-10-13T11:45:00+02:00",
-      "source": "The Register (sécurité)",
       "score": 2
     },
     {
@@ -211,44 +179,12 @@
       "score": 5
     },
     {
-      "titre": "UK and Germany team up against Russian cyberattacks as Brexit rethink looms",
-      "lien": "https://www.theregister.com/security/2026/10/08/uk-and-germany-team-up-against-russian-cyberattacks-as-brexit-rethink-looms/5301914",
-      "resume": "Security pact promises information-sharing and coordinated disruption, but offers little detail on agencies or funding",
-      "date": "2026-10-08T13:22:01+02:00",
-      "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
-      "lien": "https://www.theregister.com/security/2026/10/08/cheapskates-wouldnt-pay-for-security-help-got-hit-by-ransomware-and-went-bust-months-later/5301757",
-      "resume": "The owner knew a guy...",
-      "date": "2026-10-08T10:15:00+02:00",
-      "source": "The Register (sécurité)",
-      "score": 5
-    },
-    {
-      "titre": "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead",
-      "lien": "https://www.theregister.com/cyber-crime/2026/10/08/ransomware-fixer-claimed-he-could-decrypt-files-allegedly-defrauded-clients-instead/5301831",
-      "resume": "Feds claim he charged clients more than ransoms, paid up, pocketed the difference",
-      "date": "2026-10-08T04:29:55+02:00",
-      "source": "The Register (sécurité)",
-      "score": 5
-    },
-    {
       "titre": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
       "lien": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "resume": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacke",
       "date": "2026-10-07T13:48:45+00:00",
       "source": "Krebs on Security",
       "score": 2
-    },
-    {
-      "titre": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks",
-      "lien": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
-      "resume": "Tens of thousands more victims and more ransomware groups getting in on the act",
-      "date": "2026-10-07T12:52:09+02:00",
-      "source": "The Register (sécurité)",
-      "score": 5
     },
     {
       "titre": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
