@@ -1,7 +1,103 @@
 {
-  "maj": "2026-10-20T10:32:08.500781+00:00",
+  "maj": "2026-10-21T10:44:59.259367+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "resume": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+      "date": "2026-10-21T04:36:24-04:00",
+      "source": "BleepingComputer",
+      "score": 5
+    },
+    {
+      "titre": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "lien": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "resume": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+      "date": "2026-10-20T21:01:50-04:00",
+      "source": "BleepingComputer",
+      "score": 3
+    },
+    {
+      "titre": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
+      "lien": "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
+      "resume": "Unit 42 investigates network compromises across numerous industries",
+      "date": "2026-10-20T19:33:26+02:00",
+      "source": "The Register (sécurité)",
+      "score": 6
+    },
+    {
+      "titre": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+      "lien": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "resume": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path t",
+      "date": "2026-10-20T21:08:52+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "lien": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "resume": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by ",
+      "date": "2026-10-20T21:02:27+05:30",
+      "source": "The Hacker News",
+      "score": 8
+    },
+    {
+      "titre": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
+      "lien": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
+      "resume": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign appeared first on SecurityWeek .",
+      "date": "2026-10-20T13:51:01+00:00",
+      "source": "SecurityWeek",
+      "score": 3
+    },
+    {
+      "titre": "'Password1' and a forgotten test account land Welsh outfits in hot water",
+      "lien": "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
+      "resume": "ICO reprimands Ogi Networks and Data Cymru after ransomware breach exposes info of 3,300 people, mostly children",
+      "date": "2026-10-20T15:35:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 5
+    },
+    {
+      "titre": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
+      "lien": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
+      "resume": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Services Disrupted by Cyberattack appeared first on SecurityWeek .",
+      "date": "2026-10-20T13:02:18+00:00",
+      "source": "SecurityWeek",
+      "score": 3
+    },
+    {
+      "titre": "Windows Server 2025 gets support for quick machine recovery",
+      "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
+      "resume": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
+      "date": "2026-10-20T08:16:32-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Bullhorn sees red after cyberattack knocks recruitment platform offline",
+      "lien": "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114",
+      "resume": "Staffing software giant calls in CrowdStrike as customers face login headaches and questions remain over possible data theft",
+      "date": "2026-10-20T14:15:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+      "lien": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
+      "resume": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
+      "date": "2026-10-20T07:18:35-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+      "lien": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+      "resume": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application i",
+      "date": "2026-10-20T16:26:08+05:30",
+      "source": "The Hacker News",
+      "score": 3
+    },
     {
       "titre": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
       "lien": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
@@ -11,19 +107,11 @@
       "score": 2
     },
     {
-      "titre": "Hackers hijack AOMEI update servers to secretly spread malware",
-      "lien": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-      "resume": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
-      "date": "2026-10-19T15:40:58-04:00",
-      "source": "BleepingComputer",
-      "score": 3
-    },
-    {
-      "titre": "Bullhorn takes staffing platform offline to contain cyberattack",
-      "lien": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-      "resume": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
-      "date": "2026-10-19T14:51:13-04:00",
-      "source": "BleepingComputer",
+      "titre": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
+      "lien": "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
+      "resume": "Second security snafu in two years",
+      "date": "2026-10-19T22:26:21+02:00",
+      "source": "The Register (sécurité)",
       "score": 2
     },
     {
@@ -35,11 +123,19 @@
       "score": 7
     },
     {
-      "titre": "ConnectWise Suspends Cloud Services in Response to Cyberattack",
-      "lien": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
-      "resume": "The services remain unavailable as the company continues remediation and security validation. The post ConnectWise Suspends Cloud Services in Response to Cyberattack appeared first on SecurityWeek .",
-      "date": "2026-10-19T13:16:20+00:00",
-      "source": "SecurityWeek",
+      "titre": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU",
+      "lien": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758",
+      "resume": "Huntress alleges takeover of M365 accounts",
+      "date": "2026-10-19T06:31:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 3
+    },
+    {
+      "titre": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+      "lien": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
+      "resume": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape",
+      "date": "2026-10-19T02:33:00+02:00",
+      "source": "The Register (sécurité)",
       "score": 2
     },
     {
@@ -51,30 +147,6 @@
       "score": 3
     },
     {
-      "titre": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "lien": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "resume": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
-      "date": "2026-10-17T11:18:51-04:00",
-      "source": "BleepingComputer",
-      "score": 3
-    },
-    {
-      "titre": "Cyberattaques : des sites français ciblés par des pirates",
-      "lien": "https://www.zataz.com/cyberattaques-des-sites-francais-cibles-par-des-pirates/",
-      "resume": "Des pirates ciblent des industriels français et des opérateurs étatiques. L'un des groupes vend DDoS et exfiltration de données !",
-      "date": "2026-10-17T13:03:32+00:00",
-      "source": "ZATAZ",
-      "score": 2
-    },
-    {
-      "titre": "Cyberattaques : les supermarchés européens perturbés",
-      "lien": "https://www.zataz.com/cyberattaques-les-supermarches-europeens-perturbes/",
-      "resume": "Cyberattaques dans les supermarchés : froid saboté en France et perturbations dans des bases militaires US et enseignes en Europe.",
-      "date": "2026-10-17T09:50:36+00:00",
-      "source": "ZATAZ",
-      "score": 2
-    },
-    {
       "titre": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
       "lien": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
       "resume": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environm",
@@ -83,20 +155,20 @@
       "score": 3
     },
     {
-      "titre": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-      "lien": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-      "resume": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
-      "date": "2026-10-16T16:00:59-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
       "titre": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
       "lien": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
       "resume": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows w",
       "date": "2026-10-16T22:13:39+05:30",
       "source": "The Hacker News",
       "score": 3
+    },
+    {
+      "titre": "User refused to change her password because everyone already knew it",
+      "lien": "https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864",
+      "resume": "School staff seemed to be trying to get ransomware – for a second time",
+      "date": "2026-10-16T09:28:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 5
     },
     {
       "titre": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
@@ -131,14 +203,6 @@
       "score": 2
     },
     {
-      "titre": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "lien": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "resume": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be ",
-      "date": "2026-10-15T12:13:08+05:30",
-      "source": "The Hacker News",
-      "score": 4
-    },
-    {
       "titre": "Vulnérabilité dans Cisco AsyncOS Software pour Secure Email Gateway (15 octobre 2026)",
       "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1325/",
       "resume": "Une vulnérabilité a été découverte dans Cisco AsyncOS Software pour Secure Email Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. Cisco indique que la vulnérabilité CVE-2026-76519 est activemen",
@@ -155,6 +219,14 @@
       "score": 5
     },
     {
+      "titre": "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
+      "lien": "https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939",
+      "resume": "37% of ransomware attacks involve psychological or physical threats, global survey found",
+      "date": "2026-10-14T07:00:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 5
+    },
+    {
       "titre": "Vulnérabilité dans Ivanti Connect Secure (ICS) (14 octobre 2026)",
       "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-013/",
       "resume": "Une vulnérabilité a été découverte dans Ivanti Connect Secure (ICS). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que cette vulnérabilité CVE-2026-1",
@@ -163,11 +235,19 @@
       "score": 2
     },
     {
-      "titre": "Une cyberattaque dérègle le froid des supermarchés",
-      "lien": "https://www.zataz.com/une-cyberattaque-deregle-le-froid-des-supermarches/",
-      "resume": "Une cyberattaque vise le froid des supermarchés : stocks détruits, pertes estimées et précédents analysés par ZATAZ.",
-      "date": "2026-10-12T11:29:45+00:00",
-      "source": "ZATAZ",
+      "titre": "Cyberattacks crank French supermarket refrigeration systems up to 50°C",
+      "lien": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784",
+      "resume": "Stock spoiled at hundreds of stores as manufacturer says affected equipment ran outdated firmware",
+      "date": "2026-10-13T14:00:00+02:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "Owner of fashion brands Hobbs and Whistles joins autumn pwned collection",
+      "lien": "https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752",
+      "resume": "Several IT systems remain offline and orders face delays as TFG London becomes latest retailer to suffer cyberattack",
+      "date": "2026-10-13T11:45:00+02:00",
+      "source": "The Register (sécurité)",
       "score": 2
     },
     {
