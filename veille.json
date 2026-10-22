@@ -1,7 +1,31 @@
 {
-  "maj": "2026-10-21T10:44:59.259367+00:00",
+  "maj": "2026-10-22T10:46:13.529591+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "lien": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "resume": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+      "date": "2026-10-22T04:27:11-04:00",
+      "source": "BleepingComputer",
+      "score": 5
+    },
+    {
+      "titre": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "lien": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "resume": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was ",
+      "date": "2026-10-22T09:51:26+05:30",
+      "source": "The Hacker News",
+      "score": 3
+    },
+    {
+      "titre": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
+      "lien": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+      "resume": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7 appeared first on SecurityWeek .",
+      "date": "2026-10-21T14:45:00+00:00",
+      "source": "SecurityWeek",
+      "score": 5
+    },
     {
       "titre": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
       "lien": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
@@ -17,6 +41,14 @@
       "date": "2026-10-20T21:01:50-04:00",
       "source": "BleepingComputer",
       "score": 3
+    },
+    {
+      "titre": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
+      "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-014/",
+      "resume": "**[Mise à jours du 21 octobre 2026]** Les correctifs de sécurité sont disponibles sur le site de l'éditeur. PHP indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 permettent à un attaquant de provoquer une exécution de code arbitraire à distance. **[Publication Ini",
+      "date": "2026-10-21T00:00:00+00:00",
+      "source": "CERT-FR (alertes)",
+      "score": 2
     },
     {
       "titre": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
@@ -43,14 +75,6 @@
       "score": 8
     },
     {
-      "titre": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
-      "lien": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
-      "resume": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign appeared first on SecurityWeek .",
-      "date": "2026-10-20T13:51:01+00:00",
-      "source": "SecurityWeek",
-      "score": 3
-    },
-    {
       "titre": "'Password1' and a forgotten test account land Welsh outfits in hot water",
       "lien": "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
       "resume": "ICO reprimands Ogi Networks and Data Cymru after ransomware breach exposes info of 3,300 people, mostly children",
@@ -59,35 +83,11 @@
       "score": 5
     },
     {
-      "titre": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
-      "lien": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
-      "resume": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Services Disrupted by Cyberattack appeared first on SecurityWeek .",
-      "date": "2026-10-20T13:02:18+00:00",
-      "source": "SecurityWeek",
-      "score": 3
-    },
-    {
-      "titre": "Windows Server 2025 gets support for quick machine recovery",
-      "lien": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "resume": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-      "date": "2026-10-20T08:16:32-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
       "titre": "Bullhorn sees red after cyberattack knocks recruitment platform offline",
       "lien": "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114",
       "resume": "Staffing software giant calls in CrowdStrike as customers face login headaches and questions remain over possible data theft",
       "date": "2026-10-20T14:15:00+02:00",
       "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-      "lien": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-      "resume": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
-      "date": "2026-10-20T07:18:35-04:00",
-      "source": "BleepingComputer",
       "score": 2
     },
     {
@@ -169,38 +169,6 @@
       "date": "2026-10-16T09:28:00+02:00",
       "source": "The Register (sécurité)",
       "score": 5
-    },
-    {
-      "titre": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "lien": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "resume": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score",
-      "date": "2026-10-16T12:25:55+05:30",
-      "source": "The Hacker News",
-      "score": 3
-    },
-    {
-      "titre": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "lien": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "resume": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw",
-      "date": "2026-10-16T10:29:36+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "lien": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "resume": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and ",
-      "date": "2026-10-16T01:54:36+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "lien": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "resume": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote co",
-      "date": "2026-10-15T17:16:49+05:30",
-      "source": "The Hacker News",
-      "score": 2
     },
     {
       "titre": "Vulnérabilité dans Cisco AsyncOS Software pour Secure Email Gateway (15 octobre 2026)",

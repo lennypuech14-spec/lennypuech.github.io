@@ -1,4 +1,25 @@
-# Veille du 21/10/2026 : ransomwares et résilience
+# Veille du 22/10/2026 : ransomwares et résilience
+
+## Authorities disrupt nearly 11,000 cybercrime networks in Africa
+- Source : BleepingComputer (22/10/2026)
+- Pertinence : 5
+- Lien : https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/
+
+Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]
+
+## China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack
+- Source : The Hacker News (22/10/2026)
+- Pertinence : 3
+- Lien : https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html
+
+Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was 
+
+## High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7
+- Source : SecurityWeek (21/10/2026)
+- Pertinence : 5
+- Lien : https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/
+
+Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7 appeared first on SecurityWeek .
 
 ## CISA: SafePay ransomware hit over 600 critical infrastructure orgs
 - Source : BleepingComputer (21/10/2026)
@@ -13,6 +34,13 @@ The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ran
 - Lien : https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/
 
 A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]
+
+## [Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)
+- Source : CERT-FR (alertes) (21/10/2026)
+- Pertinence : 2
+- Lien : https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-014/
+
+**[Mise à jours du 21 octobre 2026]** Les correctifs de sécurité sont disponibles sur le site de l'éditeur. PHP indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 permettent à un attaquant de provoquer une exécution de code arbitraire à distance. **[Publication Ini
 
 ## Palo Alto's firewall OS has been under attack from multiple ransomware groups since June
 - Source : The Register (sécurité) (20/10/2026)
@@ -35,13 +63,6 @@ Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a r
 
 Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by 
 
-## AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign
-- Source : SecurityWeek (20/10/2026)
-- Pertinence : 3
-- Lien : https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/
-
-Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign appeared first on SecurityWeek .
-
 ## 'Password1' and a forgotten test account land Welsh outfits in hot water
 - Source : The Register (sécurité) (20/10/2026)
 - Pertinence : 5
@@ -49,33 +70,12 @@ Across multiple short compromise windows, users were served a downloader for the
 
 ICO reprimands Ogi Networks and Data Cymru after ransomware breach exposes info of 3,300 people, mostly children
 
-## Ahold Delhaize Restoring Services Disrupted by Cyberattack
-- Source : SecurityWeek (20/10/2026)
-- Pertinence : 3
-- Lien : https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/
-
-The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Services Disrupted by Cyberattack appeared first on SecurityWeek .
-
-## Windows Server 2025 gets support for quick machine recovery
-- Source : BleepingComputer (20/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/
-
-Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]
-
 ## Bullhorn sees red after cyberattack knocks recruitment platform offline
 - Source : The Register (sécurité) (20/10/2026)
 - Pertinence : 2
 - Lien : https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114
 
 Staffing software giant calls in CrowdStrike as customers face login headaches and questions remain over possible data theft
-
-## Ahold Delhaize: Cyberattack affects services across US and Europe
-- Source : BleepingComputer (20/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/
-
-Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]
 
 ## ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident
 - Source : The Hacker News (20/10/2026)
@@ -146,34 +146,6 @@ Attackers repeatedly changed the files that AOMEI Backupper fetches from the ven
 - Lien : https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864
 
 School staff seemed to be trying to get ransomware – for a second time
-
-## China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers
-- Source : The Hacker News (16/10/2026)
-- Pertinence : 3
-- Lien : https://thehackernews.com/2026/10/china-linked-hackers-exploited.html
-
-The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score
-
-## PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions
-- Source : The Hacker News (16/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html
-
-A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw
-
-## Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory
-- Source : The Hacker News (16/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html
-
-A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and 
-
-## Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation
-- Source : The Hacker News (15/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html
-
-Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. "A remote co
 
 ## Vulnérabilité dans Cisco AsyncOS Software pour Secure Email Gateway (15 octobre 2026)
 - Source : CERT-FR (avis) (15/10/2026)
