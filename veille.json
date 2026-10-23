@@ -1,7 +1,23 @@
 {
-  "maj": "2026-10-22T10:46:13.529591+00:00",
+  "maj": "2026-10-23T10:37:47.007358+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "lien": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "resume": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "date": "2026-10-22T13:18:22-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "lien": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "resume": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment v",
+      "date": "2026-10-22T16:45:42+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
     {
       "titre": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
       "lien": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
@@ -19,33 +35,9 @@
       "score": 3
     },
     {
-      "titre": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
-      "lien": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
-      "resume": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7 appeared first on SecurityWeek .",
-      "date": "2026-10-21T14:45:00+00:00",
-      "source": "SecurityWeek",
-      "score": 5
-    },
-    {
-      "titre": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "lien": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "resume": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-      "date": "2026-10-21T04:36:24-04:00",
-      "source": "BleepingComputer",
-      "score": 5
-    },
-    {
-      "titre": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "lien": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "resume": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
-      "date": "2026-10-20T21:01:50-04:00",
-      "source": "BleepingComputer",
-      "score": 3
-    },
-    {
       "titre": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
       "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-014/",
-      "resume": "**[Mise à jours du 21 octobre 2026]** Les correctifs de sécurité sont disponibles sur le site de l'éditeur. PHP indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 permettent à un attaquant de provoquer une exécution de code arbitraire à distance. **[Publication Ini",
+      "resume": "**[Mise à jour du 22 octobre 2026]** Le CERT-FR a connaissance de preuves de concept pour les vulnérabilités CVE-2026-109618 et CVE-2026-109619 pour des déploiements spécifique de PHP. **[Mise à jour du 21 octobre 2026]** Les correctifs de sécurité sont disponibles sur le site de",
       "date": "2026-10-21T00:00:00+00:00",
       "source": "CERT-FR (alertes)",
       "score": 2
@@ -139,44 +131,12 @@
       "score": 2
     },
     {
-      "titre": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "lien": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "resume": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled i",
-      "date": "2026-10-18T13:53:02+05:30",
-      "source": "The Hacker News",
-      "score": 3
-    },
-    {
-      "titre": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-      "lien": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-      "resume": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environm",
-      "date": "2026-10-17T11:46:46+05:30",
-      "source": "The Hacker News",
-      "score": 3
-    },
-    {
-      "titre": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-      "lien": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-      "resume": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows w",
-      "date": "2026-10-16T22:13:39+05:30",
-      "source": "The Hacker News",
-      "score": 3
-    },
-    {
       "titre": "User refused to change her password because everyone already knew it",
       "lien": "https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864",
       "resume": "School staff seemed to be trying to get ransomware – for a second time",
       "date": "2026-10-16T09:28:00+02:00",
       "source": "The Register (sécurité)",
       "score": 5
-    },
-    {
-      "titre": "Vulnérabilité dans Cisco AsyncOS Software pour Secure Email Gateway (15 octobre 2026)",
-      "lien": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1325/",
-      "resume": "Une vulnérabilité a été découverte dans Cisco AsyncOS Software pour Secure Email Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. Cisco indique que la vulnérabilité CVE-2026-76519 est activemen",
-      "date": "2026-10-15T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
-      "score": 2
     },
     {
       "titre": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -187,35 +147,11 @@
       "score": 5
     },
     {
-      "titre": "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
-      "lien": "https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939",
-      "resume": "37% of ransomware attacks involve psychological or physical threats, global survey found",
-      "date": "2026-10-14T07:00:00+02:00",
-      "source": "The Register (sécurité)",
-      "score": 5
-    },
-    {
       "titre": "Vulnérabilité dans Ivanti Connect Secure (ICS) (14 octobre 2026)",
       "lien": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-013/",
       "resume": "Une vulnérabilité a été découverte dans Ivanti Connect Secure (ICS). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que cette vulnérabilité CVE-2026-1",
       "date": "2026-10-14T00:00:00+00:00",
       "source": "CERT-FR (alertes)",
-      "score": 2
-    },
-    {
-      "titre": "Cyberattacks crank French supermarket refrigeration systems up to 50°C",
-      "lien": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784",
-      "resume": "Stock spoiled at hundreds of stores as manufacturer says affected equipment ran outdated firmware",
-      "date": "2026-10-13T14:00:00+02:00",
-      "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "Owner of fashion brands Hobbs and Whistles joins autumn pwned collection",
-      "lien": "https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752",
-      "resume": "Several IT systems remain offline and orders face delays as TFG London becomes latest retailer to suffer cyberattack",
-      "date": "2026-10-13T11:45:00+02:00",
-      "source": "The Register (sécurité)",
       "score": 2
     },
     {

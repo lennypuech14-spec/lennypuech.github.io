@@ -1,4 +1,18 @@
-# Veille du 22/10/2026 : ransomwares et résilience
+# Veille du 23/10/2026 : ransomwares et résilience
+
+## Arista patches new VeloCloud Orchestrator zero-day exploited in attacks
+- Source : BleepingComputer (22/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/
+
+Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]
+
+## Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation
+- Source : The Hacker News (22/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html
+
+Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed "anomalous activity" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment v
 
 ## Authorities disrupt nearly 11,000 cybercrime networks in Africa
 - Source : BleepingComputer (22/10/2026)
@@ -14,33 +28,12 @@ Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and
 
 Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was 
 
-## High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7
-- Source : SecurityWeek (21/10/2026)
-- Pertinence : 5
-- Lien : https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/
-
-Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7 appeared first on SecurityWeek .
-
-## CISA: SafePay ransomware hit over 600 critical infrastructure orgs
-- Source : BleepingComputer (21/10/2026)
-- Pertinence : 5
-- Lien : https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/
-
-The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]
-
-## Stolen UpdraftCentral keys used to backdoor WordPress sites
-- Source : BleepingComputer (20/10/2026)
-- Pertinence : 3
-- Lien : https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/
-
-A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]
-
 ## [Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)
 - Source : CERT-FR (alertes) (21/10/2026)
 - Pertinence : 2
 - Lien : https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-014/
 
-**[Mise à jours du 21 octobre 2026]** Les correctifs de sécurité sont disponibles sur le site de l'éditeur. PHP indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 permettent à un attaquant de provoquer une exécution de code arbitraire à distance. **[Publication Ini
+**[Mise à jour du 22 octobre 2026]** Le CERT-FR a connaissance de preuves de concept pour les vulnérabilités CVE-2026-109618 et CVE-2026-109619 pour des déploiements spécifique de PHP. **[Mise à jour du 21 octobre 2026]** Les correctifs de sécurité sont disponibles sur le site de
 
 ## Palo Alto's firewall OS has been under attack from multiple ransomware groups since June
 - Source : The Register (sécurité) (20/10/2026)
@@ -119,40 +112,12 @@ Huntress alleges takeover of M365 accounts
 
 Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape
 
-## ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
-- Source : The Hacker News (18/10/2026)
-- Pertinence : 3
-- Lien : https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
-
-ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled i
-
-## Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants
-- Source : The Hacker News (17/10/2026)
-- Pertinence : 3
-- Lien : https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html
-
-Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environm
-
-## Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor
-- Source : The Hacker News (16/10/2026)
-- Pertinence : 3
-- Lien : https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html
-
-Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows w
-
 ## User refused to change her password because everyone already knew it
 - Source : The Register (sécurité) (16/10/2026)
 - Pertinence : 5
 - Lien : https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864
 
 School staff seemed to be trying to get ransomware – for a second time
-
-## Vulnérabilité dans Cisco AsyncOS Software pour Secure Email Gateway (15 octobre 2026)
-- Source : CERT-FR (avis) (15/10/2026)
-- Pertinence : 2
-- Lien : https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1325/
-
-Une vulnérabilité a été découverte dans Cisco AsyncOS Software pour Secure Email Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. Cisco indique que la vulnérabilité CVE-2026-76519 est activemen
 
 ## U.K. Sanctions Cryptomus for RU Money Laundering
 - Source : Krebs on Security (14/10/2026)
@@ -161,33 +126,12 @@ Une vulnérabilité a été découverte dans Cisco AsyncOS Software pour Secure 
 
 The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent ex
 
-## Ransomware gets personal: 'We-know-where-you-are kind of stuff'
-- Source : The Register (sécurité) (14/10/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939
-
-37% of ransomware attacks involve psychological or physical threats, global survey found
-
 ## Vulnérabilité dans Ivanti Connect Secure (ICS) (14 octobre 2026)
 - Source : CERT-FR (alertes) (14/10/2026)
 - Pertinence : 2
 - Lien : https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-013/
 
 Une vulnérabilité a été découverte dans Ivanti Connect Secure (ICS). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que cette vulnérabilité CVE-2026-1
-
-## Cyberattacks crank French supermarket refrigeration systems up to 50°C
-- Source : The Register (sécurité) (13/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784
-
-Stock spoiled at hundreds of stores as manufacturer says affected equipment ran outdated firmware
-
-## Owner of fashion brands Hobbs and Whistles joins autumn pwned collection
-- Source : The Register (sécurité) (13/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752
-
-Several IT systems remain offline and orders face delays as TFG London becomes latest retailer to suffer cyberattack
 
 ## FBI Arrests Executive at Ransomware Negotiation Firm
 - Source : Krebs on Security (10/10/2026)
