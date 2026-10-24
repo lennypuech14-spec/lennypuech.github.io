@@ -1,7 +1,47 @@
 {
-  "maj": "2026-10-23T10:37:47.007358+00:00",
+  "maj": "2026-10-24T09:55:59.697865+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Point Vision : des données de patients dérobées",
+      "lien": "https://www.zataz.com/point-vision-des-donnees-de-patients-derobees/",
+      "resume": "Cyberattaque chez Point Vision : données de patients volées, exposition possible des motifs de rendez-vous.",
+      "date": "2026-10-24T09:29:23+00:00",
+      "source": "ZATAZ",
+      "score": 2
+    },
+    {
+      "titre": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "lien": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "resume": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat acto",
+      "date": "2026-10-23T23:20:47+05:30",
+      "source": "The Hacker News",
+      "score": 5
+    },
+    {
+      "titre": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+      "lien": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
+      "resume": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared fi",
+      "date": "2026-10-23T14:23:37+00:00",
+      "source": "SecurityWeek",
+      "score": 5
+    },
+    {
+      "titre": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "lien": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "resume": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign ha",
+      "date": "2026-10-23T19:20:56+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Piratage de la FFTir : la Fédération confirme le vol",
+      "lien": "https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/",
+      "resume": "FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.",
+      "date": "2026-10-23T10:41:26+00:00",
+      "source": "ZATAZ",
+      "score": 2
+    },
     {
       "titre": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
       "lien": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
@@ -17,14 +57,6 @@
       "date": "2026-10-22T16:45:42+05:30",
       "source": "The Hacker News",
       "score": 2
-    },
-    {
-      "titre": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-      "lien": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-      "resume": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-      "date": "2026-10-22T04:27:11-04:00",
-      "source": "BleepingComputer",
-      "score": 5
     },
     {
       "titre": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
@@ -80,22 +112,6 @@
       "resume": "Staffing software giant calls in CrowdStrike as customers face login headaches and questions remain over possible data theft",
       "date": "2026-10-20T14:15:00+02:00",
       "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-      "lien": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-      "resume": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application i",
-      "date": "2026-10-20T16:26:08+05:30",
-      "source": "The Hacker News",
-      "score": 3
-    },
-    {
-      "titre": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-      "lien": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-      "resume": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL ",
-      "date": "2026-10-20T12:41:45+05:30",
-      "source": "The Hacker News",
       "score": 2
     },
     {

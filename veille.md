@@ -1,4 +1,39 @@
-# Veille du 23/10/2026 : ransomwares et résilience
+# Veille du 24/10/2026 : ransomwares et résilience
+
+## Point Vision : des données de patients dérobées
+- Source : ZATAZ (24/10/2026)
+- Pertinence : 2
+- Lien : https://www.zataz.com/point-vision-des-donnees-de-patients-derobees/
+
+Cyberattaque chez Point Vision : données de patients volées, exposition possible des motifs de rendez-vous.
+
+## Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions
+- Source : The Hacker News (23/10/2026)
+- Pertinence : 5
+- Lien : https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html
+
+Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an "Autonomous Red Team Kill Chain Framework" referred to as Phantom. The threat acto
+
+## In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware
+- Source : SecurityWeek (23/10/2026)
+- Pertinence : 5
+- Lien : https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/
+
+Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared fi
+
+## Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials
+- Source : The Hacker News (23/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html
+
+Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. "Artifacts from this investigation also indicate that operators in this campaign ha
+
+## Piratage de la FFTir : la Fédération confirme le vol
+- Source : ZATAZ (23/10/2026)
+- Pertinence : 2
+- Lien : https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/
+
+FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.
 
 ## Arista patches new VeloCloud Orchestrator zero-day exploited in attacks
 - Source : BleepingComputer (22/10/2026)
@@ -13,13 +48,6 @@ Arista Networks released security updates to patch an actively exploited zero-da
 - Lien : https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html
 
 Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed "anomalous activity" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment v
-
-## Authorities disrupt nearly 11,000 cybercrime networks in Africa
-- Source : BleepingComputer (22/10/2026)
-- Pertinence : 5
-- Lien : https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/
-
-Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]
 
 ## China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack
 - Source : The Hacker News (22/10/2026)
@@ -69,20 +97,6 @@ ICO reprimands Ogi Networks and Data Cymru after ransomware breach exposes info 
 - Lien : https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114
 
 Staffing software giant calls in CrowdStrike as customers face login headaches and questions remain over possible data theft
-
-## ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident
-- Source : The Hacker News (20/10/2026)
-- Pertinence : 3
-- Lien : https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html
-
-ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application i
-
-## ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan
-- Source : The Hacker News (20/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html
-
-Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL 
 
 ## Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline
 - Source : The Register (sécurité) (19/10/2026)
