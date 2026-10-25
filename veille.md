@@ -1,4 +1,4 @@
-# Veille du 24/10/2026 : ransomwares et résilience
+# Veille du 25/10/2026 : ransomwares et résilience
 
 ## Point Vision : des données de patients dérobées
 - Source : ZATAZ (24/10/2026)
