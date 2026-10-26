@@ -1,5 +1,5 @@
 {
-  "maj": "2026-10-25T10:17:43.941390+00:00",
+  "maj": "2026-10-26T11:43:59.509366+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
     {
@@ -81,22 +81,6 @@
       "date": "2026-10-20T19:33:26+02:00",
       "source": "The Register (sécurité)",
       "score": 6
-    },
-    {
-      "titre": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "lien": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "resume": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path t",
-      "date": "2026-10-20T21:08:52+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "lien": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "resume": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by ",
-      "date": "2026-10-20T21:02:27+05:30",
-      "source": "The Hacker News",
-      "score": 8
     },
     {
       "titre": "'Password1' and a forgotten test account land Welsh outfits in hot water",
@@ -200,14 +184,6 @@
       "resume": "**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité est activement exploitée. **[Mise à jour du 30 septembre 2026]*",
       "date": "2026-09-28T00:00:00+00:00",
       "source": "CERT-FR (alertes)",
-      "score": 2
-    },
-    {
-      "titre": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-      "lien": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "resume": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restit",
-      "date": "2026-09-25T21:44:40+00:00",
-      "source": "Krebs on Security",
       "score": 2
     }
   ]

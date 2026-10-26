@@ -1,4 +1,4 @@
-# Veille du 25/10/2026 : ransomwares et résilience
+# Veille du 26/10/2026 : ransomwares et résilience
 
 ## Point Vision : des données de patients dérobées
 - Source : ZATAZ (24/10/2026)
@@ -69,20 +69,6 @@ Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0
 - Lien : https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226
 
 Unit 42 investigates network compromises across numerous industries
-
-## Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution
-- Source : The Hacker News (20/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html
-
-Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path t
-
-## Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA
-- Source : The Hacker News (20/10/2026)
-- Pertinence : 8
-- Lien : https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html
-
-Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by 
 
 ## 'Password1' and a forgotten test account land Welsh outfits in hot water
 - Source : The Register (sécurité) (20/10/2026)
@@ -174,11 +160,4 @@ Authorities in the Netherlands have arrested a 23-year-old convicted cybercrimin
 - Lien : https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/
 
 **[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité est activement exploitée. **[Mise à jour du 30 septembre 2026]*
-
-## U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions
-- Source : Krebs on Security (25/09/2026)
-- Pertinence : 2
-- Lien : https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/
-
-A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restit
 
