@@ -1,4 +1,18 @@
-# Veille du 26/10/2026 : ransomwares et résilience
+# Veille du 27/10/2026 : ransomwares et résilience
+
+## Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware
+- Source : The Hacker News (26/10/2026)
+- Pertinence : 5
+- Lien : https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html
+
+Cybersecurity researchers are calling attention to what they say is a "recurring social engineering pattern" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. "A consistent pat
+
+## Multiples vulnérabilités dans les produits VMware (26 octobre 2026)
+- Source : CERT-FR (avis) (26/10/2026)
+- Pertinence : 2
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1385/
+
+De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
 
 ## Point Vision : des données de patients dérobées
 - Source : ZATAZ (24/10/2026)
@@ -14,13 +28,6 @@ Cyberattaque chez Point Vision : données de patients volées, exposition possib
 
 Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an "Autonomous Red Team Kill Chain Framework" referred to as Phantom. The threat acto
 
-## In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware
-- Source : SecurityWeek (23/10/2026)
-- Pertinence : 5
-- Lien : https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/
-
-Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared fi
-
 ## Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials
 - Source : The Hacker News (23/10/2026)
 - Pertinence : 2
@@ -34,13 +41,6 @@ Cybersecurity researchers have disclosed details of a large-scale campaign that 
 - Lien : https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/
 
 FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.
-
-## Arista patches new VeloCloud Orchestrator zero-day exploited in attacks
-- Source : BleepingComputer (22/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/
-
-Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]
 
 ## Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation
 - Source : The Hacker News (22/10/2026)
@@ -59,9 +59,9 @@ Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0
 ## [Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)
 - Source : CERT-FR (alertes) (21/10/2026)
 - Pertinence : 2
-- Lien : https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-014/
+- Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/
 
-**[Mise à jour du 22 octobre 2026]** Le CERT-FR a connaissance de preuves de concept pour les vulnérabilités CVE-2026-109618 et CVE-2026-109619 pour des déploiements spécifique de PHP. **[Mise à jour du 21 octobre 2026]** Les correctifs de sécurité sont disponibles sur le site de
+**[Mise à jour du 26 octobre 2026]** Le 23 octobre 2026, PHP a publié un avis de sécurité concernant la vulnérabilité CVE-2026-115560. Celle-ci permet une exécution de code arbitraire à distance. L'éditeur estime que les conditions d'exploitation exigent une combinaison d'options
 
 ## Palo Alto's firewall OS has been under attack from multiple ransomware groups since June
 - Source : The Register (sécurité) (20/10/2026)
@@ -112,13 +112,6 @@ Huntress alleges takeover of M365 accounts
 
 Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape
 
-## User refused to change her password because everyone already knew it
-- Source : The Register (sécurité) (16/10/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864
-
-School staff seemed to be trying to get ransomware – for a second time
-
 ## U.K. Sanctions Cryptomus for RU Money Laundering
 - Source : Krebs on Security (14/10/2026)
 - Pertinence : 5
@@ -129,7 +122,7 @@ The United Kingdom has issued economic sanctions against Cryptomus, a chameleoni
 ## Vulnérabilité dans Ivanti Connect Secure (ICS) (14 octobre 2026)
 - Source : CERT-FR (alertes) (14/10/2026)
 - Pertinence : 2
-- Lien : https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-013/
+- Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-013/
 
 Une vulnérabilité a été découverte dans Ivanti Connect Secure (ICS). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que cette vulnérabilité CVE-2026-1
 
@@ -157,7 +150,7 @@ Authorities in the Netherlands have arrested a 23-year-old convicted cybercrimin
 ## Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)
 - Source : CERT-FR (alertes) (28/09/2026)
 - Pertinence : 2
-- Lien : https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/
+- Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-011/
 
 **[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité est activement exploitée. **[Mise à jour du 30 septembre 2026]*
 
