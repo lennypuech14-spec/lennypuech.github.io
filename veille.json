@@ -1,7 +1,79 @@
 {
-  "maj": "2026-10-27T11:11:14.326573+00:00",
+  "maj": "2026-10-28T11:45:05.099667+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "lien": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "resume": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+      "date": "2026-10-28T05:43:15-04:00",
+      "source": "BleepingComputer",
+      "score": 5
+    },
+    {
+      "titre": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
+      "lien": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
+      "resume": "CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek .",
+      "date": "2026-10-28T09:14:23+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+      "lien": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+      "resume": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an ar",
+      "date": "2026-10-28T12:43:21+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "lien": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+      "resume": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request ",
+      "date": "2026-10-28T11:34:58+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "lien": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "resume": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
+      "date": "2026-10-27T19:35:51-04:00",
+      "source": "BleepingComputer",
+      "score": 5
+    },
+    {
+      "titre": "UNM Health ransomware attack disrupts patient care, surgeries",
+      "lien": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+      "resume": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+      "date": "2026-10-27T18:07:34-04:00",
+      "source": "BleepingComputer",
+      "score": 7
+    },
+    {
+      "titre": "Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack",
+      "lien": "https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690",
+      "resume": "University hospitals once again accepting patients after initial ambulance diversion, but recovery to continue in phases",
+      "date": "2026-10-27T17:15:00+01:00",
+      "source": "The Register (sécurité)",
+      "score": 4
+    },
+    {
+      "titre": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "lien": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "resume": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code",
+      "date": "2026-10-27T19:29:09+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "lien": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "resume": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russia",
+      "date": "2026-10-27T17:02:31+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
     {
       "titre": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
       "lien": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
@@ -49,22 +121,6 @@
       "date": "2026-10-23T10:41:26+00:00",
       "source": "ZATAZ",
       "score": 2
-    },
-    {
-      "titre": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-      "lien": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-      "resume": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment v",
-      "date": "2026-10-22T16:45:42+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-      "lien": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-      "resume": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was ",
-      "date": "2026-10-22T09:51:26+05:30",
-      "source": "The Hacker News",
-      "score": 3
     },
     {
       "titre": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
@@ -115,22 +171,6 @@
       "score": 7
     },
     {
-      "titre": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU",
-      "lien": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758",
-      "resume": "Huntress alleges takeover of M365 accounts",
-      "date": "2026-10-19T06:31:00+02:00",
-      "source": "The Register (sécurité)",
-      "score": 3
-    },
-    {
-      "titre": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
-      "lien": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
-      "resume": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape",
-      "date": "2026-10-19T02:33:00+02:00",
-      "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
       "titre": "U.K. Sanctions Cryptomus for RU Money Laundering",
       "lien": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
       "resume": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent ex",
@@ -168,14 +208,6 @@
       "resume": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically e",
       "date": "2026-09-28T15:08:57+00:00",
       "source": "Krebs on Security",
-      "score": 2
-    },
-    {
-      "titre": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-011/",
-      "resume": "**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité est activement exploitée. **[Mise à jour du 30 septembre 2026]*",
-      "date": "2026-09-28T00:00:00+00:00",
-      "source": "CERT-FR (alertes)",
       "score": 2
     }
   ]

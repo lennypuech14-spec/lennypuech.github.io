@@ -1,4 +1,67 @@
-# Veille du 27/10/2026 : ransomwares et résilience
+# Veille du 28/10/2026 : ransomwares et résilience
+
+## Nefilim and Hive ransomware affiliate gets 70 months in prison
+- Source : BleepingComputer (28/10/2026)
+- Pertinence : 5
+- Lien : https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/
+
+A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]
+
+## Hackers Start Probing Fresh Oracle EBS Vulnerability
+- Source : SecurityWeek (28/10/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/
+
+CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek .
+
+## Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach
+- Source : The Hacker News (28/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html
+
+Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an ar
+
+## ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws
+- Source : The Hacker News (28/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html
+
+The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request 
+
+## Japan's GMO urges customers to shut down PCs amid ransomware threat
+- Source : BleepingComputer (27/10/2026)
+- Pertinence : 5
+- Lien : https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/
+
+The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]
+
+## UNM Health ransomware attack disrupts patient care, surgeries
+- Source : BleepingComputer (27/10/2026)
+- Pertinence : 7
+- Lien : https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/
+
+The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]
+
+## Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack
+- Source : The Register (sécurité) (27/10/2026)
+- Pertinence : 4
+- Lien : https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690
+
+University hospitals once again accepting patients after initial ambulance diversion, but recovery to continue in phases
+
+## Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads
+- Source : The Hacker News (27/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html
+
+Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code
+
+## Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption
+- Source : The Hacker News (27/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html
+
+The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russia
 
 ## Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware
 - Source : The Hacker News (26/10/2026)
@@ -42,20 +105,6 @@ Cybersecurity researchers have disclosed details of a large-scale campaign that 
 
 FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.
 
-## Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation
-- Source : The Hacker News (22/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html
-
-Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed "anomalous activity" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment v
-
-## China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack
-- Source : The Hacker News (22/10/2026)
-- Pertinence : 3
-- Lien : https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html
-
-Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was 
-
 ## [Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)
 - Source : CERT-FR (alertes) (21/10/2026)
 - Pertinence : 2
@@ -98,20 +147,6 @@ Second security snafu in two years
 
 U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity ha
 
-## ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU
-- Source : The Register (sécurité) (19/10/2026)
-- Pertinence : 3
-- Lien : https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758
-
-Huntress alleges takeover of M365 accounts
-
-## Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking
-- Source : The Register (sécurité) (19/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744
-
-Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape
-
 ## U.K. Sanctions Cryptomus for RU Money Laundering
 - Source : Krebs on Security (14/10/2026)
 - Pertinence : 5
@@ -146,11 +181,4 @@ A teenager from Amman, Jordan suspected of leading the prolific data theft and e
 - Lien : https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/
 
 Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically e
-
-## Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)
-- Source : CERT-FR (alertes) (28/09/2026)
-- Pertinence : 2
-- Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-011/
-
-**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité est activement exploitée. **[Mise à jour du 30 septembre 2026]*
 
