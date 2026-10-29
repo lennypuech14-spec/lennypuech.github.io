@@ -1,7 +1,111 @@
 {
-  "maj": "2026-10-28T11:45:05.099667+00:00",
+  "maj": "2026-10-29T11:53:37.102353+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "lien": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+      "resume": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+      "date": "2026-10-29T07:10:13-04:00",
+      "source": "BleepingComputer",
+      "score": 3
+    },
+    {
+      "titre": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "lien": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "resume": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated ",
+      "date": "2026-10-29T16:14:46+05:30",
+      "source": "The Hacker News",
+      "score": 4
+    },
+    {
+      "titre": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
+      "lien": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
+      "resume": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared first on SecurityWeek .",
+      "date": "2026-10-29T09:47:10+00:00",
+      "source": "SecurityWeek",
+      "score": 3
+    },
+    {
+      "titre": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+      "lien": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+      "resume": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a",
+      "date": "2026-10-29T14:35:39+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+      "lien": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "resume": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for l",
+      "date": "2026-10-29T13:54:22+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+      "lien": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+      "resume": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged. The post Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day appeared first on SecurityWeek .",
+      "date": "2026-10-29T08:01:05+00:00",
+      "source": "SecurityWeek",
+      "score": 4
+    },
+    {
+      "titre": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "lien": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Wa",
+      "date": "2026-10-29T11:52:33+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles",
+      "lien": "https://www.theregister.com/cyber-crime/2026/10/28/serial-ransomware-crook-gets-70-months-behind-bars-for-nefilim-hive-roles/5306050",
+      "resume": "Artem Stryzhak joined both gangs, which targeted businesses and a hospital during the pandemic",
+      "date": "2026-10-28T16:52:17+01:00",
+      "source": "The Register (sécurité)",
+      "score": 5
+    },
+    {
+      "titre": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
+      "lien": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
+      "resume": "Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek .",
+      "date": "2026-10-28T15:05:06+00:00",
+      "source": "SecurityWeek",
+      "score": 5
+    },
+    {
+      "titre": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "lien": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+      "resume": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+      "date": "2026-10-28T10:00:00-04:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
+      "lien": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
+      "resume": "FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek .",
+      "date": "2026-10-28T13:10:34+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+      "lien": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "resume": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Ora",
+      "date": "2026-10-28T18:18:03+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
+      "lien": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
+      "resume": "Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants",
+      "date": "2026-10-28T12:45:00+01:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
     {
       "titre": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
       "lien": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
@@ -9,14 +113,6 @@
       "date": "2026-10-28T05:43:15-04:00",
       "source": "BleepingComputer",
       "score": 5
-    },
-    {
-      "titre": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
-      "lien": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
-      "resume": "CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek .",
-      "date": "2026-10-28T09:14:23+00:00",
-      "source": "SecurityWeek",
-      "score": 2
     },
     {
       "titre": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
@@ -32,6 +128,22 @@
       "resume": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request ",
       "date": "2026-10-28T11:34:58+05:30",
       "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Multiples vulnérabilités dans les produits Veeam (28 octobre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1399/",
+      "resume": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "date": "2026-10-28T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 3
+    },
+    {
+      "titre": "Multiples vulnérabilités dans Palo Alto Networks PAN-OS (28 octobre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1402/",
+      "resume": "De multiples vulnérabilités ont été découvertes dans Palo Alto Networks PAN-OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. Palo Alto Networks indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 sont activement exploitée",
+      "date": "2026-10-28T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
       "score": 2
     },
     {
@@ -99,22 +211,6 @@
       "score": 2
     },
     {
-      "titre": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "lien": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "resume": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat acto",
-      "date": "2026-10-23T23:20:47+05:30",
-      "source": "The Hacker News",
-      "score": 5
-    },
-    {
-      "titre": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "lien": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "resume": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign ha",
-      "date": "2026-10-23T19:20:56+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
       "titre": "Piratage de la FFTir : la Fédération confirme le vol",
       "lien": "https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/",
       "resume": "FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.",
@@ -155,14 +251,6 @@
       "score": 2
     },
     {
-      "titre": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
-      "lien": "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
-      "resume": "Second security snafu in two years",
-      "date": "2026-10-19T22:26:21+02:00",
-      "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
       "titre": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
       "lien": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "resume": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity ha",
@@ -199,14 +287,6 @@
       "lien": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "resume": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacke",
       "date": "2026-10-07T13:48:45+00:00",
-      "source": "Krebs on Security",
-      "score": 2
-    },
-    {
-      "titre": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-      "lien": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "resume": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically e",
-      "date": "2026-09-28T15:08:57+00:00",
       "source": "Krebs on Security",
       "score": 2
     }
