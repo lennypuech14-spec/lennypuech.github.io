@@ -1,11 +1,39 @@
-# Veille du 29/10/2026 : ransomwares et résilience
+# Veille du 30/10/2026 : ransomwares et résilience
 
-## New Cisco firewall zero-day exploited to crash SSL VPN devices
-- Source : BleepingComputer (29/10/2026)
-- Pertinence : 3
-- Lien : https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/
+## Max-Severity GitLab Vulnerability Exploited Against Alpine Linux
+- Source : SecurityWeek (30/10/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/
 
-Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]
+Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek .
+
+## Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw
+- Source : The Hacker News (30/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html
+
+Drupal has warned that threat actors are exploiting a "highly critical" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3
+
+## CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV
+- Source : The Hacker News (30/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (C
+
+## Belgium's tax agency confirms cyberattack, pulls services offline
+- Source : The Register (sécurité) (29/10/2026)
+- Pertinence : 2
+- Lien : https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409
+
+Officials confirm this week’s tax deadlines extended to November as a result
+
+## Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities
+- Source : SecurityWeek (29/10/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/
+
+The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek .
 
 ## Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls
 - Source : The Hacker News (29/10/2026)
@@ -13,13 +41,6 @@ Cisco released security updates to patch a denial-of-service zero-day in Adaptiv
 - Lien : https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html
 
 Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 
-
-## Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August
-- Source : SecurityWeek (29/10/2026)
-- Pertinence : 3
-- Lien : https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/
-
-An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared first on SecurityWeek .
 
 ## Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open
 - Source : The Hacker News (29/10/2026)
@@ -35,13 +56,6 @@ An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux
 
 Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for l
 
-## Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day
-- Source : SecurityWeek (29/10/2026)
-- Pertinence : 4
-- Lien : https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/
-
-CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged. The post Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day appeared first on SecurityWeek .
-
 ## China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility
 - Source : The Hacker News (29/10/2026)
 - Pertinence : 2
@@ -49,33 +63,26 @@ CVE-2026-41709 allows attackers with administrative privileges to perform operat
 
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Wa
 
+## Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)
+- Source : CERT-FR (avis) (29/10/2026)
+- Pertinence : 6
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/
+
+De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.
+
+## Vulnérabilité dans les produits Cisco (29 octobre 2026)
+- Source : CERT-FR (avis) (29/10/2026)
+- Pertinence : 2
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1412/
+
+Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement exploitée.
+
 ## Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles
 - Source : The Register (sécurité) (28/10/2026)
 - Pertinence : 5
 - Lien : https://www.theregister.com/cyber-crime/2026/10/28/serial-ransomware-crook-gets-70-months-behind-bars-for-nefilim-hive-roles/5306050
 
 Artem Stryzhak joined both gangs, which targeted businesses and a hospital during the pandemic
-
-## Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison
-- Source : SecurityWeek (28/10/2026)
-- Pertinence : 5
-- Lien : https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/
-
-Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek .
-
-## InfraTrust report warns of exploited flaws in critical network infrastructure
-- Source : BleepingComputer (28/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/
-
-Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as "PHP2Shell" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]
-
-## TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices
-- Source : SecurityWeek (28/10/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/
-
-FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek .
 
 ## Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch
 - Source : The Hacker News (28/10/2026)
@@ -90,13 +97,6 @@ Threat actors are beginning to probe for a newly patched critical vulnerability 
 - Lien : https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936
 
 Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants
-
-## Nefilim and Hive ransomware affiliate gets 70 months in prison
-- Source : BleepingComputer (28/10/2026)
-- Pertinence : 5
-- Lien : https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/
-
-A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]
 
 ## Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach
 - Source : The Hacker News (28/10/2026)
@@ -125,20 +125,6 @@ De multiples vulnérabilités ont été découvertes dans les produits Veeam. Ce
 - Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1402/
 
 De multiples vulnérabilités ont été découvertes dans Palo Alto Networks PAN-OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. Palo Alto Networks indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 sont activement exploitée
-
-## Japan's GMO urges customers to shut down PCs amid ransomware threat
-- Source : BleepingComputer (27/10/2026)
-- Pertinence : 5
-- Lien : https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/
-
-The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]
-
-## UNM Health ransomware attack disrupts patient care, surgeries
-- Source : BleepingComputer (27/10/2026)
-- Pertinence : 7
-- Lien : https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/
-
-The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]
 
 ## Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack
 - Source : The Register (sécurité) (27/10/2026)
@@ -195,27 +181,6 @@ FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de
 - Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/
 
 **[Mise à jour du 26 octobre 2026]** Le 23 octobre 2026, PHP a publié un avis de sécurité concernant la vulnérabilité CVE-2026-115560. Celle-ci permet une exécution de code arbitraire à distance. L'éditeur estime que les conditions d'exploitation exigent une combinaison d'options
-
-## Palo Alto's firewall OS has been under attack from multiple ransomware groups since June
-- Source : The Register (sécurité) (20/10/2026)
-- Pertinence : 6
-- Lien : https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226
-
-Unit 42 investigates network compromises across numerous industries
-
-## 'Password1' and a forgotten test account land Welsh outfits in hot water
-- Source : The Register (sécurité) (20/10/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139
-
-ICO reprimands Ogi Networks and Data Cymru after ransomware breach exposes info of 3,300 people, mostly children
-
-## Bullhorn sees red after cyberattack knocks recruitment platform offline
-- Source : The Register (sécurité) (20/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114
-
-Staffing software giant calls in CrowdStrike as customers face login headaches and questions remain over possible data theft
 
 ## Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site
 - Source : Krebs on Security (19/10/2026)

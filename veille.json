@@ -1,14 +1,46 @@
 {
-  "maj": "2026-10-29T11:53:37.102353+00:00",
+  "maj": "2026-10-30T11:46:42.162724+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
     {
-      "titre": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "lien": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "resume": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
-      "date": "2026-10-29T07:10:13-04:00",
-      "source": "BleepingComputer",
-      "score": 3
+      "titre": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+      "lien": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
+      "resume": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek .",
+      "date": "2026-10-30T09:32:27+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "lien": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "resume": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3",
+      "date": "2026-10-30T13:15:30+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "lien": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (C",
+      "date": "2026-10-30T12:57:05+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Belgium's tax agency confirms cyberattack, pulls services offline",
+      "lien": "https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409",
+      "resume": "Officials confirm this week’s tax deadlines extended to November as a result",
+      "date": "2026-10-29T15:47:40+01:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
+      "lien": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+      "resume": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek .",
+      "date": "2026-10-29T13:42:52+00:00",
+      "source": "SecurityWeek",
+      "score": 2
     },
     {
       "titre": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
@@ -17,14 +49,6 @@
       "date": "2026-10-29T16:14:46+05:30",
       "source": "The Hacker News",
       "score": 4
-    },
-    {
-      "titre": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
-      "lien": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
-      "resume": "An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared first on SecurityWeek .",
-      "date": "2026-10-29T09:47:10+00:00",
-      "source": "SecurityWeek",
-      "score": 3
     },
     {
       "titre": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
@@ -43,19 +67,27 @@
       "score": 2
     },
     {
-      "titre": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
-      "lien": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
-      "resume": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged. The post Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day appeared first on SecurityWeek .",
-      "date": "2026-10-29T08:01:05+00:00",
-      "source": "SecurityWeek",
-      "score": 4
-    },
-    {
       "titre": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
       "lien": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
       "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Wa",
       "date": "2026-10-29T11:52:33+05:30",
       "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/",
+      "resume": "De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "date": "2026-10-29T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 6
+    },
+    {
+      "titre": "Vulnérabilité dans les produits Cisco (29 octobre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1412/",
+      "resume": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement exploitée.",
+      "date": "2026-10-29T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
       "score": 2
     },
     {
@@ -65,30 +97,6 @@
       "date": "2026-10-28T16:52:17+01:00",
       "source": "The Register (sécurité)",
       "score": 5
-    },
-    {
-      "titre": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
-      "lien": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
-      "resume": "Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek .",
-      "date": "2026-10-28T15:05:06+00:00",
-      "source": "SecurityWeek",
-      "score": 5
-    },
-    {
-      "titre": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "lien": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "resume": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
-      "date": "2026-10-28T10:00:00-04:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
-      "lien": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
-      "resume": "FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek .",
-      "date": "2026-10-28T13:10:34+00:00",
-      "source": "SecurityWeek",
-      "score": 2
     },
     {
       "titre": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
@@ -105,14 +113,6 @@
       "date": "2026-10-28T12:45:00+01:00",
       "source": "The Register (sécurité)",
       "score": 2
-    },
-    {
-      "titre": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-      "lien": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-      "resume": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
-      "date": "2026-10-28T05:43:15-04:00",
-      "source": "BleepingComputer",
-      "score": 5
     },
     {
       "titre": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
@@ -145,22 +145,6 @@
       "date": "2026-10-28T00:00:00+00:00",
       "source": "CERT-FR (avis)",
       "score": 2
-    },
-    {
-      "titre": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-      "lien": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-      "resume": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
-      "date": "2026-10-27T19:35:51-04:00",
-      "source": "BleepingComputer",
-      "score": 5
-    },
-    {
-      "titre": "UNM Health ransomware attack disrupts patient care, surgeries",
-      "lien": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
-      "resume": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
-      "date": "2026-10-27T18:07:34-04:00",
-      "source": "BleepingComputer",
-      "score": 7
     },
     {
       "titre": "Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack",
@@ -224,30 +208,6 @@
       "resume": "**[Mise à jour du 26 octobre 2026]** Le 23 octobre 2026, PHP a publié un avis de sécurité concernant la vulnérabilité CVE-2026-115560. Celle-ci permet une exécution de code arbitraire à distance. L'éditeur estime que les conditions d'exploitation exigent une combinaison d'options",
       "date": "2026-10-21T00:00:00+00:00",
       "source": "CERT-FR (alertes)",
-      "score": 2
-    },
-    {
-      "titre": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
-      "lien": "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
-      "resume": "Unit 42 investigates network compromises across numerous industries",
-      "date": "2026-10-20T19:33:26+02:00",
-      "source": "The Register (sécurité)",
-      "score": 6
-    },
-    {
-      "titre": "'Password1' and a forgotten test account land Welsh outfits in hot water",
-      "lien": "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
-      "resume": "ICO reprimands Ogi Networks and Data Cymru after ransomware breach exposes info of 3,300 people, mostly children",
-      "date": "2026-10-20T15:35:00+02:00",
-      "source": "The Register (sécurité)",
-      "score": 5
-    },
-    {
-      "titre": "Bullhorn sees red after cyberattack knocks recruitment platform offline",
-      "lien": "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114",
-      "resume": "Staffing software giant calls in CrowdStrike as customers face login headaches and questions remain over possible data theft",
-      "date": "2026-10-20T14:15:00+02:00",
-      "source": "The Register (sécurité)",
       "score": 2
     },
     {
