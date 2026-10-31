@@ -1,4 +1,25 @@
-# Veille du 30/10/2026 : ransomwares et résilience
+# Veille du 31/10/2026 : ransomwares et résilience
+
+## Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see
+- Source : The Register (sécurité) (30/10/2026)
+- Pertinence : 2
+- Lien : https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754
+
+n0n-existent security
+
+## Bulletproof Host Virtualine Loses Its Domain to FBI Seizure
+- Source : SecurityWeek (30/10/2026)
+- Pertinence : 5
+- Lien : https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/
+
+It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments. The post Bulletproof Host Virtualine Loses Its Domain to FBI Seizure appeared first on SecurityWeek .
+
+## Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis
+- Source : The Hacker News (30/10/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html
+
+A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis s
 
 ## Max-Severity GitLab Vulnerability Exploited Against Alpine Linux
 - Source : SecurityWeek (30/10/2026)
@@ -21,19 +42,19 @@ Drupal has warned that threat actors are exploiting a "highly critical" security
 
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (C
 
+## Multiples vulnérabilités dans Veeam Management Pack (30 octobre 2026)
+- Source : CERT-FR (avis) (30/10/2026)
+- Pertinence : 3
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1426/
+
+De multiples vulnérabilités ont été découvertes dans Veeam Management Pack. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.
+
 ## Belgium's tax agency confirms cyberattack, pulls services offline
 - Source : The Register (sécurité) (29/10/2026)
 - Pertinence : 2
 - Lien : https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409
 
 Officials confirm this week’s tax deadlines extended to November as a result
-
-## Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities
-- Source : SecurityWeek (29/10/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/
-
-The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek .
 
 ## Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls
 - Source : The Hacker News (29/10/2026)
@@ -146,20 +167,6 @@ Apple on Monday backported fixes for a high-severity security flaw that was expl
 - Lien : https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html
 
 The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russia
-
-## Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware
-- Source : The Hacker News (26/10/2026)
-- Pertinence : 5
-- Lien : https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html
-
-Cybersecurity researchers are calling attention to what they say is a "recurring social engineering pattern" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. "A consistent pat
-
-## Multiples vulnérabilités dans les produits VMware (26 octobre 2026)
-- Source : CERT-FR (avis) (26/10/2026)
-- Pertinence : 2
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1385/
-
-De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
 
 ## Point Vision : des données de patients dérobées
 - Source : ZATAZ (24/10/2026)
