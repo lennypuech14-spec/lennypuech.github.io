@@ -1,4 +1,11 @@
-# Veille du 31/10/2026 : ransomwares et résilience
+# Veille du 01/11/2026 : ransomwares et résilience
+
+## New Android SMS of Death exploit can remotely crash unpatched phones
+- Source : BleepingComputer (31/10/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/
+
+A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...
 
 ## Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see
 - Source : The Register (sécurité) (30/10/2026)
@@ -160,13 +167,6 @@ University hospitals once again accepting patients after initial ambulance diver
 - Lien : https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html
 
 Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code
-
-## Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption
-- Source : The Hacker News (27/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html
-
-The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russia
 
 ## Point Vision : des données de patients dérobées
 - Source : ZATAZ (24/10/2026)
