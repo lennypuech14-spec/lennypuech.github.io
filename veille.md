@@ -1,4 +1,32 @@
-# Veille du 01/11/2026 : ransomwares et résilience
+# Veille du 02/11/2026 : ransomwares et résilience
+
+## Synology warns of C3RB3R ransomware attacks targeting NAS devices
+- Source : BleepingComputer (02/11/2026)
+- Pertinence : 6
+- Lien : https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/
+
+Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]
+
+## Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data
+- Source : The Hacker News (02/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html
+
+Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain control
+
+## Chainalysis Discloses Data Breach Following AI-Driven Cyberattack
+- Source : SecurityWeek (02/11/2026)
+- Pertinence : 3
+- Lien : https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/
+
+The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack appeared first on SecurityWeek .
+
+## Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain
+- Source : SecurityWeek (02/11/2026)
+- Pertinence : 3
+- Lien : https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/
+
+CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appeared first on SecurityWeek .
 
 ## New Android SMS of Death exploit can remotely crash unpatched phones
 - Source : BleepingComputer (31/10/2026)
@@ -14,26 +42,12 @@ A security researcher has released a proof-of-concept exploit for a recently pat
 
 n0n-existent security
 
-## Bulletproof Host Virtualine Loses Its Domain to FBI Seizure
-- Source : SecurityWeek (30/10/2026)
-- Pertinence : 5
-- Lien : https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/
-
-It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments. The post Bulletproof Host Virtualine Loses Its Domain to FBI Seizure appeared first on SecurityWeek .
-
 ## Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis
 - Source : The Hacker News (30/10/2026)
 - Pertinence : 2
 - Lien : https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html
 
 A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis s
-
-## Max-Severity GitLab Vulnerability Exploited Against Alpine Linux
-- Source : SecurityWeek (30/10/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/
-
-Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek .
 
 ## Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw
 - Source : The Hacker News (30/10/2026)
@@ -133,13 +147,6 @@ Company chiefs believe the attackers could be the same as those who used ARTEX t
 
 Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an ar
 
-## ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws
-- Source : The Hacker News (28/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html
-
-The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request 
-
 ## Multiples vulnérabilités dans les produits Veeam (28 octobre 2026)
 - Source : CERT-FR (avis) (28/10/2026)
 - Pertinence : 3
@@ -160,13 +167,6 @@ De multiples vulnérabilités ont été découvertes dans Palo Alto Networks PAN
 - Lien : https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690
 
 University hospitals once again accepting patients after initial ambulance diversion, but recovery to continue in phases
-
-## Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads
-- Source : The Hacker News (27/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html
-
-Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code
 
 ## Point Vision : des données de patients dérobées
 - Source : ZATAZ (24/10/2026)
