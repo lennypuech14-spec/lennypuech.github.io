@@ -1,4 +1,60 @@
-# Veille du 02/11/2026 : ransomwares et résilience
+# Veille du 03/11/2026 : ransomwares et résilience
+
+## Britain on notice: AI-powered ransomware attacks to arrive by 2028
+- Source : The Register (sécurité) (03/11/2026)
+- Pertinence : 5
+- Lien : https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200
+
+Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'
+
+## UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028
+- Source : SecurityWeek (03/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/
+
+The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appe
+
+## Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw
+- Source : The Hacker News (03/11/2026)
+- Pertinence : 7
+- Lien : https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html
+
+Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target device
+
+## New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food
+- Source : The Hacker News (03/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html
+
+Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to t
+
+## Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors
+- Source : The Hacker News (03/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html
+
+A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could 
+
+## Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials
+- Source : The Hacker News (03/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/attackers-target-unpatched.html
+
+Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful ex
+
+## Fintech platform Sageworks taken offline after suspected cyberattack
+- Source : BleepingComputer (02/11/2026)
+- Pertinence : 3
+- Lien : https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/
+
+Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by "irregular activity" in its environment. [...]
+
+## Hackers disrupt refrigeration systems at European supermarkets
+- Source : BleepingComputer (02/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/
+
+A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]
 
 ## Synology warns of C3RB3R ransomware attacks targeting NAS devices
 - Source : BleepingComputer (02/11/2026)
@@ -13,27 +69,6 @@ Taiwanese network-attached storage (NAS) appliance maker Synology warned custome
 - Lien : https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html
 
 Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain control
-
-## Chainalysis Discloses Data Breach Following AI-Driven Cyberattack
-- Source : SecurityWeek (02/11/2026)
-- Pertinence : 3
-- Lien : https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/
-
-The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack appeared first on SecurityWeek .
-
-## Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain
-- Source : SecurityWeek (02/11/2026)
-- Pertinence : 3
-- Lien : https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/
-
-CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appeared first on SecurityWeek .
-
-## New Android SMS of Death exploit can remotely crash unpatched phones
-- Source : BleepingComputer (31/10/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/
-
-A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...
 
 ## Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see
 - Source : The Register (sécurité) (30/10/2026)
@@ -126,40 +161,12 @@ Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à 
 
 Artem Stryzhak joined both gangs, which targeted businesses and a hospital during the pandemic
 
-## Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch
-- Source : The Hacker News (28/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html
-
-Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Ora
-
 ## 123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus
 - Source : The Register (sécurité) (28/10/2026)
 - Pertinence : 2
 - Lien : https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936
 
 Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants
-
-## Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach
-- Source : The Hacker News (28/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html
-
-Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an ar
-
-## Multiples vulnérabilités dans les produits Veeam (28 octobre 2026)
-- Source : CERT-FR (avis) (28/10/2026)
-- Pertinence : 3
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1399/
-
-De multiples vulnérabilités ont été découvertes dans les produits Veeam. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.
-
-## Multiples vulnérabilités dans Palo Alto Networks PAN-OS (28 octobre 2026)
-- Source : CERT-FR (avis) (28/10/2026)
-- Pertinence : 2
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1402/
-
-De multiples vulnérabilités ont été découvertes dans Palo Alto Networks PAN-OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. Palo Alto Networks indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 sont activement exploitée
 
 ## Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack
 - Source : The Register (sécurité) (27/10/2026)
@@ -203,12 +210,12 @@ U.S. federal investigators pursuing the ShinyHunters hacking group that recently
 
 The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent ex
 
-## Vulnérabilité dans Ivanti Connect Secure (ICS) (14 octobre 2026)
+## [MàJ] Multiples vulnérabilités dans Ivanti Connect Secure (ICS) (14 octobre 2026)
 - Source : CERT-FR (alertes) (14/10/2026)
 - Pertinence : 2
 - Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-013/
 
-Une vulnérabilité a été découverte dans Ivanti Connect Secure (ICS). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que cette vulnérabilité CVE-2026-1
+[Mise à jour du 2 novembre 2026] Le 29 octobre 2026, Ivanti a mis à jour son avis de sécurité du 13 octobre 2026 pour ajouter deux vulnérabilités (CVE-2026-111357 et CVE-2026-118527). Celles-ci permettent à un attaquant authentifié d'élever ses privilèges et de téléverser un fich
 
 ## FBI Arrests Executive at Ransomware Negotiation Firm
 - Source : Krebs on Security (10/10/2026)

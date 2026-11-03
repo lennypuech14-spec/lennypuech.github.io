@@ -1,7 +1,71 @@
 {
-  "maj": "2026-11-02T14:00:09.576801+00:00",
+  "maj": "2026-11-03T13:08:52.154017+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
+      "lien": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
+      "resume": "Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'",
+      "date": "2026-11-03T13:39:25+01:00",
+      "source": "The Register (sécurité)",
+      "score": 5
+    },
+    {
+      "titre": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
+      "lien": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
+      "resume": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appe",
+      "date": "2026-11-03T09:49:12+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "lien": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "resume": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target device",
+      "date": "2026-11-03T13:13:07+05:30",
+      "source": "The Hacker News",
+      "score": 7
+    },
+    {
+      "titre": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+      "lien": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+      "resume": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to t",
+      "date": "2026-11-03T12:57:07+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "lien": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "resume": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could ",
+      "date": "2026-11-03T11:04:41+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "lien": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "resume": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful ex",
+      "date": "2026-11-03T11:04:37+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "lien": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "resume": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+      "date": "2026-11-02T14:00:45-05:00",
+      "source": "BleepingComputer",
+      "score": 3
+    },
+    {
+      "titre": "Hackers disrupt refrigeration systems at European supermarkets",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+      "resume": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+      "date": "2026-11-02T09:28:39-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
     {
       "titre": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
       "lien": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
@@ -16,30 +80,6 @@
       "resume": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain control",
       "date": "2026-11-02T16:38:45+05:30",
       "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
-      "lien": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
-      "resume": "The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack appeared first on SecurityWeek .",
-      "date": "2026-11-02T10:27:49+00:00",
-      "source": "SecurityWeek",
-      "score": 3
-    },
-    {
-      "titre": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
-      "lien": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
-      "resume": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appeared first on SecurityWeek .",
-      "date": "2026-11-02T07:57:49+00:00",
-      "source": "SecurityWeek",
-      "score": 3
-    },
-    {
-      "titre": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "lien": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "resume": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...",
-      "date": "2026-10-31T11:35:11-04:00",
-      "source": "BleepingComputer",
       "score": 2
     },
     {
@@ -147,43 +187,11 @@
       "score": 5
     },
     {
-      "titre": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-      "lien": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "resume": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Ora",
-      "date": "2026-10-28T18:18:03+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
       "titre": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
       "lien": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
       "resume": "Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants",
       "date": "2026-10-28T12:45:00+01:00",
       "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-      "lien": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-      "resume": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an ar",
-      "date": "2026-10-28T12:43:21+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Multiples vulnérabilités dans les produits Veeam (28 octobre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1399/",
-      "resume": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "date": "2026-10-28T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
-      "score": 3
-    },
-    {
-      "titre": "Multiples vulnérabilités dans Palo Alto Networks PAN-OS (28 octobre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1402/",
-      "resume": "De multiples vulnérabilités ont été découvertes dans Palo Alto Networks PAN-OS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. Palo Alto Networks indique que les vulnérabilités CVE-2026-109618 et CVE-2026-109619 sont activement exploitée",
-      "date": "2026-10-28T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
       "score": 2
     },
     {
@@ -235,9 +243,9 @@
       "score": 5
     },
     {
-      "titre": "Vulnérabilité dans Ivanti Connect Secure (ICS) (14 octobre 2026)",
+      "titre": "[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure (ICS) (14 octobre 2026)",
       "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-013/",
-      "resume": "Une vulnérabilité a été découverte dans Ivanti Connect Secure (ICS). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que cette vulnérabilité CVE-2026-1",
+      "resume": "[Mise à jour du 2 novembre 2026] Le 29 octobre 2026, Ivanti a mis à jour son avis de sécurité du 13 octobre 2026 pour ajouter deux vulnérabilités (CVE-2026-111357 et CVE-2026-118527). Celles-ci permettent à un attaquant authentifié d'élever ses privilèges et de téléverser un fich",
       "date": "2026-10-14T00:00:00+00:00",
       "source": "CERT-FR (alertes)",
       "score": 2
