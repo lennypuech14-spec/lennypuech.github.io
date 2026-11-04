@@ -1,4 +1,25 @@
-# Veille du 03/11/2026 : ransomwares et résilience
+# Veille du 04/11/2026 : ransomwares et résilience
+
+## Cyberattack on French plasma stores is enough to make your blood boil
+- Source : The Register (sécurité) (04/11/2026)
+- Pertinence : 2
+- Lien : https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519
+
+Attackers reportedly set cold-room controls to 110°C, but safeguards prevented stock losses
+
+## CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades
+- Source : The Hacker News (04/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1)
+
+## UK school estate hit by 3AM ransomware in suspected AI-assisted attack
+- Source : BleepingComputer (03/11/2026)
+- Pertinence : 7
+- Lien : https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/
+
+A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]
 
 ## Britain on notice: AI-powered ransomware attacks to arrive by 2028
 - Source : The Register (sécurité) (03/11/2026)
@@ -6,13 +27,6 @@
 - Lien : https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200
 
 Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'
-
-## UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028
-- Source : SecurityWeek (03/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/
-
-The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appe
 
 ## Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw
 - Source : The Hacker News (03/11/2026)
@@ -48,20 +62,6 @@ Threat actors are attempting to exploit an unpatched maximum-severity security v
 - Lien : https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/
 
 Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by "irregular activity" in its environment. [...]
-
-## Hackers disrupt refrigeration systems at European supermarkets
-- Source : BleepingComputer (02/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/
-
-A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]
-
-## Synology warns of C3RB3R ransomware attacks targeting NAS devices
-- Source : BleepingComputer (02/11/2026)
-- Pertinence : 6
-- Lien : https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/
-
-Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]
 
 ## Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data
 - Source : The Hacker News (02/11/2026)
@@ -111,34 +111,6 @@ De multiples vulnérabilités ont été découvertes dans Veeam Management Pack.
 - Lien : https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409
 
 Officials confirm this week’s tax deadlines extended to November as a result
-
-## Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls
-- Source : The Hacker News (29/10/2026)
-- Pertinence : 4
-- Lien : https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html
-
-Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 
-
-## Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open
-- Source : The Hacker News (29/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html
-
-An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a
-
-## Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys
-- Source : The Hacker News (29/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html
-
-Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for l
-
-## China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility
-- Source : The Hacker News (29/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Wa
 
 ## Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)
 - Source : CERT-FR (avis) (29/10/2026)

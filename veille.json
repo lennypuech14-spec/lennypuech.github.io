@@ -1,7 +1,31 @@
 {
-  "maj": "2026-11-03T13:08:52.154017+00:00",
+  "maj": "2026-11-04T13:24:49.730947+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Cyberattack on French plasma stores is enough to make your blood boil",
+      "lien": "https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519",
+      "resume": "Attackers reportedly set cold-room controls to 110°C, but safeguards prevented stock losses",
+      "date": "2026-11-04T12:56:54+01:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "lien": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1)",
+      "date": "2026-11-04T11:13:11+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "lien": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "resume": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+      "date": "2026-11-03T09:00:00-05:00",
+      "source": "BleepingComputer",
+      "score": 7
+    },
     {
       "titre": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
       "lien": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
@@ -9,14 +33,6 @@
       "date": "2026-11-03T13:39:25+01:00",
       "source": "The Register (sécurité)",
       "score": 5
-    },
-    {
-      "titre": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
-      "lien": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
-      "resume": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appe",
-      "date": "2026-11-03T09:49:12+00:00",
-      "source": "SecurityWeek",
-      "score": 2
     },
     {
       "titre": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
@@ -57,22 +73,6 @@
       "date": "2026-11-02T14:00:45-05:00",
       "source": "BleepingComputer",
       "score": 3
-    },
-    {
-      "titre": "Hackers disrupt refrigeration systems at European supermarkets",
-      "lien": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-      "resume": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
-      "date": "2026-11-02T09:28:39-05:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "lien": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "resume": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
-      "date": "2026-11-02T06:28:42-05:00",
-      "source": "BleepingComputer",
-      "score": 6
     },
     {
       "titre": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
@@ -128,38 +128,6 @@
       "resume": "Officials confirm this week’s tax deadlines extended to November as a result",
       "date": "2026-10-29T15:47:40+01:00",
       "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "lien": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "resume": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated ",
-      "date": "2026-10-29T16:14:46+05:30",
-      "source": "The Hacker News",
-      "score": 4
-    },
-    {
-      "titre": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-      "lien": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-      "resume": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a",
-      "date": "2026-10-29T14:35:39+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-      "lien": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "resume": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for l",
-      "date": "2026-10-29T13:54:22+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-      "lien": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Wa",
-      "date": "2026-10-29T11:52:33+05:30",
-      "source": "The Hacker News",
       "score": 2
     },
     {
