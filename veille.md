@@ -1,4 +1,46 @@
-# Veille du 04/11/2026 : ransomwares et résilience
+# Veille du 05/11/2026 : ransomwares et résilience
+
+## Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised
+- Source : SecurityWeek (05/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/
+
+The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on SecurityW
+
+## New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark
+- Source : The Register (sécurité) (05/11/2026)
+- Pertinence : 5
+- Lien : https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796
+
+No gang has claimed the attack on incredible neighborhood resource yet
+
+## Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day
+- Source : SecurityWeek (05/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/
+
+Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek .
+
+## Zyxel fixes zero-day exploited to hack nearly 1,000 network switches
+- Source : BleepingComputer (04/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/
+
+Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]
+
+## Cyberattack disrupts blood storage refrigeration systems in France
+- Source : BleepingComputer (04/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/
+
+France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]
+
+## mSecure password manager hack prompts password reset warnings
+- Source : BleepingComputer (04/11/2026)
+- Pertinence : 4
+- Lien : https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/
+
+mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]
 
 ## Cyberattack on French plasma stores is enough to make your blood boil
 - Source : The Register (sécurité) (04/11/2026)
@@ -13,13 +55,6 @@ Attackers reportedly set cold-room controls to 110°C, but safeguards prevented 
 - Lien : https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html
 
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1)
-
-## UK school estate hit by 3AM ransomware in suspected AI-assisted attack
-- Source : BleepingComputer (03/11/2026)
-- Pertinence : 7
-- Lien : https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/
-
-A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]
 
 ## Britain on notice: AI-powered ransomware attacks to arrive by 2028
 - Source : The Register (sécurité) (03/11/2026)
@@ -56,13 +91,6 @@ A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devi
 
 Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful ex
 
-## Fintech platform Sageworks taken offline after suspected cyberattack
-- Source : BleepingComputer (02/11/2026)
-- Pertinence : 3
-- Lien : https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/
-
-Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by "irregular activity" in its environment. [...]
-
 ## Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data
 - Source : The Hacker News (02/11/2026)
 - Pertinence : 2
@@ -77,27 +105,6 @@ Attackers posing as IT support on Microsoft Teams talked employees into giving t
 
 n0n-existent security
 
-## Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis
-- Source : The Hacker News (30/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html
-
-A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis s
-
-## Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw
-- Source : The Hacker News (30/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html
-
-Drupal has warned that threat actors are exploiting a "highly critical" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3
-
-## CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV
-- Source : The Hacker News (30/10/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (C
-
 ## Multiples vulnérabilités dans Veeam Management Pack (30 octobre 2026)
 - Source : CERT-FR (avis) (30/10/2026)
 - Pertinence : 3
@@ -111,20 +118,6 @@ De multiples vulnérabilités ont été découvertes dans Veeam Management Pack.
 - Lien : https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409
 
 Officials confirm this week’s tax deadlines extended to November as a result
-
-## Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)
-- Source : CERT-FR (avis) (29/10/2026)
-- Pertinence : 6
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/
-
-De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.
-
-## Vulnérabilité dans les produits Cisco (29 octobre 2026)
-- Source : CERT-FR (avis) (29/10/2026)
-- Pertinence : 2
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1412/
-
-Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement exploitée.
 
 ## Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles
 - Source : The Register (sécurité) (28/10/2026)

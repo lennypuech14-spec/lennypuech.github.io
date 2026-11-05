@@ -1,7 +1,55 @@
 {
-  "maj": "2026-11-04T13:24:49.730947+00:00",
+  "maj": "2026-11-05T13:38:18.710172+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
+      "lien": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+      "resume": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on SecurityW",
+      "date": "2026-11-05T12:58:32+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
+      "lien": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
+      "resume": "No gang has claimed the attack on incredible neighborhood resource yet",
+      "date": "2026-11-05T13:10:15+01:00",
+      "source": "The Register (sécurité)",
+      "score": 5
+    },
+    {
+      "titre": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+      "lien": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+      "resume": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek .",
+      "date": "2026-11-05T10:56:41+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "lien": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "resume": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+      "date": "2026-11-04T15:58:19-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "lien": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "resume": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+      "date": "2026-11-04T13:02:56-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "mSecure password manager hack prompts password reset warnings",
+      "lien": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "resume": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
+      "date": "2026-11-04T11:00:18-05:00",
+      "source": "BleepingComputer",
+      "score": 4
+    },
     {
       "titre": "Cyberattack on French plasma stores is enough to make your blood boil",
       "lien": "https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519",
@@ -17,14 +65,6 @@
       "date": "2026-11-04T11:13:11+05:30",
       "source": "The Hacker News",
       "score": 2
-    },
-    {
-      "titre": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-      "lien": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "resume": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
-      "date": "2026-11-03T09:00:00-05:00",
-      "source": "BleepingComputer",
-      "score": 7
     },
     {
       "titre": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
@@ -67,14 +107,6 @@
       "score": 2
     },
     {
-      "titre": "Fintech platform Sageworks taken offline after suspected cyberattack",
-      "lien": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
-      "resume": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
-      "date": "2026-11-02T14:00:45-05:00",
-      "source": "BleepingComputer",
-      "score": 3
-    },
-    {
       "titre": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
       "lien": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
       "resume": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain control",
@@ -91,30 +123,6 @@
       "score": 2
     },
     {
-      "titre": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "lien": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-      "resume": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis s",
-      "date": "2026-10-30T17:51:56+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "lien": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "resume": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3",
-      "date": "2026-10-30T13:15:30+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "lien": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (C",
-      "date": "2026-10-30T12:57:05+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
       "titre": "Multiples vulnérabilités dans Veeam Management Pack (30 octobre 2026)",
       "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1426/",
       "resume": "De multiples vulnérabilités ont été découvertes dans Veeam Management Pack. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
@@ -128,22 +136,6 @@
       "resume": "Officials confirm this week’s tax deadlines extended to November as a result",
       "date": "2026-10-29T15:47:40+01:00",
       "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/",
-      "resume": "De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "date": "2026-10-29T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
-      "score": 6
-    },
-    {
-      "titre": "Vulnérabilité dans les produits Cisco (29 octobre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1412/",
-      "resume": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76418 est activement exploitée.",
-      "date": "2026-10-29T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
       "score": 2
     },
     {
