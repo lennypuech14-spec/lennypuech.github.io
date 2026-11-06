@@ -1,7 +1,31 @@
 {
-  "maj": "2026-11-05T13:38:18.710172+00:00",
+  "maj": "2026-11-06T13:22:01.315030+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
+      "lien": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
+      "resume": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek .",
+      "date": "2026-11-06T12:47:55+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "resume": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+      "date": "2026-11-05T19:56:44-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Cyberattaque contre les frigos de l’EFS : le plasma visé",
+      "lien": "https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/",
+      "resume": "Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.",
+      "date": "2026-11-05T16:36:51+00:00",
+      "source": "ZATAZ",
+      "score": 2
+    },
     {
       "titre": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
       "lien": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
@@ -19,14 +43,6 @@
       "score": 5
     },
     {
-      "titre": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
-      "lien": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
-      "resume": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek .",
-      "date": "2026-11-05T10:56:41+00:00",
-      "source": "SecurityWeek",
-      "score": 2
-    },
-    {
       "titre": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
       "lien": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
       "resume": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
@@ -41,14 +57,6 @@
       "date": "2026-11-04T13:02:56-05:00",
       "source": "BleepingComputer",
       "score": 2
-    },
-    {
-      "titre": "mSecure password manager hack prompts password reset warnings",
-      "lien": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "resume": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
-      "date": "2026-11-04T11:00:18-05:00",
-      "source": "BleepingComputer",
-      "score": 4
     },
     {
       "titre": "Cyberattack on French plasma stores is enough to make your blood boil",
@@ -121,14 +129,6 @@
       "date": "2026-10-30T20:37:12+01:00",
       "source": "The Register (sécurité)",
       "score": 2
-    },
-    {
-      "titre": "Multiples vulnérabilités dans Veeam Management Pack (30 octobre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1426/",
-      "resume": "De multiples vulnérabilités ont été découvertes dans Veeam Management Pack. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "date": "2026-10-30T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
-      "score": 3
     },
     {
       "titre": "Belgium's tax agency confirms cyberattack, pulls services offline",

@@ -1,4 +1,25 @@
-# Veille du 05/11/2026 : ransomwares et résilience
+# Veille du 06/11/2026 : ransomwares et résilience
+
+## Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack
+- Source : SecurityWeek (06/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/
+
+The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek .
+
+## FBI, CISA warn of cyberattacks targeting refrigeration systems
+- Source : BleepingComputer (05/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/
+
+The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]
+
+## Cyberattaque contre les frigos de l’EFS : le plasma visé
+- Source : ZATAZ (05/11/2026)
+- Pertinence : 2
+- Lien : https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/
+
+Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.
 
 ## Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised
 - Source : SecurityWeek (05/11/2026)
@@ -14,13 +35,6 @@ The incident comes after supermarkets in a number of European countries reported
 
 No gang has claimed the attack on incredible neighborhood resource yet
 
-## Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day
-- Source : SecurityWeek (05/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/
-
-Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek .
-
 ## Zyxel fixes zero-day exploited to hack nearly 1,000 network switches
 - Source : BleepingComputer (04/11/2026)
 - Pertinence : 2
@@ -34,13 +48,6 @@ Zyxel has patched a zero-day vulnerability in its GS1900 series network switches
 - Lien : https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/
 
 France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]
-
-## mSecure password manager hack prompts password reset warnings
-- Source : BleepingComputer (04/11/2026)
-- Pertinence : 4
-- Lien : https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/
-
-mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]
 
 ## Cyberattack on French plasma stores is enough to make your blood boil
 - Source : The Register (sécurité) (04/11/2026)
@@ -104,13 +111,6 @@ Attackers posing as IT support on Microsoft Teams talked employees into giving t
 - Lien : https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754
 
 n0n-existent security
-
-## Multiples vulnérabilités dans Veeam Management Pack (30 octobre 2026)
-- Source : CERT-FR (avis) (30/10/2026)
-- Pertinence : 3
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1426/
-
-De multiples vulnérabilités ont été découvertes dans Veeam Management Pack. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.
 
 ## Belgium's tax agency confirms cyberattack, pulls services offline
 - Source : The Register (sécurité) (29/10/2026)
