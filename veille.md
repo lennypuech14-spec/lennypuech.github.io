@@ -1,4 +1,46 @@
-# Veille du 06/11/2026 : ransomwares et résilience
+# Veille du 07/11/2026 : ransomwares et résilience
+
+## SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins
+- Source : SecurityWeek (07/11/2026)
+- Pertinence : 3
+- Lien : https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/
+
+CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .
+
+## SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks
+- Source : BleepingComputer (06/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/
+
+SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]
+
+## QNAP says hackers breaching NAS devices in Plex2Shell attacks
+- Source : BleepingComputer (06/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/
+
+QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]
+
+## Veeam warns of Software Appliance boot failures on AMD EPYC hosts
+- Source : BleepingComputer (06/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/
+
+​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]
+
+## Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot
+- Source : The Hacker News (06/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
+
+Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), 
+
+## In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days
+- Source : SecurityWeek (06/11/2026)
+- Pertinence : 6
+- Lien : https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/
+
+Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first o
 
 ## Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack
 - Source : SecurityWeek (06/11/2026)
@@ -14,19 +56,19 @@ The October incident will cut fourth-quarter sales by up to €250 million and h
 
 The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]
 
+## Vulnérabilité dans les produits VMware (06 novembre 2026)
+- Source : CERT-FR (avis) (06/11/2026)
+- Pertinence : 2
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1474/
+
+Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.
+
 ## Cyberattaque contre les frigos de l’EFS : le plasma visé
 - Source : ZATAZ (05/11/2026)
 - Pertinence : 2
 - Lien : https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/
 
 Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.
-
-## Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised
-- Source : SecurityWeek (05/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/
-
-The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on SecurityW
 
 ## New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark
 - Source : The Register (sécurité) (05/11/2026)
@@ -35,19 +77,12 @@ The incident comes after supermarkets in a number of European countries reported
 
 No gang has claimed the attack on incredible neighborhood resource yet
 
-## Zyxel fixes zero-day exploited to hack nearly 1,000 network switches
-- Source : BleepingComputer (04/11/2026)
+## [MàJ] Vulnérabilité dans OpenSSH (05 novembre 2026)
+- Source : CERT-FR (alertes) (05/11/2026)
 - Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/
+- Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-015/
 
-Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]
-
-## Cyberattack disrupts blood storage refrigeration systems in France
-- Source : BleepingComputer (04/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/
-
-France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]
+[Mise à jour du 6 novembre 2026] Cette vulnérabilité porte l'identifiant CVE-2026-123158. Alpine a publié un bulletin de sécurité (cf. section Documentation) concernant cette vulnérabilité. Le CERT-FR précise que toute installation de correctif ou modification de la configuration
 
 ## Cyberattack on French plasma stores is enough to make your blood boil
 - Source : The Register (sécurité) (04/11/2026)
@@ -97,13 +132,6 @@ A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devi
 - Lien : https://thehackernews.com/2026/11/attackers-target-unpatched.html
 
 Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful ex
-
-## Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data
-- Source : The Hacker News (02/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html
-
-Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain control
 
 ## Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see
 - Source : The Register (sécurité) (30/10/2026)
@@ -188,11 +216,4 @@ The United Kingdom has issued economic sanctions against Cryptomus, a chameleoni
 - Lien : https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/
 
 Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sou
-
-## ShinyHunters Extorted Boeing Spin-off Prior to Arrests
-- Source : Krebs on Security (07/10/2026)
-- Pertinence : 2
-- Lien : https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/
-
-A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacke
 

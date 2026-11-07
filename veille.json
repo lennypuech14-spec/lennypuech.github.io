@@ -1,7 +1,55 @@
 {
-  "maj": "2026-11-06T13:22:01.315030+00:00",
+  "maj": "2026-11-07T12:00:10.408635+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+      "lien": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+      "resume": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .",
+      "date": "2026-11-07T10:16:23+00:00",
+      "source": "SecurityWeek",
+      "score": 3
+    },
+    {
+      "titre": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "lien": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "resume": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+      "date": "2026-11-06T19:00:55-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "lien": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "resume": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+      "date": "2026-11-06T12:04:23-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+      "lien": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+      "resume": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
+      "date": "2026-11-06T10:25:31-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "lien": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "resume": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), ",
+      "date": "2026-11-06T20:51:49+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+      "lien": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
+      "resume": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first o",
+      "date": "2026-11-06T14:40:09+00:00",
+      "source": "SecurityWeek",
+      "score": 6
+    },
     {
       "titre": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
       "lien": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
@@ -19,19 +67,19 @@
       "score": 2
     },
     {
+      "titre": "Vulnérabilité dans les produits VMware (06 novembre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1474/",
+      "resume": "Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "date": "2026-11-06T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 2
+    },
+    {
       "titre": "Cyberattaque contre les frigos de l’EFS : le plasma visé",
       "lien": "https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/",
       "resume": "Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.",
       "date": "2026-11-05T16:36:51+00:00",
       "source": "ZATAZ",
-      "score": 2
-    },
-    {
-      "titre": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
-      "lien": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
-      "resume": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on SecurityW",
-      "date": "2026-11-05T12:58:32+00:00",
-      "source": "SecurityWeek",
       "score": 2
     },
     {
@@ -43,19 +91,11 @@
       "score": 5
     },
     {
-      "titre": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "lien": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "resume": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-      "date": "2026-11-04T15:58:19-05:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "lien": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "resume": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
-      "date": "2026-11-04T13:02:56-05:00",
-      "source": "BleepingComputer",
+      "titre": "[MàJ] Vulnérabilité dans OpenSSH (05 novembre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-015/",
+      "resume": "[Mise à jour du 6 novembre 2026] Cette vulnérabilité porte l'identifiant CVE-2026-123158. Alpine a publié un bulletin de sécurité (cf. section Documentation) concernant cette vulnérabilité. Le CERT-FR précise que toute installation de correctif ou modification de la configuration",
+      "date": "2026-11-05T00:00:00+00:00",
+      "source": "CERT-FR (alertes)",
       "score": 2
     },
     {
@@ -111,14 +151,6 @@
       "lien": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
       "resume": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful ex",
       "date": "2026-11-03T11:04:37+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-      "lien": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-      "resume": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain control",
-      "date": "2026-11-02T16:38:45+05:30",
       "source": "The Hacker News",
       "score": 2
     },
@@ -217,14 +249,6 @@
       "date": "2026-10-10T00:17:42+00:00",
       "source": "Krebs on Security",
       "score": 5
-    },
-    {
-      "titre": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "lien": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "resume": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacke",
-      "date": "2026-10-07T13:48:45+00:00",
-      "source": "Krebs on Security",
-      "score": 2
     }
   ]
 }
