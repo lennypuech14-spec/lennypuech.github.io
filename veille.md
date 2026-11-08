@@ -1,4 +1,11 @@
-# Veille du 07/11/2026 : ransomwares et résilience
+# Veille du 08/11/2026 : ransomwares et résilience
+
+## Hackers pull off $133 million French bank heist via service provider
+- Source : BleepingComputer (07/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/
+
+French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]
 
 ## SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins
 - Source : SecurityWeek (07/11/2026)

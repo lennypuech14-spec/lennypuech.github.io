@@ -1,7 +1,15 @@
 {
-  "maj": "2026-11-07T12:00:10.408635+00:00",
+  "maj": "2026-11-08T12:20:37.737735+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Hackers pull off $133 million French bank heist via service provider",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "resume": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+      "date": "2026-11-07T10:25:35-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
     {
       "titre": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
       "lien": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
