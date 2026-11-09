@@ -1,7 +1,23 @@
 {
-  "maj": "2026-11-08T12:20:37.737735+00:00",
+  "maj": "2026-11-09T14:34:03.123929+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Revolve Puts Data Breach Victim Count at 1.5 Million",
+      "lien": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
+      "resume": "Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals. The post Revolve Puts Data Breach Victim Count at 1.5 Million appeared first on SecurityWeek .",
+      "date": "2026-11-09T14:08:08+00:00",
+      "source": "SecurityWeek",
+      "score": 3
+    },
+    {
+      "titre": "Un géant de l’informatique visé par une revendication de vol de données",
+      "lien": "https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/",
+      "resume": "Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.",
+      "date": "2026-11-08T23:36:38+00:00",
+      "source": "ZATAZ",
+      "score": 3
+    },
     {
       "titre": "Hackers pull off $133 million French bank heist via service provider",
       "lien": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
@@ -48,30 +64,6 @@
       "resume": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), ",
       "date": "2026-11-06T20:51:49+05:30",
       "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
-      "lien": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
-      "resume": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first o",
-      "date": "2026-11-06T14:40:09+00:00",
-      "source": "SecurityWeek",
-      "score": 6
-    },
-    {
-      "titre": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
-      "lien": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
-      "resume": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek .",
-      "date": "2026-11-06T12:47:55+00:00",
-      "source": "SecurityWeek",
-      "score": 2
-    },
-    {
-      "titre": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-      "lien": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-      "resume": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
-      "date": "2026-11-05T19:56:44-05:00",
-      "source": "BleepingComputer",
       "score": 2
     },
     {
@@ -139,30 +131,6 @@
       "score": 7
     },
     {
-      "titre": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-      "lien": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-      "resume": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to t",
-      "date": "2026-11-03T12:57:07+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-      "lien": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-      "resume": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could ",
-      "date": "2026-11-03T11:04:41+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-      "lien": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-      "resume": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful ex",
-      "date": "2026-11-03T11:04:37+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
       "titre": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
       "lien": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
       "resume": "n0n-existent security",
@@ -192,30 +160,6 @@
       "resume": "Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants",
       "date": "2026-10-28T12:45:00+01:00",
       "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack",
-      "lien": "https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690",
-      "resume": "University hospitals once again accepting patients after initial ambulance diversion, but recovery to continue in phases",
-      "date": "2026-10-27T17:15:00+01:00",
-      "source": "The Register (sécurité)",
-      "score": 4
-    },
-    {
-      "titre": "Point Vision : des données de patients dérobées",
-      "lien": "https://www.zataz.com/point-vision-des-donnees-de-patients-derobees/",
-      "resume": "Cyberattaque chez Point Vision : données de patients volées, exposition possible des motifs de rendez-vous.",
-      "date": "2026-10-24T09:29:23+00:00",
-      "source": "ZATAZ",
-      "score": 2
-    },
-    {
-      "titre": "Piratage de la FFTir : la Fédération confirme le vol",
-      "lien": "https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/",
-      "resume": "FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.",
-      "date": "2026-10-23T10:41:26+00:00",
-      "source": "ZATAZ",
       "score": 2
     },
     {
@@ -249,14 +193,6 @@
       "date": "2026-10-14T00:00:00+00:00",
       "source": "CERT-FR (alertes)",
       "score": 2
-    },
-    {
-      "titre": "FBI Arrests Executive at Ransomware Negotiation Firm",
-      "lien": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "resume": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sou",
-      "date": "2026-10-10T00:17:42+00:00",
-      "source": "Krebs on Security",
-      "score": 5
     }
   ]
 }

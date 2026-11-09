@@ -1,4 +1,18 @@
-# Veille du 08/11/2026 : ransomwares et résilience
+# Veille du 09/11/2026 : ransomwares et résilience
+
+## Revolve Puts Data Breach Victim Count at 1.5 Million
+- Source : SecurityWeek (09/11/2026)
+- Pertinence : 3
+- Lien : https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/
+
+Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals. The post Revolve Puts Data Breach Victim Count at 1.5 Million appeared first on SecurityWeek .
+
+## Un géant de l’informatique visé par une revendication de vol de données
+- Source : ZATAZ (08/11/2026)
+- Pertinence : 3
+- Lien : https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/
+
+Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.
 
 ## Hackers pull off $133 million French bank heist via service provider
 - Source : BleepingComputer (07/11/2026)
@@ -41,27 +55,6 @@ QNAP urges users to update Plex Media Server to the latest version available in 
 - Lien : https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
 
 Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), 
-
-## In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days
-- Source : SecurityWeek (06/11/2026)
-- Pertinence : 6
-- Lien : https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/
-
-Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first o
-
-## Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack
-- Source : SecurityWeek (06/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/
-
-The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek .
-
-## FBI, CISA warn of cyberattacks targeting refrigeration systems
-- Source : BleepingComputer (05/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/
-
-The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]
 
 ## Vulnérabilité dans les produits VMware (06 novembre 2026)
 - Source : CERT-FR (avis) (06/11/2026)
@@ -119,27 +112,6 @@ Cyber agency warns critical infrastructure is a likely target as chief urges bos
 
 Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target device
 
-## New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food
-- Source : The Hacker News (03/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html
-
-Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to t
-
-## Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors
-- Source : The Hacker News (03/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html
-
-A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could 
-
-## Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials
-- Source : The Hacker News (03/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/attackers-target-unpatched.html
-
-Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful ex
-
 ## Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see
 - Source : The Register (sécurité) (30/10/2026)
 - Pertinence : 2
@@ -168,27 +140,6 @@ Artem Stryzhak joined both gangs, which targeted businesses and a hospital durin
 
 Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants
 
-## Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack
-- Source : The Register (sécurité) (27/10/2026)
-- Pertinence : 4
-- Lien : https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690
-
-University hospitals once again accepting patients after initial ambulance diversion, but recovery to continue in phases
-
-## Point Vision : des données de patients dérobées
-- Source : ZATAZ (24/10/2026)
-- Pertinence : 2
-- Lien : https://www.zataz.com/point-vision-des-donnees-de-patients-derobees/
-
-Cyberattaque chez Point Vision : données de patients volées, exposition possible des motifs de rendez-vous.
-
-## Piratage de la FFTir : la Fédération confirme le vol
-- Source : ZATAZ (23/10/2026)
-- Pertinence : 2
-- Lien : https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/
-
-FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.
-
 ## [Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)
 - Source : CERT-FR (alertes) (21/10/2026)
 - Pertinence : 2
@@ -216,11 +167,4 @@ The United Kingdom has issued economic sanctions against Cryptomus, a chameleoni
 - Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-013/
 
 [Mise à jour du 2 novembre 2026] Le 29 octobre 2026, Ivanti a mis à jour son avis de sécurité du 13 octobre 2026 pour ajouter deux vulnérabilités (CVE-2026-111357 et CVE-2026-118527). Celles-ci permettent à un attaquant authentifié d'élever ses privilèges et de téléverser un fich
-
-## FBI Arrests Executive at Ransomware Negotiation Firm
-- Source : Krebs on Security (10/10/2026)
-- Pertinence : 5
-- Lien : https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/
-
-Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sou
 
