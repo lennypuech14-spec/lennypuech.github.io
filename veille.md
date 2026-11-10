@@ -1,4 +1,74 @@
-# Veille du 09/11/2026 : ransomwares et résilience
+# Veille du 10/11/2026 : ransomwares et résilience
+
+## Ransomware threat blares from Vanderbilt University computers during cyberattack
+- Source : The Register (sécurité) (10/11/2026)
+- Pertinence : 7
+- Lien : https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687
+
+BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain restricted, and classes carry on
+
+## France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites
+- Source : The Hacker News (10/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html
+
+An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and chang
+
+## Google patches eighth Chrome zero-day exploited in attacks this year
+- Source : BleepingComputer (10/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/
+
+Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]
+
+## Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark
+- Source : The Hacker News (10/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html
+
+Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers "complete otherwise-infeasible software migrations, 
+
+## France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators
+- Source : SecurityWeek (10/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/
+
+France summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack The post France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators appeared first on SecurityWeek .
+
+## Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026
+- Source : The Hacker News (10/11/2026)
+- Pertinence : 3
+- Lien : https://thehackernews.com/2026/11/google-issues-chrome-security-update.html
+
+Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug 
+
+## Vanderbilt University hit in BYOD ransomware attack, data theft claimed
+- Source : BleepingComputer (09/11/2026)
+- Pertinence : 9
+- Lien : https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/
+
+Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]
+
+## France blames Iranian hackers for supermarket attacks that sparked fires
+- Source : BleepingComputer (09/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/
+
+France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]
+
+## Cyberattaque des frigos : la piste iranienne se précise
+- Source : ZATAZ (09/11/2026)
+- Pertinence : 2
+- Lien : https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/
+
+Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.
+
+## Hackers exploit SSHole OpenSSH flaw to breach Linux systems
+- Source : BleepingComputer (09/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/
+
+Hackers are actively exploiting the "SSHole" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]
 
 ## Revolve Puts Data Breach Victim Count at 1.5 Million
 - Source : SecurityWeek (09/11/2026)
@@ -7,47 +77,19 @@
 
 Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals. The post Revolve Puts Data Breach Victim Count at 1.5 Million appeared first on SecurityWeek .
 
+## Multiples vulnérabilités dans les produits VMware (09 novembre 2026)
+- Source : CERT-FR (avis) (09/11/2026)
+- Pertinence : 2
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1486/
+
+De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+
 ## Un géant de l’informatique visé par une revendication de vol de données
 - Source : ZATAZ (08/11/2026)
 - Pertinence : 3
 - Lien : https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/
 
 Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.
-
-## Hackers pull off $133 million French bank heist via service provider
-- Source : BleepingComputer (07/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/
-
-French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]
-
-## SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins
-- Source : SecurityWeek (07/11/2026)
-- Pertinence : 3
-- Lien : https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/
-
-CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .
-
-## SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks
-- Source : BleepingComputer (06/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/
-
-SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]
-
-## QNAP says hackers breaching NAS devices in Plex2Shell attacks
-- Source : BleepingComputer (06/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/
-
-QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]
-
-## Veeam warns of Software Appliance boot failures on AMD EPYC hosts
-- Source : BleepingComputer (06/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/
-
-​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]
 
 ## Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot
 - Source : The Hacker News (06/11/2026)
@@ -91,13 +133,6 @@ No gang has claimed the attack on incredible neighborhood resource yet
 
 Attackers reportedly set cold-room controls to 110°C, but safeguards prevented stock losses
 
-## CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades
-- Source : The Hacker News (04/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1)
-
 ## Britain on notice: AI-powered ransomware attacks to arrive by 2028
 - Source : The Register (sécurité) (03/11/2026)
 - Pertinence : 5
@@ -105,40 +140,12 @@ The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a sec
 
 Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'
 
-## Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw
-- Source : The Hacker News (03/11/2026)
-- Pertinence : 7
-- Lien : https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html
-
-Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target device
-
 ## Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see
 - Source : The Register (sécurité) (30/10/2026)
 - Pertinence : 2
 - Lien : https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754
 
 n0n-existent security
-
-## Belgium's tax agency confirms cyberattack, pulls services offline
-- Source : The Register (sécurité) (29/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409
-
-Officials confirm this week’s tax deadlines extended to November as a result
-
-## Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles
-- Source : The Register (sécurité) (28/10/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/cyber-crime/2026/10/28/serial-ransomware-crook-gets-70-months-behind-bars-for-nefilim-hive-roles/5306050
-
-Artem Stryzhak joined both gangs, which targeted businesses and a hospital during the pandemic
-
-## 123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus
-- Source : The Register (sécurité) (28/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936
-
-Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants
 
 ## [Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)
 - Source : CERT-FR (alertes) (21/10/2026)
