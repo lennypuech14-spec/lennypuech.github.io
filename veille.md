@@ -1,4 +1,32 @@
-# Veille du 10/11/2026 : ransomwares et résilience
+# Veille du 11/11/2026 : ransomwares et résilience
+
+## Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks
+- Source : SecurityWeek (11/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/
+
+Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. The post Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks appeared first on SecurityWeek .
+
+## Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft
+- Source : SecurityWeek (10/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/
+
+CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek .
+
+## Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day
+- Source : BleepingComputer (10/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/
+
+Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]
+
+## Ransomware recovery is now a client retention metric
+- Source : BleepingComputer (10/11/2026)
+- Pertinence : 7
+- Lien : https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/
+
+Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response t
 
 ## Ransomware threat blares from Vanderbilt University computers during cyberattack
 - Source : The Register (sécurité) (10/11/2026)
@@ -14,13 +42,6 @@ BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain re
 
 An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and chang
 
-## Google patches eighth Chrome zero-day exploited in attacks this year
-- Source : BleepingComputer (10/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/
-
-Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]
-
 ## Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark
 - Source : The Hacker News (10/11/2026)
 - Pertinence : 2
@@ -28,33 +49,19 @@ Google has released emergency security updates to patch a new Chrome vulnerabili
 
 Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers "complete otherwise-infeasible software migrations, 
 
-## France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators
-- Source : SecurityWeek (10/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/
-
-France summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack The post France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators appeared first on SecurityWeek .
-
 ## Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026
 - Source : The Hacker News (10/11/2026)
 - Pertinence : 3
 - Lien : https://thehackernews.com/2026/11/google-issues-chrome-security-update.html
 
-Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug 
+Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free bug 
 
-## Vanderbilt University hit in BYOD ransomware attack, data theft claimed
-- Source : BleepingComputer (09/11/2026)
-- Pertinence : 9
-- Lien : https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/
-
-Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]
-
-## France blames Iranian hackers for supermarket attacks that sparked fires
-- Source : BleepingComputer (09/11/2026)
+## Multiples vulnérabilités dans Google Chrome (10 novembre 2026)
+- Source : CERT-FR (avis) (10/11/2026)
 - Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1488/
 
-France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]
+De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2026-125350 est activement exploitée.
 
 ## Cyberattaque des frigos : la piste iranienne se précise
 - Source : ZATAZ (09/11/2026)
@@ -62,20 +69,6 @@ France has linked October cyberattacks that disrupted refrigeration systems at m
 - Lien : https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/
 
 Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.
-
-## Hackers exploit SSHole OpenSSH flaw to breach Linux systems
-- Source : BleepingComputer (09/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/
-
-Hackers are actively exploiting the "SSHole" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]
-
-## Revolve Puts Data Breach Victim Count at 1.5 Million
-- Source : SecurityWeek (09/11/2026)
-- Pertinence : 3
-- Lien : https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/
-
-Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals. The post Revolve Puts Data Breach Victim Count at 1.5 Million appeared first on SecurityWeek .
 
 ## Multiples vulnérabilités dans les produits VMware (09 novembre 2026)
 - Source : CERT-FR (avis) (09/11/2026)
@@ -139,13 +132,6 @@ Attackers reportedly set cold-room controls to 110°C, but safeguards prevented 
 - Lien : https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200
 
 Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'
-
-## Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see
-- Source : The Register (sécurité) (30/10/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754
-
-n0n-existent security
 
 ## [Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)
 - Source : CERT-FR (alertes) (21/10/2026)
