@@ -1,32 +1,39 @@
-# Veille du 11/11/2026 : ransomwares et résilience
+# Veille du 12/11/2026 : ransomwares et résilience
 
-## Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks
-- Source : SecurityWeek (11/11/2026)
+## PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution
+- Source : The Hacker News (12/11/2026)
 - Pertinence : 2
-- Lien : https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/
+- Lien : https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html
 
-Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. The post Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks appeared first on SecurityWeek .
+PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It ha
 
-## Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft
-- Source : SecurityWeek (10/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/
-
-CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek .
-
-## Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day
-- Source : BleepingComputer (10/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/
-
-Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]
-
-## Ransomware recovery is now a client retention metric
-- Source : BleepingComputer (10/11/2026)
+## Maersk Confirms Data Theft Amid $5 Million Extortion Attempt
+- Source : SecurityWeek (12/11/2026)
 - Pertinence : 7
-- Lien : https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/
+- Lien : https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/
 
-Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response t
+The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek .
+
+## Who Runs the Ransomware Group Qilin?
+- Source : Krebs on Security (11/11/2026)
+- Pertinence : 7
+- Lien : https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/
+
+The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a fe
+
+## Maersk confirms data breach as WhiteArmor ransomware demands $5 million
+- Source : BleepingComputer (11/11/2026)
+- Pertinence : 6
+- Lien : https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/
+
+Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]
+
+## Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits
+- Source : The Hacker News (11/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html
+
+Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E
 
 ## Ransomware threat blares from Vanderbilt University computers during cyberattack
 - Source : The Register (sécurité) (10/11/2026)
@@ -83,13 +90,6 @@ De multiples vulnérabilités ont été découvertes dans les produits VMware. E
 - Lien : https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/
 
 Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.
-
-## Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot
-- Source : The Hacker News (06/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
-
-Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), 
 
 ## Vulnérabilité dans les produits VMware (06 novembre 2026)
 - Source : CERT-FR (avis) (06/11/2026)
