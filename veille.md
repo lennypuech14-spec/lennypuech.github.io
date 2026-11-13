@@ -1,4 +1,46 @@
-# Veille du 12/11/2026 : ransomwares et résilience
+# Veille du 13/11/2026 : ransomwares et résilience
+
+## Apify Confirms Customer Data Accessed in Cyberattack
+- Source : SecurityWeek (13/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/
+
+The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek .
+
+## Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins
+- Source : The Hacker News (13/11/2026)
+- Pertinence : 5
+- Lien : https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html
+
+An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging 
+
+## Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files
+- Source : The Hacker News (13/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html
+
+An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detai
+
+## Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams
+- Source : SecurityWeek (12/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/
+
+Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams appeared first on 
+
+## OpenAI launches security products, tells orgs they’re doomed if they don’t use them
+- Source : The Register (sécurité) (12/11/2026)
+- Pertinence : 2
+- Lien : https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500
+
+Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks
+
+## New N-able "4EverAble2Shell" zero-day exploited hours after PoC released
+- Source : BleepingComputer (12/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/
+
+Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed "4EverAble2Shell" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security u
 
 ## PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution
 - Source : The Hacker News (12/11/2026)
@@ -7,12 +49,12 @@
 
 PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It ha
 
-## Maersk Confirms Data Theft Amid $5 Million Extortion Attempt
-- Source : SecurityWeek (12/11/2026)
-- Pertinence : 7
-- Lien : https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/
+## Vulnérabilité dans NetApp ONTAP tools pour VMware vSphere 10 (12 novembre 2026)
+- Source : CERT-FR (avis) (12/11/2026)
+- Pertinence : 2
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1518/
 
-The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek .
+Une vulnérabilité a été découverte dans NetApp ONTAP tools pour VMware vSphere 10. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.
 
 ## Who Runs the Ransomware Group Qilin?
 - Source : Krebs on Security (11/11/2026)
@@ -20,13 +62,6 @@ The WhiteArmor ransomware group claims it stole 100GB of data from the shipping 
 - Lien : https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/
 
 The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a fe
-
-## Maersk confirms data breach as WhiteArmor ransomware demands $5 million
-- Source : BleepingComputer (11/11/2026)
-- Pertinence : 6
-- Lien : https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/
-
-Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]
 
 ## Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits
 - Source : The Hacker News (11/11/2026)
@@ -91,13 +126,6 @@ De multiples vulnérabilités ont été découvertes dans les produits VMware. E
 
 Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.
 
-## Vulnérabilité dans les produits VMware (06 novembre 2026)
-- Source : CERT-FR (avis) (06/11/2026)
-- Pertinence : 2
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1474/
-
-Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.
-
 ## Cyberattaque contre les frigos de l’EFS : le plasma visé
 - Source : ZATAZ (05/11/2026)
 - Pertinence : 2
@@ -119,20 +147,6 @@ No gang has claimed the attack on incredible neighborhood resource yet
 
 [Mise à jour du 6 novembre 2026] Cette vulnérabilité porte l'identifiant CVE-2026-123158. Alpine a publié un bulletin de sécurité (cf. section Documentation) concernant cette vulnérabilité. Le CERT-FR précise que toute installation de correctif ou modification de la configuration
 
-## Cyberattack on French plasma stores is enough to make your blood boil
-- Source : The Register (sécurité) (04/11/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519
-
-Attackers reportedly set cold-room controls to 110°C, but safeguards prevented stock losses
-
-## Britain on notice: AI-powered ransomware attacks to arrive by 2028
-- Source : The Register (sécurité) (03/11/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200
-
-Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'
-
 ## [Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)
 - Source : CERT-FR (alertes) (21/10/2026)
 - Pertinence : 2
@@ -153,11 +167,4 @@ U.S. federal investigators pursuing the ShinyHunters hacking group that recently
 - Lien : https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/
 
 The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent ex
-
-## [MàJ] Multiples vulnérabilités dans Ivanti Connect Secure (ICS) (14 octobre 2026)
-- Source : CERT-FR (alertes) (14/10/2026)
-- Pertinence : 2
-- Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-013/
-
-[Mise à jour du 2 novembre 2026] Le 29 octobre 2026, Ivanti a mis à jour son avis de sécurité du 13 octobre 2026 pour ajouter deux vulnérabilités (CVE-2026-111357 et CVE-2026-118527). Celles-ci permettent à un attaquant authentifié d'élever ses privilèges et de téléverser un fich
 

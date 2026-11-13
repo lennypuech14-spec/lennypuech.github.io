@@ -1,7 +1,55 @@
 {
-  "maj": "2026-11-12T14:08:16.382330+00:00",
+  "maj": "2026-11-13T13:32:08.497032+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Apify Confirms Customer Data Accessed in Cyberattack",
+      "lien": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
+      "resume": "The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek .",
+      "date": "2026-11-13T12:41:01+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+      "lien": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+      "resume": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging ",
+      "date": "2026-11-13T16:25:03+05:30",
+      "source": "The Hacker News",
+      "score": 5
+    },
+    {
+      "titre": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+      "lien": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "resume": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detai",
+      "date": "2026-11-13T13:35:49+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
+      "lien": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
+      "resume": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams appeared first on ",
+      "date": "2026-11-12T20:55:30+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
+      "lien": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+      "resume": "Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks",
+      "date": "2026-11-12T21:48:45+01:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "resume": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security u",
+      "date": "2026-11-12T14:51:16-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
     {
       "titre": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
       "lien": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
@@ -11,12 +59,12 @@
       "score": 2
     },
     {
-      "titre": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
-      "lien": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
-      "resume": "The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek .",
-      "date": "2026-11-12T08:38:47+00:00",
-      "source": "SecurityWeek",
-      "score": 7
+      "titre": "Vulnérabilité dans NetApp ONTAP tools pour VMware vSphere 10 (12 novembre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1518/",
+      "resume": "Une vulnérabilité a été découverte dans NetApp ONTAP tools pour VMware vSphere 10. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
+      "date": "2026-11-12T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 2
     },
     {
       "titre": "Who Runs the Ransomware Group Qilin?",
@@ -25,14 +73,6 @@
       "date": "2026-11-11T18:06:01+00:00",
       "source": "Krebs on Security",
       "score": 7
-    },
-    {
-      "titre": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "lien": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-      "resume": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
-      "date": "2026-11-11T11:24:18-05:00",
-      "source": "BleepingComputer",
-      "score": 6
     },
     {
       "titre": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
@@ -107,14 +147,6 @@
       "score": 3
     },
     {
-      "titre": "Vulnérabilité dans les produits VMware (06 novembre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1474/",
-      "resume": "Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "date": "2026-11-06T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
-      "score": 2
-    },
-    {
       "titre": "Cyberattaque contre les frigos de l’EFS : le plasma visé",
       "lien": "https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/",
       "resume": "Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.",
@@ -139,22 +171,6 @@
       "score": 2
     },
     {
-      "titre": "Cyberattack on French plasma stores is enough to make your blood boil",
-      "lien": "https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519",
-      "resume": "Attackers reportedly set cold-room controls to 110°C, but safeguards prevented stock losses",
-      "date": "2026-11-04T12:56:54+01:00",
-      "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
-      "lien": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
-      "resume": "Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'",
-      "date": "2026-11-03T13:39:25+01:00",
-      "source": "The Register (sécurité)",
-      "score": 5
-    },
-    {
       "titre": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
       "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/",
       "resume": "**[Mise à jour du 26 octobre 2026]** Le 23 octobre 2026, PHP a publié un avis de sécurité concernant la vulnérabilité CVE-2026-115560. Celle-ci permet une exécution de code arbitraire à distance. L'éditeur estime que les conditions d'exploitation exigent une combinaison d'options",
@@ -177,14 +193,6 @@
       "date": "2026-10-14T14:22:49+00:00",
       "source": "Krebs on Security",
       "score": 5
-    },
-    {
-      "titre": "[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure (ICS) (14 octobre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-013/",
-      "resume": "[Mise à jour du 2 novembre 2026] Le 29 octobre 2026, Ivanti a mis à jour son avis de sécurité du 13 octobre 2026 pour ajouter deux vulnérabilités (CVE-2026-111357 et CVE-2026-118527). Celles-ci permettent à un attaquant authentifié d'élever ses privilèges et de téléverser un fich",
-      "date": "2026-10-14T00:00:00+00:00",
-      "source": "CERT-FR (alertes)",
-      "score": 2
     }
   ]
 }
