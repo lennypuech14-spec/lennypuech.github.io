@@ -1,4 +1,46 @@
-# Veille du 13/11/2026 : ransomwares et résilience
+# Veille du 14/11/2026 : ransomwares et résilience
+
+## No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update
+- Source : SecurityWeek (14/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/
+
+Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek .
+
+## FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’
+- Source : SecurityWeek (13/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/
+
+Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek .
+
+## Trezor confirms crypto-stealing implants in three wallets, releases fix
+- Source : BleepingComputer (13/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/
+
+Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]
+
+## German military drone operations disrupted by cyberattack
+- Source : BleepingComputer (13/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/
+
+German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by "hostile actors." [...]
+
+## Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper
+- Source : BleepingComputer (13/11/2026)
+- Pertinence : 3
+- Lien : https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/
+
+Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]
+
+## Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases
+- Source : The Hacker News (13/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html
+
+Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile networ
 
 ## Apify Confirms Customer Data Accessed in Cyberattack
 - Source : SecurityWeek (13/11/2026)
@@ -21,12 +63,12 @@ An international police operation took down servers behind Gootloader, CastleRAT
 
 An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detai
 
-## Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams
-- Source : SecurityWeek (12/11/2026)
+## Multiples vulnérabilités dans VMware Tanzu Greenplum (13 novembre 2026)
+- Source : CERT-FR (avis) (13/11/2026)
 - Pertinence : 2
-- Lien : https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1527/
 
-Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams appeared first on 
+De multiples vulnérabilités ont été découvertes dans VMware Tanzu Greenplum. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
 
 ## OpenAI launches security products, tells orgs they’re doomed if they don’t use them
 - Source : The Register (sécurité) (12/11/2026)
@@ -98,26 +140,12 @@ Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, whic
 
 Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free bug 
 
-## Multiples vulnérabilités dans Google Chrome (10 novembre 2026)
-- Source : CERT-FR (avis) (10/11/2026)
-- Pertinence : 2
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1488/
-
-De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2026-125350 est activement exploitée.
-
 ## Cyberattaque des frigos : la piste iranienne se précise
 - Source : ZATAZ (09/11/2026)
 - Pertinence : 2
 - Lien : https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/
 
 Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.
-
-## Multiples vulnérabilités dans les produits VMware (09 novembre 2026)
-- Source : CERT-FR (avis) (09/11/2026)
-- Pertinence : 2
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1486/
-
-De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
 
 ## Un géant de l’informatique visé par une revendication de vol de données
 - Source : ZATAZ (08/11/2026)
@@ -160,11 +188,4 @@ No gang has claimed the attack on incredible neighborhood resource yet
 - Lien : https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
 
 U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity ha
-
-## U.K. Sanctions Cryptomus for RU Money Laundering
-- Source : Krebs on Security (14/10/2026)
-- Pertinence : 5
-- Lien : https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/
-
-The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent ex
 
