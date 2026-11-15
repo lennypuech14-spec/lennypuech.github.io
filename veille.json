@@ -1,7 +1,15 @@
 {
-  "maj": "2026-11-14T12:37:53.687185+00:00",
+  "maj": "2026-11-15T13:03:43.776029+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Cyberattaque Maileva, 22 millions de personnes touchées",
+      "lien": "https://www.zataz.com/cyberattaque-maileva-22-millions-de-personnes-touchees/",
+      "resume": "Cyberattaque Maileva, 22 millions de personnes touchées par le vol de données. Des relances de paiement ont été exposées.",
+      "date": "2026-11-15T11:47:49+00:00",
+      "source": "ZATAZ",
+      "score": 2
+    },
     {
       "titre": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
       "lien": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
@@ -139,30 +147,6 @@
       "score": 7
     },
     {
-      "titre": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-      "lien": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-      "resume": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and chang",
-      "date": "2026-11-10T14:38:20+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-      "lien": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-      "resume": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software migrations, ",
-      "date": "2026-11-10T13:46:14+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-      "lien": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-      "resume": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free bug ",
-      "date": "2026-11-10T12:22:54+05:30",
-      "source": "The Hacker News",
-      "score": 3
-    },
-    {
       "titre": "Cyberattaque des frigos : la piste iranienne se précise",
       "lien": "https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/",
       "resume": "Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.",
@@ -177,14 +161,6 @@
       "date": "2026-11-08T23:36:38+00:00",
       "source": "ZATAZ",
       "score": 3
-    },
-    {
-      "titre": "Cyberattaque contre les frigos de l’EFS : le plasma visé",
-      "lien": "https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/",
-      "resume": "Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.",
-      "date": "2026-11-05T16:36:51+00:00",
-      "source": "ZATAZ",
-      "score": 2
     },
     {
       "titre": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",

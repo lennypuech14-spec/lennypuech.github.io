@@ -1,4 +1,11 @@
-# Veille du 14/11/2026 : ransomwares et résilience
+# Veille du 15/11/2026 : ransomwares et résilience
+
+## Cyberattaque Maileva, 22 millions de personnes touchées
+- Source : ZATAZ (15/11/2026)
+- Pertinence : 2
+- Lien : https://www.zataz.com/cyberattaque-maileva-22-millions-de-personnes-touchees/
+
+Cyberattaque Maileva, 22 millions de personnes touchées par le vol de données. Des relances de paiement ont été exposées.
 
 ## No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update
 - Source : SecurityWeek (14/11/2026)
@@ -119,27 +126,6 @@ Threat actors have been observed targeting Qlik Sense servers to unsuccessfully 
 
 BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain restricted, and classes carry on
 
-## France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites
-- Source : The Hacker News (10/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html
-
-An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and chang
-
-## Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark
-- Source : The Hacker News (10/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html
-
-Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers "complete otherwise-infeasible software migrations, 
-
-## Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026
-- Source : The Hacker News (10/11/2026)
-- Pertinence : 3
-- Lien : https://thehackernews.com/2026/11/google-issues-chrome-security-update.html
-
-Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free bug 
-
 ## Cyberattaque des frigos : la piste iranienne se précise
 - Source : ZATAZ (09/11/2026)
 - Pertinence : 2
@@ -153,13 +139,6 @@ Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après
 - Lien : https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/
 
 Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.
-
-## Cyberattaque contre les frigos de l’EFS : le plasma visé
-- Source : ZATAZ (05/11/2026)
-- Pertinence : 2
-- Lien : https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/
-
-Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.
 
 ## New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark
 - Source : The Register (sécurité) (05/11/2026)
