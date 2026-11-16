@@ -1,25 +1,32 @@
-# Veille du 15/11/2026 : ransomwares et résilience
+# Veille du 16/11/2026 : ransomwares et résilience
 
-## Cyberattaque Maileva, 22 millions de personnes touchées
+## Recent UnrealIRCd Vulnerability Exploited in Attacks
+- Source : SecurityWeek (16/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/
+
+Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek .
+
+## Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign
+- Source : SecurityWeek (16/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/
+
+Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. The post Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign appeared first on SecurityWeek .
+
+## FBI warns ARTEX AI hacking tool is powering global cyberattacks
+- Source : BleepingComputer (15/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/
+
+The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]
+
+## Cyberattaque Maileva, 22 millions de personnes touchées ?
 - Source : ZATAZ (15/11/2026)
 - Pertinence : 2
 - Lien : https://www.zataz.com/cyberattaque-maileva-22-millions-de-personnes-touchees/
 
 Cyberattaque Maileva, 22 millions de personnes touchées par le vol de données. Des relances de paiement ont été exposées.
-
-## No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update
-- Source : SecurityWeek (14/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/
-
-Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek .
-
-## FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’
-- Source : SecurityWeek (13/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/
-
-Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek .
 
 ## Trezor confirms crypto-stealing implants in three wallets, releases fix
 - Source : BleepingComputer (13/11/2026)
@@ -49,13 +56,6 @@ Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shel
 
 Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile networ
 
-## Apify Confirms Customer Data Accessed in Cyberattack
-- Source : SecurityWeek (13/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/
-
-The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek .
-
 ## Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins
 - Source : The Hacker News (13/11/2026)
 - Pertinence : 5
@@ -83,13 +83,6 @@ De multiples vulnérabilités ont été découvertes dans VMware Tanzu Greenplum
 - Lien : https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500
 
 Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks
-
-## New N-able "4EverAble2Shell" zero-day exploited hours after PoC released
-- Source : BleepingComputer (12/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/
-
-Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed "4EverAble2Shell" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security u
 
 ## PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution
 - Source : The Hacker News (12/11/2026)
@@ -132,13 +125,6 @@ BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain re
 - Lien : https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/
 
 Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.
-
-## Un géant de l’informatique visé par une revendication de vol de données
-- Source : ZATAZ (08/11/2026)
-- Pertinence : 3
-- Lien : https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/
-
-Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.
 
 ## New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark
 - Source : The Register (sécurité) (05/11/2026)

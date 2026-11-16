@@ -1,29 +1,37 @@
 {
-  "maj": "2026-11-15T13:03:43.776029+00:00",
+  "maj": "2026-11-16T14:09:04.240496+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
     {
-      "titre": "Cyberattaque Maileva, 22 millions de personnes touchées",
+      "titre": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
+      "lien": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
+      "resume": "Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
+      "date": "2026-11-16T11:15:48+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
+      "lien": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
+      "resume": "Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. The post Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign appeared first on SecurityWeek .",
+      "date": "2026-11-16T08:15:12+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "lien": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "resume": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+      "date": "2026-11-15T13:29:53-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Cyberattaque Maileva, 22 millions de personnes touchées ?",
       "lien": "https://www.zataz.com/cyberattaque-maileva-22-millions-de-personnes-touchees/",
       "resume": "Cyberattaque Maileva, 22 millions de personnes touchées par le vol de données. Des relances de paiement ont été exposées.",
       "date": "2026-11-15T11:47:49+00:00",
       "source": "ZATAZ",
-      "score": 2
-    },
-    {
-      "titre": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
-      "lien": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
-      "resume": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek .",
-      "date": "2026-11-14T08:40:22+00:00",
-      "source": "SecurityWeek",
-      "score": 2
-    },
-    {
-      "titre": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
-      "lien": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
-      "resume": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek .",
-      "date": "2026-11-13T21:33:27+00:00",
-      "source": "SecurityWeek",
       "score": 2
     },
     {
@@ -59,14 +67,6 @@
       "score": 2
     },
     {
-      "titre": "Apify Confirms Customer Data Accessed in Cyberattack",
-      "lien": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
-      "resume": "The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek .",
-      "date": "2026-11-13T12:41:01+00:00",
-      "source": "SecurityWeek",
-      "score": 2
-    },
-    {
       "titre": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
       "lien": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
       "resume": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging ",
@@ -96,14 +96,6 @@
       "resume": "Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks",
       "date": "2026-11-12T21:48:45+01:00",
       "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "lien": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "resume": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security u",
-      "date": "2026-11-12T14:51:16-05:00",
-      "source": "BleepingComputer",
       "score": 2
     },
     {
@@ -153,14 +145,6 @@
       "date": "2026-11-09T16:28:21+00:00",
       "source": "ZATAZ",
       "score": 2
-    },
-    {
-      "titre": "Un géant de l’informatique visé par une revendication de vol de données",
-      "lien": "https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/",
-      "resume": "Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.",
-      "date": "2026-11-08T23:36:38+00:00",
-      "source": "ZATAZ",
-      "score": 3
     },
     {
       "titre": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
