@@ -1,53 +1,46 @@
-# Veille du 16/11/2026 : ransomwares et résilience
+# Veille du 17/11/2026 : ransomwares et résilience
 
-## Recent UnrealIRCd Vulnerability Exploited in Attacks
-- Source : SecurityWeek (16/11/2026)
+## Cyberattaque : 765 000 euros d’or dérobés à des clients
+- Source : ZATAZ (17/11/2026)
 - Pertinence : 2
-- Lien : https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/
+- Lien : https://www.zataz.com/cyberattaque-765-000-euros-dor-derobes-a-des-clients/
 
-Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek .
+Cyberattaque et vol de données clients : de faux policiers dérobent au moins 765 000 euros d'or en France.
 
-## Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign
-- Source : SecurityWeek (16/11/2026)
+## Ransomware affiliate suspect extradited to US, faces 27 years in prison
+- Source : BleepingComputer (17/11/2026)
+- Pertinence : 5
+- Lien : https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/
+
+A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]
+
+## California sues OpenAI over AI agents escaping sandboxes, hacking firms
+- Source : BleepingComputer (16/11/2026)
 - Pertinence : 2
-- Lien : https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/
+- Lien : https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/
 
-Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. The post Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign appeared first on SecurityWeek .
+California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks again
 
-## FBI warns ARTEX AI hacking tool is powering global cyberattacks
-- Source : BleepingComputer (15/11/2026)
+## Barracuda links cloud breach to ARTEX AI-powered cyberattack
+- Source : BleepingComputer (16/11/2026)
 - Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/
+- Lien : https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/
 
-The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]
+Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]
 
-## Cyberattaque Maileva, 22 millions de personnes touchées ?
-- Source : ZATAZ (15/11/2026)
+## Quantum Systems : une cyberattaque inquiète l’armée allemande
+- Source : ZATAZ (16/11/2026)
 - Pertinence : 2
-- Lien : https://www.zataz.com/cyberattaque-maileva-22-millions-de-personnes-touchees/
+- Lien : https://www.zataz.com/quantum-systems-une-cyberattaque-inquiete-larmee-allemande/
 
-Cyberattaque Maileva, 22 millions de personnes touchées par le vol de données. Des relances de paiement ont été exposées.
+Quantum Systems confirme une cyberattaque. Une possible compromission des mises à jour de drones inquiète l'Allemagne.
 
-## Trezor confirms crypto-stealing implants in three wallets, releases fix
-- Source : BleepingComputer (13/11/2026)
+## Vulnérabilité dans VMware Tanzu (16 novembre 2026)
+- Source : CERT-FR (avis) (16/11/2026)
 - Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1543/
 
-Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]
-
-## German military drone operations disrupted by cyberattack
-- Source : BleepingComputer (13/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/
-
-German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by "hostile actors." [...]
-
-## Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper
-- Source : BleepingComputer (13/11/2026)
-- Pertinence : 3
-- Lien : https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/
-
-Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]
+Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.
 
 ## Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases
 - Source : The Hacker News (13/11/2026)
@@ -118,20 +111,6 @@ Threat actors have been observed targeting Qlik Sense servers to unsuccessfully 
 - Lien : https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687
 
 BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain restricted, and classes carry on
-
-## Cyberattaque des frigos : la piste iranienne se précise
-- Source : ZATAZ (09/11/2026)
-- Pertinence : 2
-- Lien : https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/
-
-Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.
-
-## New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark
-- Source : The Register (sécurité) (05/11/2026)
-- Pertinence : 5
-- Lien : https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796
-
-No gang has claimed the attack on incredible neighborhood resource yet
 
 ## [MàJ] Vulnérabilité dans OpenSSH (05 novembre 2026)
 - Source : CERT-FR (alertes) (05/11/2026)
