@@ -1,39 +1,46 @@
-# Veille du 17/11/2026 : ransomwares et résilience
+# Veille du 18/11/2026 : ransomwares et résilience
 
-## Cyberattaque : 765 000 euros d’or dérobés à des clients
-- Source : ZATAZ (17/11/2026)
+## Cyberattaque contre les douanes lituaniennes
+- Source : ZATAZ (18/11/2026)
 - Pertinence : 2
-- Lien : https://www.zataz.com/cyberattaque-765-000-euros-dor-derobes-a-des-clients/
+- Lien : https://www.zataz.com/cyberattaque-contre-les-douanes-lituaniennes/
 
-Cyberattaque et vol de données clients : de faux policiers dérobent au moins 765 000 euros d'or en France.
+Une cyberattaque perturbe les douanes lituaniennes et pourrait exposer les données de centaines d'utilisateurs.
 
-## Ransomware affiliate suspect extradited to US, faces 27 years in prison
+## Piratage de GTA VI : un hacker reconnaît six infractions
+- Source : ZATAZ (18/11/2026)
+- Pertinence : 2
+- Lien : https://www.zataz.com/piratage-de-gta-vi-un-hacker-reconnait-six-infractions/
+
+Le hacker impliqué dans la fuite de GTA VI reconnaît six infractions liées à plusieurs cyberattaques majeures.
+
+## Ransomware : un suspect d’INC et Lynx extradé
+- Source : ZATAZ (18/11/2026)
+- Pertinence : 8
+- Lien : https://www.zataz.com/ransomware-un-suspect-dinc-et-lynx-extrade/
+
+Un suspect lié aux rançongiciels INC et Lynx comparaît aux États-Unis après une extradition depuis l'Italie.
+
+## Optimizely piraté, des géants du web exposés
+- Source : ZATAZ (18/11/2026)
+- Pertinence : 2
+- Lien : https://www.zataz.com/optimizely-pirate-des-geants-du-web-exposes/
+
+Optimizely victime d'une cyberattaque : 178 organisations touchées, données bancaires et appareils iOS menacés.
+
+## Vulnérabilité dans Oracle Java SE (18 novembre 2026)
+- Source : CERT-FR (alertes) (18/11/2026)
+- Pertinence : 2
+- Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/
+
+Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulnérabilité CVE-2026-114938, surnommée *java4shell*, qui affecte le décodeur Base64 de OpenJDK sur les processeurs x86-64 supportant AVX-512 VBMI. Celle-ci permet à un attaquant de provoquer une exécution de
+
+## Japan takes Fugaku supercomputer offlline after cyberattack
 - Source : BleepingComputer (17/11/2026)
-- Pertinence : 5
-- Lien : https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/
-
-A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]
-
-## California sues OpenAI over AI agents escaping sandboxes, hacking firms
-- Source : BleepingComputer (16/11/2026)
 - Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/
+- Lien : https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/
 
-California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks again
-
-## Barracuda links cloud breach to ARTEX AI-powered cyberattack
-- Source : BleepingComputer (16/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/
-
-Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]
-
-## Quantum Systems : une cyberattaque inquiète l’armée allemande
-- Source : ZATAZ (16/11/2026)
-- Pertinence : 2
-- Lien : https://www.zataz.com/quantum-systems-une-cyberattaque-inquiete-larmee-allemande/
-
-Quantum Systems confirme une cyberattaque. Une possible compromission des mises à jour de drones inquiète l'Allemagne.
+The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]
 
 ## Vulnérabilité dans VMware Tanzu (16 novembre 2026)
 - Source : CERT-FR (avis) (16/11/2026)
@@ -84,26 +91,12 @@ Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks
 
 PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It ha
 
-## Vulnérabilité dans NetApp ONTAP tools pour VMware vSphere 10 (12 novembre 2026)
-- Source : CERT-FR (avis) (12/11/2026)
-- Pertinence : 2
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1518/
-
-Une vulnérabilité a été découverte dans NetApp ONTAP tools pour VMware vSphere 10. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.
-
 ## Who Runs the Ransomware Group Qilin?
 - Source : Krebs on Security (11/11/2026)
 - Pertinence : 7
 - Lien : https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/
 
 The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a fe
-
-## Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits
-- Source : The Hacker News (11/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html
-
-Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E
 
 ## Ransomware threat blares from Vanderbilt University computers during cyberattack
 - Source : The Register (sécurité) (10/11/2026)
@@ -125,11 +118,4 @@ BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain re
 - Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/
 
 **[Mise à jour du 26 octobre 2026]** Le 23 octobre 2026, PHP a publié un avis de sécurité concernant la vulnérabilité CVE-2026-115560. Celle-ci permet une exécution de code arbitraire à distance. L'éditeur estime que les conditions d'exploitation exigent une combinaison d'options
-
-## Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site
-- Source : Krebs on Security (19/10/2026)
-- Pertinence : 7
-- Lien : https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
-
-U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity ha
 

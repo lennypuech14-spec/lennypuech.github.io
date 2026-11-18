@@ -1,45 +1,53 @@
 {
-  "maj": "2026-11-17T15:02:15.063397+00:00",
+  "maj": "2026-11-18T14:42:37.130556+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
     {
-      "titre": "Cyberattaque : 765 000 euros d’or dérobés à des clients",
-      "lien": "https://www.zataz.com/cyberattaque-765-000-euros-dor-derobes-a-des-clients/",
-      "resume": "Cyberattaque et vol de données clients : de faux policiers dérobent au moins 765 000 euros d'or en France.",
-      "date": "2026-11-17T07:47:16+00:00",
+      "titre": "Cyberattaque contre les douanes lituaniennes",
+      "lien": "https://www.zataz.com/cyberattaque-contre-les-douanes-lituaniennes/",
+      "resume": "Une cyberattaque perturbe les douanes lituaniennes et pourrait exposer les données de centaines d'utilisateurs.",
+      "date": "2026-11-18T10:29:44+00:00",
       "source": "ZATAZ",
       "score": 2
     },
     {
-      "titre": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-      "lien": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-      "resume": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
-      "date": "2026-11-17T02:25:44-05:00",
-      "source": "BleepingComputer",
-      "score": 5
-    },
-    {
-      "titre": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "lien": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "resume": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks again",
-      "date": "2026-11-16T15:59:44-05:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "lien": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "resume": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-      "date": "2026-11-16T14:57:13-05:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Quantum Systems : une cyberattaque inquiète l’armée allemande",
-      "lien": "https://www.zataz.com/quantum-systems-une-cyberattaque-inquiete-larmee-allemande/",
-      "resume": "Quantum Systems confirme une cyberattaque. Une possible compromission des mises à jour de drones inquiète l'Allemagne.",
-      "date": "2026-11-16T16:48:18+00:00",
+      "titre": "Piratage de GTA VI : un hacker reconnaît six infractions",
+      "lien": "https://www.zataz.com/piratage-de-gta-vi-un-hacker-reconnait-six-infractions/",
+      "resume": "Le hacker impliqué dans la fuite de GTA VI reconnaît six infractions liées à plusieurs cyberattaques majeures.",
+      "date": "2026-11-18T10:22:51+00:00",
       "source": "ZATAZ",
+      "score": 2
+    },
+    {
+      "titre": "Ransomware : un suspect d’INC et Lynx extradé",
+      "lien": "https://www.zataz.com/ransomware-un-suspect-dinc-et-lynx-extrade/",
+      "resume": "Un suspect lié aux rançongiciels INC et Lynx comparaît aux États-Unis après une extradition depuis l'Italie.",
+      "date": "2026-11-18T10:05:56+00:00",
+      "source": "ZATAZ",
+      "score": 8
+    },
+    {
+      "titre": "Optimizely piraté, des géants du web exposés",
+      "lien": "https://www.zataz.com/optimizely-pirate-des-geants-du-web-exposes/",
+      "resume": "Optimizely victime d'une cyberattaque : 178 organisations touchées, données bancaires et appareils iOS menacés.",
+      "date": "2026-11-18T09:04:32+00:00",
+      "source": "ZATAZ",
+      "score": 2
+    },
+    {
+      "titre": "Vulnérabilité dans Oracle Java SE (18 novembre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/",
+      "resume": "Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulnérabilité CVE-2026-114938, surnommée *java4shell*, qui affecte le décodeur Base64 de OpenJDK sur les processeurs x86-64 supportant AVX-512 VBMI. Celle-ci permet à un attaquant de provoquer une exécution de",
+      "date": "2026-11-18T00:00:00+00:00",
+      "source": "CERT-FR (alertes)",
+      "score": 2
+    },
+    {
+      "titre": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "lien": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "resume": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+      "date": "2026-11-17T15:51:21-05:00",
+      "source": "BleepingComputer",
       "score": 2
     },
     {
@@ -99,28 +107,12 @@
       "score": 2
     },
     {
-      "titre": "Vulnérabilité dans NetApp ONTAP tools pour VMware vSphere 10 (12 novembre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1518/",
-      "resume": "Une vulnérabilité a été découverte dans NetApp ONTAP tools pour VMware vSphere 10. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
-      "date": "2026-11-12T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
-      "score": 2
-    },
-    {
       "titre": "Who Runs the Ransomware Group Qilin?",
       "lien": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
       "resume": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a fe",
       "date": "2026-11-11T18:06:01+00:00",
       "source": "Krebs on Security",
       "score": 7
-    },
-    {
-      "titre": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-      "lien": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-      "resume": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E",
-      "date": "2026-11-11T19:31:00+05:30",
-      "source": "The Hacker News",
-      "score": 2
     },
     {
       "titre": "Ransomware threat blares from Vanderbilt University computers during cyberattack",
@@ -145,14 +137,6 @@
       "date": "2026-10-21T00:00:00+00:00",
       "source": "CERT-FR (alertes)",
       "score": 2
-    },
-    {
-      "titre": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-      "lien": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "resume": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity ha",
-      "date": "2026-10-19T13:48:56+00:00",
-      "source": "Krebs on Security",
-      "score": 7
     }
   ]
 }
