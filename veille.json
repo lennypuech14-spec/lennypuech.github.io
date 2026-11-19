@@ -1,7 +1,87 @@
 {
-  "maj": "2026-11-18T14:42:37.130556+00:00",
+  "maj": "2026-11-19T14:49:15.188216+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Nvidia Responds to Gentlemen Ransomware Claim",
+      "lien": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
+      "resume": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek .",
+      "date": "2026-11-19T14:17:32+00:00",
+      "source": "SecurityWeek",
+      "score": 5
+    },
+    {
+      "titre": "Everything Is a Web Application, Including Your Firewall",
+      "lien": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+      "resume": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both fla",
+      "date": "2026-11-19T17:22:23+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Cyberattack on service provider exposes payee data at 40 Irish credit unions",
+      "lien": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979",
+      "resume": "Minister calls notification delay 'not acceptable' after October attack on Irish banking player Wellington IT came to light in November",
+      "date": "2026-11-19T12:45:00+01:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "NVIDIA investigating Gentlemen ransomware breach claims",
+      "lien": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+      "resume": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+      "date": "2026-11-19T04:23:21-05:00",
+      "source": "BleepingComputer",
+      "score": 5
+    },
+    {
+      "titre": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+      "lien": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerab",
+      "date": "2026-11-19T13:30:00+05:30",
+      "source": "The Hacker News",
+      "score": 5
+    },
+    {
+      "titre": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "lien": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "resume": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+      "date": "2026-11-18T18:08:33-05:00",
+      "source": "BleepingComputer",
+      "score": 5
+    },
+    {
+      "titre": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+      "lien": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+      "resume": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+      "date": "2026-11-18T14:39:33-05:00",
+      "source": "BleepingComputer",
+      "score": 3
+    },
+    {
+      "titre": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "lien": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+      "resume": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated",
+      "date": "2026-11-18T22:40:45+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Cyber insurers now want proof you can actually recover",
+      "lien": "https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325",
+      "resume": "PARTNER CONTENT: As carriers tighten underwriting, a backup job marked green is no longer enough. Here’s the evidence underwriters expect",
+      "date": "2026-11-18T17:00:00+01:00",
+      "source": "The Register (sécurité)",
+      "score": 3
+    },
+    {
+      "titre": "AI-powered cyber threats are changing the rules of enterprise recovery",
+      "lien": "https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515",
+      "resume": "SPONSORED POST: As cyberattacks become more sophisticated, organizations need to look beyond prevention and ensure they can recover critical data quickly and reliably",
+      "date": "2026-11-18T16:00:00+01:00",
+      "source": "The Register (sécurité)",
+      "score": 4
+    },
     {
       "titre": "Cyberattaque contre les douanes lituaniennes",
       "lien": "https://www.zataz.com/cyberattaque-contre-les-douanes-lituaniennes/",
@@ -43,11 +123,11 @@
       "score": 2
     },
     {
-      "titre": "Japan takes Fugaku supercomputer offlline after cyberattack",
-      "lien": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-      "resume": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
-      "date": "2026-11-17T15:51:21-05:00",
-      "source": "BleepingComputer",
+      "titre": "Multiples vulnérabilités dans F5 NGINX (18 novembre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-017/",
+      "resume": "Le 18 novembre 2026, F5 a publié deux avis de sécurité concernant les vulnérabilités CVE-2026-123633 et CVE-2026-123007. Celles-ci affectent NGINX Open Source et NGINX Plus permettent à un attaquant non authentifié d'exécuter du code à distance, en utilisant le protocole HTTP en ",
+      "date": "2026-11-18T00:00:00+00:00",
+      "source": "CERT-FR (alertes)",
       "score": 2
     },
     {
@@ -83,27 +163,11 @@
       "score": 2
     },
     {
-      "titre": "Multiples vulnérabilités dans VMware Tanzu Greenplum (13 novembre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1527/",
-      "resume": "De multiples vulnérabilités ont été découvertes dans VMware Tanzu Greenplum. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "date": "2026-11-13T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
-      "score": 2
-    },
-    {
       "titre": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
       "lien": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
       "resume": "Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks",
       "date": "2026-11-12T21:48:45+01:00",
       "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-      "lien": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-      "resume": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It ha",
-      "date": "2026-11-12T17:03:15+05:30",
-      "source": "The Hacker News",
       "score": 2
     },
     {

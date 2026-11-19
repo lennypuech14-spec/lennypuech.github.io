@@ -1,4 +1,74 @@
-# Veille du 18/11/2026 : ransomwares et résilience
+# Veille du 19/11/2026 : ransomwares et résilience
+
+## Nvidia Responds to Gentlemen Ransomware Claim
+- Source : SecurityWeek (19/11/2026)
+- Pertinence : 5
+- Lien : https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/
+
+Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek .
+
+## Everything Is a Web Application, Including Your Firewall
+- Source : The Hacker News (19/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/everything-is-web-application-including.html
+
+One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both fla
+
+## Cyberattack on service provider exposes payee data at 40 Irish credit unions
+- Source : The Register (sécurité) (19/11/2026)
+- Pertinence : 2
+- Lien : https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979
+
+Minister calls notification delay 'not acceptable' after October attack on Irish banking player Wellington IT came to light in November
+
+## NVIDIA investigating Gentlemen ransomware breach claims
+- Source : BleepingComputer (19/11/2026)
+- Pertinence : 5
+- Lien : https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/
+
+NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]
+
+## CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks
+- Source : The Hacker News (19/11/2026)
+- Pertinence : 5
+- Lien : https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerab
+
+## Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms
+- Source : BleepingComputer (18/11/2026)
+- Pertinence : 5
+- Lien : https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/
+
+Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]
+
+## Data breach impacts 40 Irish credit unions in reported IT provider hack
+- Source : BleepingComputer (18/11/2026)
+- Pertinence : 3
+- Lien : https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/
+
+A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]
+
+## Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required
+- Source : The Hacker News (18/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html
+
+A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated
+
+## Cyber insurers now want proof you can actually recover
+- Source : The Register (sécurité) (18/11/2026)
+- Pertinence : 3
+- Lien : https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325
+
+PARTNER CONTENT: As carriers tighten underwriting, a backup job marked green is no longer enough. Here’s the evidence underwriters expect
+
+## AI-powered cyber threats are changing the rules of enterprise recovery
+- Source : The Register (sécurité) (18/11/2026)
+- Pertinence : 4
+- Lien : https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515
+
+SPONSORED POST: As cyberattacks become more sophisticated, organizations need to look beyond prevention and ensure they can recover critical data quickly and reliably
 
 ## Cyberattaque contre les douanes lituaniennes
 - Source : ZATAZ (18/11/2026)
@@ -35,12 +105,12 @@ Optimizely victime d'une cyberattaque : 178 organisations touchées, données ba
 
 Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulnérabilité CVE-2026-114938, surnommée *java4shell*, qui affecte le décodeur Base64 de OpenJDK sur les processeurs x86-64 supportant AVX-512 VBMI. Celle-ci permet à un attaquant de provoquer une exécution de
 
-## Japan takes Fugaku supercomputer offlline after cyberattack
-- Source : BleepingComputer (17/11/2026)
+## Multiples vulnérabilités dans F5 NGINX (18 novembre 2026)
+- Source : CERT-FR (alertes) (18/11/2026)
 - Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/
+- Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-017/
 
-The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]
+Le 18 novembre 2026, F5 a publié deux avis de sécurité concernant les vulnérabilités CVE-2026-123633 et CVE-2026-123007. Celles-ci affectent NGINX Open Source et NGINX Plus permettent à un attaquant non authentifié d'exécuter du code à distance, en utilisant le protocole HTTP en 
 
 ## Vulnérabilité dans VMware Tanzu (16 novembre 2026)
 - Source : CERT-FR (avis) (16/11/2026)
@@ -70,26 +140,12 @@ An international police operation took down servers behind Gootloader, CastleRAT
 
 An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detai
 
-## Multiples vulnérabilités dans VMware Tanzu Greenplum (13 novembre 2026)
-- Source : CERT-FR (avis) (13/11/2026)
-- Pertinence : 2
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1527/
-
-De multiples vulnérabilités ont été découvertes dans VMware Tanzu Greenplum. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
-
 ## OpenAI launches security products, tells orgs they’re doomed if they don’t use them
 - Source : The Register (sécurité) (12/11/2026)
 - Pertinence : 2
 - Lien : https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500
 
 Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks
-
-## PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution
-- Source : The Hacker News (12/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html
-
-PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It ha
 
 ## Who Runs the Ransomware Group Qilin?
 - Source : Krebs on Security (11/11/2026)
