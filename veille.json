@@ -1,7 +1,127 @@
 {
-  "maj": "2026-11-19T14:49:15.188216+00:00",
+  "maj": "2026-11-20T14:30:20.678546+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "UK government can't keep its encryption-busting order to Apple a secret, tribunal rules",
+      "lien": "https://www.theregister.com/security/2026/11/20/uk-government-cant-keep-its-encryption-busting-order-to-apple-a-secret-tribunal-rules/5311292",
+      "resume": "Notice's existence can be acknowledged without harming national security, but its precise demands remain under wraps",
+      "date": "2026-11-20T13:18:19+01:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+      "lien": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+      "resume": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek .",
+      "date": "2026-11-20T10:51:42+00:00",
+      "source": "SecurityWeek",
+      "score": 3
+    },
+    {
+      "titre": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+      "lien": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+      "resume": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek .",
+      "date": "2026-11-20T10:34:10+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+      "lien": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+      "resume": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8)",
+      "date": "2026-11-20T15:08:15+05:30",
+      "source": "The Hacker News",
+      "score": 4
+    },
+    {
+      "titre": "N-able Blames Service Disruption on Cyberattack",
+      "lien": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+      "resume": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek .",
+      "date": "2026-11-20T09:08:35+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+      "lien": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
+      "resume": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on SecurityWeek .",
+      "date": "2026-11-20T07:35:46+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "VMware patches vCenter zero-day exploited in attacks since September",
+      "lien": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "resume": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+      "date": "2026-11-19T19:26:25-05:00",
+      "source": "BleepingComputer",
+      "score": 3
+    },
+    {
+      "titre": "Germ Network infects Android, but in a good way",
+      "lien": "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186",
+      "resume": "Bluesky's preferred encrypted messaging app allows multiple identities without tying you to a phone number",
+      "date": "2026-11-20T01:06:35+01:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "Multiples vulnérabilités dans les produits VMware (20 novembre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1598/",
+      "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection SQL (SQLi). Google et Mandiant indiquent que la vulné",
+      "date": "2026-11-20T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 2
+    },
+    {
+      "titre": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
+      "lien": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175",
+      "resume": "First service outages, then data breaches…what's next?!",
+      "date": "2026-11-19T22:12:33+01:00",
+      "source": "The Register (sécurité)",
+      "score": 3
+    },
+    {
+      "titre": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
+      "lien": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
+      "resume": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek .",
+      "date": "2026-11-19T19:21:06+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Nvidia adds possible hack to list of very bad things under investigation",
+      "lien": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
+      "resume": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked",
+      "date": "2026-11-19T19:52:53+01:00",
+      "source": "The Register (sécurité)",
+      "score": 5
+    },
+    {
+      "titre": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "lien": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+      "resume": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread ",
+      "date": "2026-11-20T00:17:58+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
+      "lien": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "resume": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no w",
+      "date": "2026-11-19T20:41:06+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Five warning signs of ransomware breach before encryption or data theft",
+      "lien": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+      "resume": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical sy",
+      "date": "2026-11-19T10:00:10-05:00",
+      "source": "BleepingComputer",
+      "score": 7
+    },
     {
       "titre": "Nvidia Responds to Gentlemen Ransomware Claim",
       "lien": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
@@ -43,20 +163,12 @@
       "score": 5
     },
     {
-      "titre": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-      "lien": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-      "resume": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
-      "date": "2026-11-18T18:08:33-05:00",
-      "source": "BleepingComputer",
-      "score": 5
-    },
-    {
-      "titre": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-      "lien": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-      "resume": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
-      "date": "2026-11-18T14:39:33-05:00",
-      "source": "BleepingComputer",
-      "score": 3
+      "titre": "Vulnérabilité dans VMware Tanzu (19 novembre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1568/",
+      "resume": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "date": "2026-11-19T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 2
     },
     {
       "titre": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
@@ -83,38 +195,6 @@
       "score": 4
     },
     {
-      "titre": "Cyberattaque contre les douanes lituaniennes",
-      "lien": "https://www.zataz.com/cyberattaque-contre-les-douanes-lituaniennes/",
-      "resume": "Une cyberattaque perturbe les douanes lituaniennes et pourrait exposer les données de centaines d'utilisateurs.",
-      "date": "2026-11-18T10:29:44+00:00",
-      "source": "ZATAZ",
-      "score": 2
-    },
-    {
-      "titre": "Piratage de GTA VI : un hacker reconnaît six infractions",
-      "lien": "https://www.zataz.com/piratage-de-gta-vi-un-hacker-reconnait-six-infractions/",
-      "resume": "Le hacker impliqué dans la fuite de GTA VI reconnaît six infractions liées à plusieurs cyberattaques majeures.",
-      "date": "2026-11-18T10:22:51+00:00",
-      "source": "ZATAZ",
-      "score": 2
-    },
-    {
-      "titre": "Ransomware : un suspect d’INC et Lynx extradé",
-      "lien": "https://www.zataz.com/ransomware-un-suspect-dinc-et-lynx-extrade/",
-      "resume": "Un suspect lié aux rançongiciels INC et Lynx comparaît aux États-Unis après une extradition depuis l'Italie.",
-      "date": "2026-11-18T10:05:56+00:00",
-      "source": "ZATAZ",
-      "score": 8
-    },
-    {
-      "titre": "Optimizely piraté, des géants du web exposés",
-      "lien": "https://www.zataz.com/optimizely-pirate-des-geants-du-web-exposes/",
-      "resume": "Optimizely victime d'une cyberattaque : 178 organisations touchées, données bancaires et appareils iOS menacés.",
-      "date": "2026-11-18T09:04:32+00:00",
-      "source": "ZATAZ",
-      "score": 2
-    },
-    {
       "titre": "Vulnérabilité dans Oracle Java SE (18 novembre 2026)",
       "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/",
       "resume": "Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulnérabilité CVE-2026-114938, surnommée *java4shell*, qui affecte le décodeur Base64 de OpenJDK sur les processeurs x86-64 supportant AVX-512 VBMI. Celle-ci permet à un attaquant de provoquer une exécution de",
@@ -128,38 +208,6 @@
       "resume": "Le 18 novembre 2026, F5 a publié deux avis de sécurité concernant les vulnérabilités CVE-2026-123633 et CVE-2026-123007. Celles-ci affectent NGINX Open Source et NGINX Plus permettent à un attaquant non authentifié d'exécuter du code à distance, en utilisant le protocole HTTP en ",
       "date": "2026-11-18T00:00:00+00:00",
       "source": "CERT-FR (alertes)",
-      "score": 2
-    },
-    {
-      "titre": "Vulnérabilité dans VMware Tanzu (16 novembre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1543/",
-      "resume": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "date": "2026-11-16T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
-      "score": 2
-    },
-    {
-      "titre": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-      "lien": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-      "resume": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile networ",
-      "date": "2026-11-13T19:24:20+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-      "lien": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-      "resume": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging ",
-      "date": "2026-11-13T16:25:03+05:30",
-      "source": "The Hacker News",
-      "score": 5
-    },
-    {
-      "titre": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "lien": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-      "resume": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detai",
-      "date": "2026-11-13T13:35:49+05:30",
-      "source": "The Hacker News",
       "score": 2
     },
     {
@@ -179,26 +227,10 @@
       "score": 7
     },
     {
-      "titre": "Ransomware threat blares from Vanderbilt University computers during cyberattack",
-      "lien": "https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687",
-      "resume": "BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain restricted, and classes carry on",
-      "date": "2026-11-10T14:00:00+01:00",
-      "source": "The Register (sécurité)",
-      "score": 7
-    },
-    {
       "titre": "[MàJ] Vulnérabilité dans OpenSSH (05 novembre 2026)",
       "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-015/",
       "resume": "[Mise à jour du 6 novembre 2026] Cette vulnérabilité porte l'identifiant CVE-2026-123158. Alpine a publié un bulletin de sécurité (cf. section Documentation) concernant cette vulnérabilité. Le CERT-FR précise que toute installation de correctif ou modification de la configuration",
       "date": "2026-11-05T00:00:00+00:00",
-      "source": "CERT-FR (alertes)",
-      "score": 2
-    },
-    {
-      "titre": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/",
-      "resume": "**[Mise à jour du 26 octobre 2026]** Le 23 octobre 2026, PHP a publié un avis de sécurité concernant la vulnérabilité CVE-2026-115560. Celle-ci permet une exécution de code arbitraire à distance. L'éditeur estime que les conditions d'exploitation exigent une combinaison d'options",
-      "date": "2026-10-21T00:00:00+00:00",
       "source": "CERT-FR (alertes)",
       "score": 2
     }
