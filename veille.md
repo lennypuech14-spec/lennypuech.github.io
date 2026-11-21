@@ -1,11 +1,60 @@
-# Veille du 20/11/2026 : ransomwares et résilience
+# Veille du 21/11/2026 : ransomwares et résilience
 
-## UK government can't keep its encryption-busting order to Apple a secret, tribunal rules
-- Source : The Register (sécurité) (20/11/2026)
+## Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX
+- Source : ZATAZ (21/11/2026)
 - Pertinence : 2
-- Lien : https://www.theregister.com/security/2026/11/20/uk-government-cant-keep-its-encryption-busting-order-to-apple-a-secret-tribunal-rules/5311292
+- Lien : https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/
 
-Notice's existence can be acknowledged without harming national security, but its precise demands remain under wraps
+ARTEX révèle comment l'IA accélère les cyberattaques, le vol de données et les intrusions. La boîte de Pandore 2.0 a-t-elle été ouverte ?
+
+## Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day
+- Source : SecurityWeek (21/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/
+
+A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .
+
+## CTO of ‘RansomwareHelp’ Indicted for Wire Fraud
+- Source : Krebs on Security (21/11/2026)
+- Pertinence : 6
+- Lien : https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/
+
+The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use "advanced cryptographic tools" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply p
+
+## WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams
+- Source : The Hacker News (20/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html
+
+Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplet
+
+## Hackers use autonomous AI tool Cairn to find zero-day, take over server
+- Source : BleepingComputer (20/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/
+
+Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]
+
+## WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign
+- Source : SecurityWeek (20/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/
+
+Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign appeared first on SecurityWeek .
+
+## Vendor data breach exposes Chase, Visa, Mastercard customer info
+- Source : BleepingComputer (20/11/2026)
+- Pertinence : 3
+- Lien : https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/
+
+J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]
+
+## In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit
+- Source : SecurityWeek (20/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/
+
+Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightma
 
 ## European Commission Confirms AI-Assisted Cyberattack Disrupted Services
 - Source : SecurityWeek (20/11/2026)
@@ -105,13 +154,6 @@ A critical flaw in VMware vCenter lets an attacker with network access bypass au
 
 Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical sy
 
-## Nvidia Responds to Gentlemen Ransomware Claim
-- Source : SecurityWeek (19/11/2026)
-- Pertinence : 5
-- Lien : https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/
-
-Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek .
-
 ## Everything Is a Web Application, Including Your Firewall
 - Source : The Hacker News (19/11/2026)
 - Pertinence : 2
@@ -125,13 +167,6 @@ One of the early targets of PHP2Shell exploitation was the firewall. On October 
 - Lien : https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979
 
 Minister calls notification delay 'not acceptable' after October attack on Irish banking player Wellington IT came to light in November
-
-## NVIDIA investigating Gentlemen ransomware breach claims
-- Source : BleepingComputer (19/11/2026)
-- Pertinence : 5
-- Lien : https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/
-
-NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]
 
 ## CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks
 - Source : The Hacker News (19/11/2026)

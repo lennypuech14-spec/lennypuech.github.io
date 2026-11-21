@@ -1,13 +1,69 @@
 {
-  "maj": "2026-11-20T14:30:20.678546+00:00",
+  "maj": "2026-11-21T13:49:14.099234+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
     {
-      "titre": "UK government can't keep its encryption-busting order to Apple a secret, tribunal rules",
-      "lien": "https://www.theregister.com/security/2026/11/20/uk-government-cant-keep-its-encryption-busting-order-to-apple-a-secret-tribunal-rules/5311292",
-      "resume": "Notice's existence can be acknowledged without harming national security, but its precise demands remain under wraps",
-      "date": "2026-11-20T13:18:19+01:00",
-      "source": "The Register (sécurité)",
+      "titre": "Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX",
+      "lien": "https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/",
+      "resume": "ARTEX révèle comment l'IA accélère les cyberattaques, le vol de données et les intrusions. La boîte de Pandore 2.0 a-t-elle été ouverte ?",
+      "date": "2026-11-21T13:39:38+00:00",
+      "source": "ZATAZ",
+      "score": 2
+    },
+    {
+      "titre": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+      "lien": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+      "resume": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .",
+      "date": "2026-11-21T12:08:50+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "lien": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "resume": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply p",
+      "date": "2026-11-21T00:36:39+00:00",
+      "source": "Krebs on Security",
+      "score": 6
+    },
+    {
+      "titre": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "lien": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "resume": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplet",
+      "date": "2026-11-20T23:27:20+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "lien": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "resume": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "date": "2026-11-20T12:30:00-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+      "lien": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+      "resume": "Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign appeared first on SecurityWeek .",
+      "date": "2026-11-20T16:01:02+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "lien": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "resume": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+      "date": "2026-11-20T10:58:06-05:00",
+      "source": "BleepingComputer",
+      "score": 3
+    },
+    {
+      "titre": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+      "lien": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+      "resume": "Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightma",
+      "date": "2026-11-20T14:56:23+00:00",
+      "source": "SecurityWeek",
       "score": 2
     },
     {
@@ -123,14 +179,6 @@
       "score": 7
     },
     {
-      "titre": "Nvidia Responds to Gentlemen Ransomware Claim",
-      "lien": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
-      "resume": "Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek .",
-      "date": "2026-11-19T14:17:32+00:00",
-      "source": "SecurityWeek",
-      "score": 5
-    },
-    {
       "titre": "Everything Is a Web Application, Including Your Firewall",
       "lien": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
       "resume": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both fla",
@@ -145,14 +193,6 @@
       "date": "2026-11-19T12:45:00+01:00",
       "source": "The Register (sécurité)",
       "score": 2
-    },
-    {
-      "titre": "NVIDIA investigating Gentlemen ransomware breach claims",
-      "lien": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-      "resume": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
-      "date": "2026-11-19T04:23:21-05:00",
-      "source": "BleepingComputer",
-      "score": 5
     },
     {
       "titre": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
