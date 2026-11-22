@@ -1,7 +1,15 @@
 {
-  "maj": "2026-11-21T13:49:14.099234+00:00",
+  "maj": "2026-11-22T13:42:50.668805+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "resume": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+      "date": "2026-11-21T13:01:58-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
     {
       "titre": "Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX",
       "lien": "https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/",
@@ -99,14 +107,6 @@
       "score": 2
     },
     {
-      "titre": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
-      "lien": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
-      "resume": "The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on SecurityWeek .",
-      "date": "2026-11-20T07:35:46+00:00",
-      "source": "SecurityWeek",
-      "score": 2
-    },
-    {
       "titre": "VMware patches vCenter zero-day exploited in attacks since September",
       "lien": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
       "resume": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
@@ -139,14 +139,6 @@
       "score": 3
     },
     {
-      "titre": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
-      "lien": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
-      "resume": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek .",
-      "date": "2026-11-19T19:21:06+00:00",
-      "source": "SecurityWeek",
-      "score": 2
-    },
-    {
       "titre": "Nvidia adds possible hack to list of very bad things under investigation",
       "lien": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
       "resume": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked",
@@ -169,14 +161,6 @@
       "date": "2026-11-19T20:41:06+05:30",
       "source": "The Hacker News",
       "score": 2
-    },
-    {
-      "titre": "Five warning signs of ransomware breach before encryption or data theft",
-      "lien": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "resume": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical sy",
-      "date": "2026-11-19T10:00:10-05:00",
-      "source": "BleepingComputer",
-      "score": 7
     },
     {
       "titre": "Everything Is a Web Application, Including Your Firewall",

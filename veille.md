@@ -1,4 +1,11 @@
-# Veille du 21/11/2026 : ransomwares et résilience
+# Veille du 22/11/2026 : ransomwares et résilience
+
+## Microsoft Entra Connect Health flaw exploited to steal tenant data
+- Source : BleepingComputer (21/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/
+
+Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]
 
 ## Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX
 - Source : ZATAZ (21/11/2026)
@@ -84,13 +91,6 @@ The suspected China-nexus cyber espionage group known as Armory Castle (formerly
 
 The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek .
 
-## JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak
-- Source : SecurityWeek (20/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/
-
-The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on SecurityWeek .
-
 ## VMware patches vCenter zero-day exploited in attacks since September
 - Source : BleepingComputer (19/11/2026)
 - Pertinence : 3
@@ -119,13 +119,6 @@ De multiples vulnérabilités ont été découvertes dans les produits VMware. C
 
 First service outages, then data breaches…what's next?!
 
-## Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT
-- Source : SecurityWeek (19/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/
-
-Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek .
-
 ## Nvidia adds possible hack to list of very bad things under investigation
 - Source : The Register (sécurité) (19/11/2026)
 - Pertinence : 5
@@ -146,13 +139,6 @@ The easiest way to fool someone is to give them something they already expect. A
 - Lien : https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html
 
 A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no w
-
-## Five warning signs of ransomware breach before encryption or data theft
-- Source : BleepingComputer (19/11/2026)
-- Pertinence : 7
-- Lien : https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/
-
-Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical sy
 
 ## Everything Is a Web Application, Including Your Firewall
 - Source : The Hacker News (19/11/2026)
