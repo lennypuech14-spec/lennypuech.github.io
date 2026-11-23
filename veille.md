@@ -1,4 +1,67 @@
-# Veille du 22/11/2026 : ransomwares et résilience
+# Veille du 23/11/2026 : ransomwares et résilience
+
+## N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack
+- Source : SecurityWeek (23/11/2026)
+- Pertinence : 3
+- Lien : https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/
+
+The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .
+
+## Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions
+- Source : The Hacker News (23/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html
+
+A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting bi
+
+## Norway links energy firm cyberattacks to critical Azure API Management flaw
+- Source : The Register (sécurité) (23/11/2026)
+- Pertinence : 2
+- Lien : https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598
+
+Microsoft says mitigation is in place, but admins must investigate possible compromise and rotate secrets
+
+## N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation
+- Source : The Hacker News (23/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html
+
+N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF) flaw.
+
+## BlackHat Sector : une IA offensive à louer pour 500 €
+- Source : ZATAZ (23/11/2026)
+- Pertinence : 2
+- Lien : https://www.zataz.com/blackhat-sector-une-ia-offensive-a-louer-pour-500-e/
+
+BlackHat Sector commercialise une IA offensive après des cyberattaques revendiquées contre des sociétés françaises.
+
+## Cyberattaque contre AAAEP : 585 000 personnes exposées ?
+- Source : ZATAZ (23/11/2026)
+- Pertinence : 2
+- Lien : https://www.zataz.com/cyberattaque-contre-aaaep-585-000-personnes-exposees/
+
+AAAEP visée par BlackHatSect0r : 585 000 personnes potentiellement concernées, données psychotechniques et appels exposés.
+
+## BlackHatSect0r : phishing bancaire, extorsion et industrie
+- Source : ZATAZ (23/11/2026)
+- Pertinence : 5
+- Lien : https://www.zataz.com/blackhatsect0r-phishing-bancaire-extorsion-et-industrie/
+
+BlackHatSect0r associe phishing bancaire, extorsion, destruction de sauvegardes et interfaces industrielles exposées.
+
+## Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE
+- Source : The Hacker News (23/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html
+
+Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf ("Idunno.AntiCsrf.dll") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914,
+
+## Cyberattaque à Chambourcy : INC Ransom revendique l’attaque
+- Source : ZATAZ (23/11/2026)
+- Pertinence : 4
+- Lien : https://www.zataz.com/cyberattaque-a-chambourcy-inc-ransom-revendique-lattaque/
+
+Cyberattaque à Chambourcy : INC Ransom revendique l'intrusion. ZATAZ révèle des documents de police municipale exposés.
 
 ## Microsoft Entra Connect Health flaw exploited to steal tenant data
 - Source : BleepingComputer (21/11/2026)
@@ -13,13 +76,6 @@ Microsoft is warning organizations that it suffered a data breach after attacker
 - Lien : https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/
 
 ARTEX révèle comment l'IA accélère les cyberattaques, le vol de données et les intrusions. La boîte de Pandore 2.0 a-t-elle été ouverte ?
-
-## Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day
-- Source : SecurityWeek (21/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/
-
-A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .
 
 ## CTO of ‘RansomwareHelp’ Indicted for Wire Fraud
 - Source : Krebs on Security (21/11/2026)
@@ -42,13 +98,6 @@ Meta-owned WhatsApp has addressed security vulnerabilities, including one impact
 
 Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]
 
-## WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign
-- Source : SecurityWeek (20/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/
-
-Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign appeared first on SecurityWeek .
-
 ## Vendor data breach exposes Chase, Visa, Mastercard customer info
 - Source : BleepingComputer (20/11/2026)
 - Pertinence : 3
@@ -56,47 +105,12 @@ Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security 
 
 J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]
 
-## In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit
-- Source : SecurityWeek (20/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/
-
-Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightma
-
-## European Commission Confirms AI-Assisted Cyberattack Disrupted Services
-- Source : SecurityWeek (20/11/2026)
-- Pertinence : 3
-- Lien : https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/
-
-The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek .
-
-## Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE
-- Source : SecurityWeek (20/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/
-
-Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek .
-
 ## China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data
 - Source : The Hacker News (20/11/2026)
 - Pertinence : 4
 - Lien : https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html
 
 The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8)
-
-## N-able Blames Service Disruption on Cyberattack
-- Source : SecurityWeek (20/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/
-
-The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek .
-
-## VMware patches vCenter zero-day exploited in attacks since September
-- Source : BleepingComputer (19/11/2026)
-- Pertinence : 3
-- Lien : https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/
-
-Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]
 
 ## Germ Network infects Android, but in a good way
 - Source : The Register (sécurité) (20/11/2026)
@@ -202,13 +216,6 @@ Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulné
 - Lien : https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-017/
 
 Le 18 novembre 2026, F5 a publié deux avis de sécurité concernant les vulnérabilités CVE-2026-123633 et CVE-2026-123007. Celles-ci affectent NGINX Open Source et NGINX Plus permettent à un attaquant non authentifié d'exécuter du code à distance, en utilisant le protocole HTTP en 
-
-## OpenAI launches security products, tells orgs they’re doomed if they don’t use them
-- Source : The Register (sécurité) (12/11/2026)
-- Pertinence : 2
-- Lien : https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500
-
-Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks
 
 ## Who Runs the Ransomware Group Qilin?
 - Source : Krebs on Security (11/11/2026)
