@@ -1,11 +1,60 @@
-# Veille du 23/11/2026 : ransomwares et résilience
+# Veille du 24/11/2026 : ransomwares et résilience
 
-## N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack
+## ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof
+- Source : BleepingComputer (24/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/
+
+The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]
+
+## European Commission Uncovers Data Breach in Cyberattack Investigation
+- Source : SecurityWeek (24/11/2026)
+- Pertinence : 3
+- Lien : https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/
+
+Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek .
+
+## VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation
+- Source : The Hacker News (24/11/2026)
+- Pertinence : 4
+- Lien : https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html
+
+Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out
+
+## Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site
+- Source : The Hacker News (24/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html
+
+A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of vo
+
+## European Commission confirms personal data stolen in AI-assisted cyberattack
+- Source : The Register (sécurité) (24/11/2026)
+- Pertinence : 2
+- Lien : https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834
+
+EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly
+
+## Microsoft Azure flaw exploited to steal customers' API credentials
+- Source : BleepingComputer (23/11/2026)
+- Pertinence : 3
+- Lien : https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/
+
+Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]
+
+## GlobeTopper loses $2.5 million after hackers steal $70k in gift cards
+- Source : BleepingComputer (23/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/
+
+A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]
+
+## N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack
 - Source : SecurityWeek (23/11/2026)
 - Pertinence : 3
 - Lien : https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/
 
-The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .
+The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek .
 
 ## Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions
 - Source : The Hacker News (23/11/2026)
@@ -63,13 +112,6 @@ Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET
 
 Cyberattaque à Chambourcy : INC Ransom revendique l'intrusion. ZATAZ révèle des documents de police municipale exposés.
 
-## Microsoft Entra Connect Health flaw exploited to steal tenant data
-- Source : BleepingComputer (21/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/
-
-Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]
-
 ## Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX
 - Source : ZATAZ (21/11/2026)
 - Pertinence : 2
@@ -90,20 +132,6 @@ The chief technology officer and co-founder of ransomwarehelp.com, a six year ol
 - Lien : https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html
 
 Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplet
-
-## Hackers use autonomous AI tool Cairn to find zero-day, take over server
-- Source : BleepingComputer (20/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/
-
-Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]
-
-## Vendor data breach exposes Chase, Visa, Mastercard customer info
-- Source : BleepingComputer (20/11/2026)
-- Pertinence : 3
-- Lien : https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/
-
-J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]
 
 ## China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data
 - Source : The Hacker News (20/11/2026)
@@ -174,13 +202,6 @@ Minister calls notification delay 'not acceptable' after October attack on Irish
 - Lien : https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html
 
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerab
-
-## Vulnérabilité dans VMware Tanzu (19 novembre 2026)
-- Source : CERT-FR (avis) (19/11/2026)
-- Pertinence : 2
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1568/
-
-Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.
 
 ## Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required
 - Source : The Hacker News (18/11/2026)

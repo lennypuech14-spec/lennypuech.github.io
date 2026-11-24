@@ -1,11 +1,67 @@
 {
-  "maj": "2026-11-23T16:41:55.879961+00:00",
+  "maj": "2026-11-24T16:38:03.430394+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
     {
-      "titre": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+      "titre": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+      "lien": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+      "resume": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+      "date": "2026-11-24T11:30:19-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+      "lien": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
+      "resume": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek .",
+      "date": "2026-11-24T14:49:59+00:00",
+      "source": "SecurityWeek",
+      "score": 3
+    },
+    {
+      "titre": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "lien": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "resume": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out",
+      "date": "2026-11-24T18:58:26+05:30",
+      "source": "The Hacker News",
+      "score": 4
+    },
+    {
+      "titre": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "lien": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+      "resume": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of vo",
+      "date": "2026-11-24T18:58:21+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+      "lien": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
+      "resume": "EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly",
+      "date": "2026-11-24T12:32:41+01:00",
+      "source": "The Register (sécurité)",
+      "score": 2
+    },
+    {
+      "titre": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "resume": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+      "date": "2026-11-23T14:42:20-05:00",
+      "source": "BleepingComputer",
+      "score": 3
+    },
+    {
+      "titre": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+      "lien": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+      "resume": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
+      "date": "2026-11-23T11:50:01-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
       "lien": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-      "resume": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .",
+      "resume": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek .",
       "date": "2026-11-23T15:06:49+00:00",
       "source": "SecurityWeek",
       "score": 3
@@ -75,14 +131,6 @@
       "score": 4
     },
     {
-      "titre": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-      "resume": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
-      "date": "2026-11-21T13:01:58-05:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
       "titre": "Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX",
       "lien": "https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/",
       "resume": "ARTEX révèle comment l'IA accélère les cyberattaques, le vol de données et les intrusions. La boîte de Pandore 2.0 a-t-elle été ouverte ?",
@@ -105,22 +153,6 @@
       "date": "2026-11-20T23:27:20+05:30",
       "source": "The Hacker News",
       "score": 2
-    },
-    {
-      "titre": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "lien": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "resume": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
-      "date": "2026-11-20T12:30:00-05:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-      "lien": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-      "resume": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
-      "date": "2026-11-20T10:58:06-05:00",
-      "source": "BleepingComputer",
-      "score": 3
     },
     {
       "titre": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
@@ -201,14 +233,6 @@
       "date": "2026-11-19T13:30:00+05:30",
       "source": "The Hacker News",
       "score": 5
-    },
-    {
-      "titre": "Vulnérabilité dans VMware Tanzu (19 novembre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1568/",
-      "resume": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "date": "2026-11-19T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
-      "score": 2
     },
     {
       "titre": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
