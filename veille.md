@@ -1,4 +1,60 @@
-# Veille du 24/11/2026 : ransomwares et résilience
+# Veille du 25/11/2026 : ransomwares et résilience
+
+## Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation
+- Source : The Hacker News (25/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026. The vulnerability, tracked as CVE-2026-1321
+
+## Plagiarism Checker Turnitin Investigating Cyberattack
+- Source : SecurityWeek (25/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/
+
+The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek .
+
+## Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion
+- Source : The Hacker News (25/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html
+
+Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to "numerous waves of vishing attacks" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts. The attacks have targeted financial services, he
+
+## Vulnérabilité dans Palo Alto Networks PAN-OS (25 novembre 2026)
+- Source : CERT-FR (avis) (25/11/2026)
+- Pertinence : 2
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1621/
+
+Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer une élévation de privilèges. Palo Alto Networks indique que la vulnérabilité CVE-2026-43600 est activement exploitée.
+
+## Multiples vulnérabilités dans les produits VMware (25 novembre 2026)
+- Source : CERT-FR (avis) (25/11/2026)
+- Pertinence : 2
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1622/
+
+De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
+
+## An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says
+- Source : SecurityWeek (24/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/
+
+It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek .
+
+## New Inception extortion gang launches large-scale vishing campaign
+- Source : BleepingComputer (24/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/
+
+A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]
+
+## Turnitin discloses cyberattack affecting customer-facing systems
+- Source : BleepingComputer (24/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/
+
+Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]
 
 ## ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof
 - Source : BleepingComputer (24/11/2026)
@@ -6,13 +62,6 @@
 - Lien : https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/
 
 The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]
-
-## European Commission Uncovers Data Breach in Cyberattack Investigation
-- Source : SecurityWeek (24/11/2026)
-- Pertinence : 3
-- Lien : https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/
-
-Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek .
 
 ## VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation
 - Source : The Hacker News (24/11/2026)
@@ -34,27 +83,6 @@ A threat cluster previously assessed to be affiliated with the ShinyHunters exto
 - Lien : https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834
 
 EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly
-
-## Microsoft Azure flaw exploited to steal customers' API credentials
-- Source : BleepingComputer (23/11/2026)
-- Pertinence : 3
-- Lien : https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/
-
-Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]
-
-## GlobeTopper loses $2.5 million after hackers steal $70k in gift cards
-- Source : BleepingComputer (23/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/
-
-A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]
-
-## N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack
-- Source : SecurityWeek (23/11/2026)
-- Pertinence : 3
-- Lien : https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/
-
-The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek .
 
 ## Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions
 - Source : The Hacker News (23/11/2026)
@@ -104,20 +132,6 @@ BlackHatSect0r associe phishing bancaire, extorsion, destruction de sauvegardes 
 - Lien : https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html
 
 Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf ("Idunno.AntiCsrf.dll") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914,
-
-## Cyberattaque à Chambourcy : INC Ransom revendique l’attaque
-- Source : ZATAZ (23/11/2026)
-- Pertinence : 4
-- Lien : https://www.zataz.com/cyberattaque-a-chambourcy-inc-ransom-revendique-lattaque/
-
-Cyberattaque à Chambourcy : INC Ransom revendique l'intrusion. ZATAZ révèle des documents de police municipale exposés.
-
-## Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX
-- Source : ZATAZ (21/11/2026)
-- Pertinence : 2
-- Lien : https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/
-
-ARTEX révèle comment l'IA accélère les cyberattaques, le vol de données et les intrusions. La boîte de Pandore 2.0 a-t-elle été ouverte ?
 
 ## CTO of ‘RansomwareHelp’ Indicted for Wire Fraud
 - Source : Krebs on Security (21/11/2026)
@@ -195,20 +209,6 @@ One of the early targets of PHP2Shell exploitation was the firewall. On October 
 - Lien : https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979
 
 Minister calls notification delay 'not acceptable' after October attack on Irish banking player Wellington IT came to light in November
-
-## CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks
-- Source : The Hacker News (19/11/2026)
-- Pertinence : 5
-- Lien : https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerab
-
-## Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required
-- Source : The Hacker News (18/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html
-
-A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated
 
 ## Cyber insurers now want proof you can actually recover
 - Source : The Register (sécurité) (18/11/2026)

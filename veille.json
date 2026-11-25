@@ -1,7 +1,71 @@
 {
-  "maj": "2026-11-24T16:38:03.430394+00:00",
+  "maj": "2026-11-25T16:21:06.911737+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+      "lien": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026. The vulnerability, tracked as CVE-2026-1321",
+      "date": "2026-11-25T16:53:26+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Plagiarism Checker Turnitin Investigating Cyberattack",
+      "lien": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
+      "resume": "The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek .",
+      "date": "2026-11-25T10:40:07+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+      "lien": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+      "resume": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts. The attacks have targeted financial services, he",
+      "date": "2026-11-25T12:07:06+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Vulnérabilité dans Palo Alto Networks PAN-OS (25 novembre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1621/",
+      "resume": "Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer une élévation de privilèges. Palo Alto Networks indique que la vulnérabilité CVE-2026-43600 est activement exploitée.",
+      "date": "2026-11-25T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 2
+    },
+    {
+      "titre": "Multiples vulnérabilités dans les produits VMware (25 novembre 2026)",
+      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1622/",
+      "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "date": "2026-11-25T00:00:00+00:00",
+      "source": "CERT-FR (avis)",
+      "score": 2
+    },
+    {
+      "titre": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+      "lien": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+      "resume": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek .",
+      "date": "2026-11-24T22:41:58+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "New Inception extortion gang launches large-scale vishing campaign",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "resume": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+      "date": "2026-11-24T15:21:20-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "lien": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "resume": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+      "date": "2026-11-24T13:59:52-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
     {
       "titre": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
       "lien": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
@@ -9,14 +73,6 @@
       "date": "2026-11-24T11:30:19-05:00",
       "source": "BleepingComputer",
       "score": 2
-    },
-    {
-      "titre": "European Commission Uncovers Data Breach in Cyberattack Investigation",
-      "lien": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
-      "resume": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek .",
-      "date": "2026-11-24T14:49:59+00:00",
-      "source": "SecurityWeek",
-      "score": 3
     },
     {
       "titre": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
@@ -41,30 +97,6 @@
       "date": "2026-11-24T12:32:41+01:00",
       "source": "The Register (sécurité)",
       "score": 2
-    },
-    {
-      "titre": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "lien": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-      "resume": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
-      "date": "2026-11-23T14:42:20-05:00",
-      "source": "BleepingComputer",
-      "score": 3
-    },
-    {
-      "titre": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-      "lien": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-      "resume": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-      "date": "2026-11-23T11:50:01-05:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
-      "lien": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-      "resume": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek .",
-      "date": "2026-11-23T15:06:49+00:00",
-      "source": "SecurityWeek",
-      "score": 3
     },
     {
       "titre": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
@@ -120,22 +152,6 @@
       "resume": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914,",
       "date": "2026-11-23T14:41:56+05:30",
       "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Cyberattaque à Chambourcy : INC Ransom revendique l’attaque",
-      "lien": "https://www.zataz.com/cyberattaque-a-chambourcy-inc-ransom-revendique-lattaque/",
-      "resume": "Cyberattaque à Chambourcy : INC Ransom revendique l'intrusion. ZATAZ révèle des documents de police municipale exposés.",
-      "date": "2026-11-23T00:36:24+00:00",
-      "source": "ZATAZ",
-      "score": 4
-    },
-    {
-      "titre": "Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX",
-      "lien": "https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/",
-      "resume": "ARTEX révèle comment l'IA accélère les cyberattaques, le vol de données et les intrusions. La boîte de Pandore 2.0 a-t-elle été ouverte ?",
-      "date": "2026-11-21T13:39:38+00:00",
-      "source": "ZATAZ",
       "score": 2
     },
     {
@@ -224,22 +240,6 @@
       "resume": "Minister calls notification delay 'not acceptable' after October attack on Irish banking player Wellington IT came to light in November",
       "date": "2026-11-19T12:45:00+01:00",
       "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "lien": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerab",
-      "date": "2026-11-19T13:30:00+05:30",
-      "source": "The Hacker News",
-      "score": 5
-    },
-    {
-      "titre": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "lien": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "resume": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated",
-      "date": "2026-11-18T22:40:45+05:30",
-      "source": "The Hacker News",
       "score": 2
     },
     {
