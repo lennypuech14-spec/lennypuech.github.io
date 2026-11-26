@@ -1,4 +1,60 @@
-# Veille du 25/11/2026 : ransomwares et résilience
+# Veille du 26/11/2026 : ransomwares et résilience
+
+## Wyoming uranium operation shuts down after cyberattack
+- Source : The Register (sécurité) (26/11/2026)
+- Pertinence : 2
+- Lien : https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323
+
+Peninsula Energy says plant and wellfield control systems were affected, with no restart date yet
+
+## Company was religious about backups but sinned by leaving them exposed
+- Source : The Register (sécurité) (26/11/2026)
+- Pertinence : 3
+- Lien : https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234
+
+Never put the backup server in the same Windows domain as production
+
+## Critical Juniper Session Smart Conductor Flaw Exploited in Attacks
+- Source : SecurityWeek (26/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/
+
+Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek .
+
+## Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks
+- Source : SecurityWeek (26/11/2026)
+- Pertinence : 3
+- Lien : https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/
+
+Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first on SecurityWeek .
+
+## Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation
+- Source : The Hacker News (26/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html
+
+Drupal has warned of a new "highly critical" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. 
+
+## Multiples vulnérabilités dans les produits Veeam (26 novembre 2026)
+- Source : CERT-FR (avis) (26/11/2026)
+- Pertinence : 3
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1629/
+
+De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur fournit également une mesure de contournement provisoire.
+
+## Vulnérabilité dans Drupal (26 novembre 2026)
+- Source : CERT-FR (avis) (26/11/2026)
+- Pertinence : 2
+- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1623/
+
+Une vulnérabilité a été découverte dans Drupal. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Drupal indique que la vulnérabilité CVE-2026-136716 est activement exploitée.
+
+## Italy and Switzerland warn of autonomous AI-driven cyberattacks
+- Source : BleepingComputer (25/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/
+
+Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]
 
 ## Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation
 - Source : The Hacker News (25/11/2026)
@@ -35,13 +91,6 @@ Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle per
 
 De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
 
-## An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says
-- Source : SecurityWeek (24/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/
-
-It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek .
-
 ## New Inception extortion gang launches large-scale vishing campaign
 - Source : BleepingComputer (24/11/2026)
 - Pertinence : 2
@@ -55,13 +104,6 @@ A newly formed data extortion group named 'Inception' has been linked to a large
 - Lien : https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/
 
 Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]
-
-## ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof
-- Source : BleepingComputer (24/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/
-
-The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]
 
 ## VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation
 - Source : The Hacker News (24/11/2026)
@@ -188,20 +230,6 @@ Ransomware group sets a deadline for the chipmaker to pay up - or see its data l
 - Lien : https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html
 
 The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread 
-
-## Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication
-- Source : The Hacker News (19/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html
-
-A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no w
-
-## Everything Is a Web Application, Including Your Firewall
-- Source : The Hacker News (19/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/everything-is-web-application-including.html
-
-One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both fla
 
 ## Cyberattack on service provider exposes payee data at 40 Irish credit unions
 - Source : The Register (sécurité) (19/11/2026)
