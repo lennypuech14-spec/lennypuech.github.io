@@ -1,7 +1,71 @@
 {
-  "maj": "2026-11-26T15:55:24.820463+00:00",
+  "maj": "2026-11-27T15:44:09.643738+00:00",
   "sujet": "Ransomwares et résilience des infrastructures",
   "articles": [
+    {
+      "titre": "US Air Force cloud platform reportedly hacked in latest federal breach",
+      "lien": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+      "resume": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+      "date": "2026-11-27T10:09:40-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+      "lien": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+      "resume": "Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware hacked. The post In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities appeared ",
+      "date": "2026-11-27T11:00:00+00:00",
+      "source": "SecurityWeek",
+      "score": 7
+    },
+    {
+      "titre": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "lien": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "resume": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+      "date": "2026-11-27T03:06:58-05:00",
+      "source": "BleepingComputer",
+      "score": 2
+    },
+    {
+      "titre": "Hex Package Manager Warns of Potential Data Breach",
+      "lien": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+      "resume": "A vulnerability in hex.pm allowed hackers to run commands on web servers. No evidence of data modification was found, but database reads are not logged. The post Hex Package Manager Warns of Potential Data Breach appeared first on SecurityWeek .",
+      "date": "2026-11-27T07:44:49+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+      "lien": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+      "resume": "SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code. The post SAP Confirms Cyberattack, Source Code Reportedly Compromised appeared first on SecurityWeek .",
+      "date": "2026-11-27T07:36:14+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
+    {
+      "titre": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "lien": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "resume": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted critical infrastructure operators, and two o",
+      "date": "2026-11-27T11:34:20+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "lien": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "resume": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, has been tracked as 4HTTP2SHELL a",
+      "date": "2026-11-27T11:18:20+05:30",
+      "source": "The Hacker News",
+      "score": 2
+    },
+    {
+      "titre": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
+      "lien": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+      "resume": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’ appeared first on SecurityWeek .",
+      "date": "2026-11-26T17:06:55+00:00",
+      "source": "SecurityWeek",
+      "score": 2
+    },
     {
       "titre": "Wyoming uranium operation shuts down after cyberattack",
       "lien": "https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323",
@@ -59,27 +123,11 @@
       "score": 2
     },
     {
-      "titre": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-      "lien": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-      "resume": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
-      "date": "2026-11-25T14:39:31-05:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
       "titre": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
       "lien": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
       "resume": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026. The vulnerability, tracked as CVE-2026-1321",
       "date": "2026-11-25T16:53:26+05:30",
       "source": "The Hacker News",
-      "score": 2
-    },
-    {
-      "titre": "Plagiarism Checker Turnitin Investigating Cyberattack",
-      "lien": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
-      "resume": "The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek .",
-      "date": "2026-11-25T10:40:07+00:00",
-      "source": "SecurityWeek",
       "score": 2
     },
     {
@@ -104,22 +152,6 @@
       "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "date": "2026-11-25T00:00:00+00:00",
       "source": "CERT-FR (avis)",
-      "score": 2
-    },
-    {
-      "titre": "New Inception extortion gang launches large-scale vishing campaign",
-      "lien": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-      "resume": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-      "date": "2026-11-24T15:21:20-05:00",
-      "source": "BleepingComputer",
-      "score": 2
-    },
-    {
-      "titre": "Turnitin discloses cyberattack affecting customer-facing systems",
-      "lien": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-      "resume": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
-      "date": "2026-11-24T13:59:52-05:00",
-      "source": "BleepingComputer",
       "score": 2
     },
     {
@@ -219,27 +251,11 @@
       "score": 2
     },
     {
-      "titre": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "lien": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "resume": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8)",
-      "date": "2026-11-20T15:08:15+05:30",
-      "source": "The Hacker News",
-      "score": 4
-    },
-    {
       "titre": "Germ Network infects Android, but in a good way",
       "lien": "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186",
       "resume": "Bluesky's preferred encrypted messaging app allows multiple identities without tying you to a phone number",
       "date": "2026-11-20T01:06:35+01:00",
       "source": "The Register (sécurité)",
-      "score": 2
-    },
-    {
-      "titre": "Multiples vulnérabilités dans les produits VMware (20 novembre 2026)",
-      "lien": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1598/",
-      "resume": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection SQL (SQLi). Google et Mandiant indiquent que la vulné",
-      "date": "2026-11-20T00:00:00+00:00",
-      "source": "CERT-FR (avis)",
       "score": 2
     },
     {
@@ -259,14 +275,6 @@
       "score": 5
     },
     {
-      "titre": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "lien": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "resume": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread ",
-      "date": "2026-11-20T00:17:58+05:30",
-      "source": "The Hacker News",
-      "score": 2
-    },
-    {
       "titre": "Cyberattack on service provider exposes payee data at 40 Irish credit unions",
       "lien": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979",
       "resume": "Minister calls notification delay 'not acceptable' after October attack on Irish banking player Wellington IT came to light in November",
@@ -281,14 +289,6 @@
       "date": "2026-11-18T17:00:00+01:00",
       "source": "The Register (sécurité)",
       "score": 3
-    },
-    {
-      "titre": "AI-powered cyber threats are changing the rules of enterprise recovery",
-      "lien": "https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515",
-      "resume": "SPONSORED POST: As cyberattacks become more sophisticated, organizations need to look beyond prevention and ensure they can recover critical data quickly and reliably",
-      "date": "2026-11-18T16:00:00+01:00",
-      "source": "The Register (sécurité)",
-      "score": 4
     },
     {
       "titre": "Vulnérabilité dans Oracle Java SE (18 novembre 2026)",

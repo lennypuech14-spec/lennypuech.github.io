@@ -1,4 +1,60 @@
-# Veille du 26/11/2026 : ransomwares et résilience
+# Veille du 27/11/2026 : ransomwares et résilience
+
+## US Air Force cloud platform reportedly hacked in latest federal breach
+- Source : BleepingComputer (27/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/
+
+Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]
+
+## In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities
+- Source : SecurityWeek (27/11/2026)
+- Pertinence : 7
+- Lien : https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/
+
+Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware hacked. The post In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities appeared 
+
+## New NFS2ROOT Linux flaw can let attackers gain root privileges
+- Source : BleepingComputer (27/11/2026)
+- Pertinence : 2
+- Lien : https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/
+
+​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]
+
+## Hex Package Manager Warns of Potential Data Breach
+- Source : SecurityWeek (27/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/
+
+A vulnerability in hex.pm allowed hackers to run commands on web servers. No evidence of data modification was found, but database reads are not logged. The post Hex Package Manager Warns of Potential Data Breach appeared first on SecurityWeek .
+
+## SAP Confirms Cyberattack, Source Code Reportedly Compromised
+- Source : SecurityWeek (27/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/
+
+SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code. The post SAP Confirms Cyberattack, Source Code Reportedly Compromised appeared first on SecurityWeek .
+
+## Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators
+- Source : The Hacker News (27/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html
+
+Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted critical infrastructure operators, and two o
+
+## Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access
+- Source : The Hacker News (27/11/2026)
+- Pertinence : 2
+- Lien : https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html
+
+Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution. The proof-of-concept (PoC) exploit, which has yet to be assigned a CVE identifier, has been tracked as 4HTTP2SHELL a
+
+## FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’
+- Source : SecurityWeek (26/11/2026)
+- Pertinence : 2
+- Lien : https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/
+
+FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’ appeared first on SecurityWeek .
 
 ## Wyoming uranium operation shuts down after cyberattack
 - Source : The Register (sécurité) (26/11/2026)
@@ -49,26 +105,12 @@ De multiples vulnérabilités ont été découvertes dans les produits Veeam. El
 
 Une vulnérabilité a été découverte dans Drupal. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Drupal indique que la vulnérabilité CVE-2026-136716 est activement exploitée.
 
-## Italy and Switzerland warn of autonomous AI-driven cyberattacks
-- Source : BleepingComputer (25/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/
-
-Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]
-
 ## Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation
 - Source : The Hacker News (25/11/2026)
 - Pertinence : 2
 - Lien : https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html
 
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026. The vulnerability, tracked as CVE-2026-1321
-
-## Plagiarism Checker Turnitin Investigating Cyberattack
-- Source : SecurityWeek (25/11/2026)
-- Pertinence : 2
-- Lien : https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/
-
-The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek .
 
 ## Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion
 - Source : The Hacker News (25/11/2026)
@@ -90,20 +132,6 @@ Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle per
 - Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1622/
 
 De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
-
-## New Inception extortion gang launches large-scale vishing campaign
-- Source : BleepingComputer (24/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/
-
-A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]
-
-## Turnitin discloses cyberattack affecting customer-facing systems
-- Source : BleepingComputer (24/11/2026)
-- Pertinence : 2
-- Lien : https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/
-
-Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]
 
 ## VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation
 - Source : The Hacker News (24/11/2026)
@@ -189,26 +217,12 @@ The chief technology officer and co-founder of ransomwarehelp.com, a six year ol
 
 Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplet
 
-## China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data
-- Source : The Hacker News (20/11/2026)
-- Pertinence : 4
-- Lien : https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html
-
-The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8)
-
 ## Germ Network infects Android, but in a good way
 - Source : The Register (sécurité) (20/11/2026)
 - Pertinence : 2
 - Lien : https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186
 
 Bluesky's preferred encrypted messaging app allows multiple identities without tying you to a phone number
-
-## Multiples vulnérabilités dans les produits VMware (20 novembre 2026)
-- Source : CERT-FR (avis) (20/11/2026)
-- Pertinence : 2
-- Lien : https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1598/
-
-De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection SQL (SQLi). Google et Mandiant indiquent que la vulné
 
 ## Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info
 - Source : The Register (sécurité) (19/11/2026)
@@ -224,13 +238,6 @@ First service outages, then data breaches…what's next?!
 
 Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked
 
-## ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories
-- Source : The Hacker News (20/11/2026)
-- Pertinence : 2
-- Lien : https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html
-
-The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread 
-
 ## Cyberattack on service provider exposes payee data at 40 Irish credit unions
 - Source : The Register (sécurité) (19/11/2026)
 - Pertinence : 2
@@ -244,13 +251,6 @@ Minister calls notification delay 'not acceptable' after October attack on Irish
 - Lien : https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325
 
 PARTNER CONTENT: As carriers tighten underwriting, a backup job marked green is no longer enough. Here’s the evidence underwriters expect
-
-## AI-powered cyber threats are changing the rules of enterprise recovery
-- Source : The Register (sécurité) (18/11/2026)
-- Pertinence : 4
-- Lien : https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515
-
-SPONSORED POST: As cyberattacks become more sophisticated, organizations need to look beyond prevention and ensure they can recover critical data quickly and reliably
 
 ## Vulnérabilité dans Oracle Java SE (18 novembre 2026)
 - Source : CERT-FR (alertes) (18/11/2026)
